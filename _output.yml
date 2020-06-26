@@ -1,0 +1,15 @@
+bookdown::gitbook: 
+  toc_depth: 2
+  includes:
+    in_header: [hypothesis.html, google-analytics.html, anchor-links.html]
+    before_body: consulta-publica.html
+  config:
+    sharing: no
+    toc:
+      before: |
+        <li><strong><a href="./">Guia de Transparência Ativa</a></strong></li>
+      after: |
+        <li><a href="https://github.com/transparencia-mg/guia-transparencia-ativa/blob/master/terms-of-use.md" target="blank">Termos de Uso</a></li>
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Criado com bookdown</a></li>
+  css: style.css
+  split_by: "rmd"
