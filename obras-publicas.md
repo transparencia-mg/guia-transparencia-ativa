@@ -32,3 +32,7 @@
 > - Projeto Básico (link para acesso ao documento)
 > - Projeto Executivo (link para acesso ao documento)
 > - Relatório Trimestral (número e link para acesso ao relatório)
+
+**OBSERVAÇÃO:** Na ausência de Obras Públicas em andamento, o órgão ou entidade deverá informar que no momento não existem obras públicas em andamento. 
+
+> - O(a) (NOME DO ÓRGÃO/ENTIDADE) não possui obras públicas em andamento.
