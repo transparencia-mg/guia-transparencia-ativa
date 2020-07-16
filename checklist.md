@@ -1,4 +1,4 @@
-# CHECKLIST
+# CHECKLIST 
 
 ### AVALIAÇÃO DA TRANSPARÊNCIA ATIVA DOS ÓRGÃOS E ENTIDADES {.unlisted .unnumbered}
 
@@ -182,7 +182,7 @@
 * Dentro do menu "Transparência": tem o item "Concursos Públicos"
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
-* Dentro do item "Concursos Públicos": tem o texto explicativo sobre Pessoal
+* Dentro do item "Concursos Públicos": tem o texto explicativo sobre Concursos Públicos
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
 * Dentro do item "Concursos Públicos": tem o link para a consulta de Concursos Realizados  direcionando adequadamente para o Portal da Transparência
