@@ -27,4 +27,4 @@
 > - Fundos Vinculados
 > - Ações de promoção da Cidadania
 >
-> Conheça os demias Conselhos de Políticas Públicas do Estado de Minas Gerais. Acesse o [Portal dos Conselhos](http://portaldosconselhos.cge.mg.gov.br/) e faça parte da construção de políticas públicas de seu interesse!
+> Conheça os demais Conselhos de Políticas Públicas do Estado de Minas Gerais. Acesse o [Portal dos Conselhos](http://portaldosconselhos.cge.mg.gov.br/) e faça parte da construção de políticas públicas de seu interesse!
