@@ -1,6 +1,7 @@
 ---
 title: "Guia de Transparência Ativa"
 author: "Diretoria Central de Transparência Ativa"
+date: "Última atualização `r format(Sys.time(), '%d/%m/%Y')`"
 site: bookdown::bookdown_site
 documentclass: book
 github-repo: transparencia-mg/guia-transparencia-ativa
