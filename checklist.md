@@ -21,8 +21,8 @@
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
 * No Menu **Transparência** tem o texto padrão sobre o Menu Transparência?
-    * ATENDE TOTALMENTE
-    * NÃO ATENDE
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
 
 #### SERVIÇO DE INFORMAÇÃO AO CIDADÃO {.unlisted .unnumbered}
 
