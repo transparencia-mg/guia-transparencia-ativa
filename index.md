@@ -20,4 +20,4 @@ Assim, a intenção deste Guia de Transparência Ativa dos sites oficiais do Pod
 
 Tendo em vista as exigências previstas nas normas supramencionadas, reforça-se a importância de os órgãos e entidades revisarem e incrementarem o conteúdo da seção/menu *Transparência* de seus sítios eletrônicos. 
 
-A Controladoria-Geral do Estado (CGE), por meio da Superintendência Central de Transparência Ativa, coloca-se à disposição para esclarecer dúvidas sobre as regras e diretrizes definidas neste guia.
+A Controladoria-Geral do Estado (CGE), por meio da Superintendência Central de Transparência, coloca-se à disposição para esclarecer dúvidas sobre as regras e diretrizes definidas neste guia.
