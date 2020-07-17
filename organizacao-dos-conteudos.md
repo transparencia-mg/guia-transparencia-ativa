@@ -34,4 +34,4 @@ Além dos itens obrigatórios, o órgão e entidade deve disponibilizar, no menu
 
 Como ferramenta de apoio para os órgãos e entidades, apresentamos neste guia para cada item do menu **Transparência**, os objetivos e os impactos desejados com a criação do item, a legislação de referência, a frequência de atualização do item, quando aplicável, e, o texto padrão contendo a descrição do item que poderá ser utilizado pelo órgão ou entidade que assim o desejar.
 
-Este Guia deve ser utilizado junto com o ***checklist*** disponibilizado pela Controladoria Geral do Estado, por meio da Subcontroladoria de Transparência e Integridade.
+Este Guia deve ser utilizado junto com o ***[checklist](https://forms.gle/x6rd1aGHzknH8y5m8)*** disponibilizado pela Controladoria Geral do Estado, por meio da Subcontroladoria de Transparência e Integridade.
