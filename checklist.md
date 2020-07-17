@@ -20,7 +20,7 @@
 * O link do Menu **Transparência** está funcionando corretamente?
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
-* No Menu **Transparência** tem o texto padrão sobre a seção Transparência?
+* No Menu **Transparência** tem o texto padrão sobre o Menu Transparência?
     * ATENDE TOTALMENTE
     * NÃO ATENDE
 
@@ -44,7 +44,7 @@
 
 #### INFORMAÇÕES CLASSIFICADAS E DESCLASSIFICADAS {.unlisted .unnumbered}
 
-* No menu "Transparência": tem o item "Informações Classificação e Desclassificadas"		
+* No menu "Transparência": tem o item "Informações Classificadas e Desclassificadas"		
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
 * Dentro do item "Informações Classificadas e Desclassificadas": tem o texto explicativo sobre classificação e desclassificação de informações
@@ -100,11 +100,11 @@
 * Dentro do menu "Transparência" tem o item "Obras Públicas"
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
-* Dentro do item "Obras Públicas": tem informações sobre as obras públicas em andamento no órgão ou entidade, como: objeto, contrato, termo aditivo, projeto básico, projeto executivo e relatório trimestral para os órgãos/entidades que possuem obras em andamento
+* Para órgãos/entidades que possuem obras em andamento: Dentro do item "Obras Públicas": tem informações sobre as obras públicas em andamento no órgão ou entidade, como: objeto, contrato, termo aditivo, projeto básico, projeto executivo e relatório trimestral para os órgãos/entidades que possuem obras em andamento
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
     * [ ] NÃO SE APLICA
-* Dentro do item "Obras Públicas": tem a informação de que não existirem obras em andamento para órgãos/entidades que não possuem obras em andamento.
+* Para órgãos e entidades que não possuem obras em andamento: Dentro do item "Obras Públicas": tem a informação de que não existirem obras em andamento para órgãos/entidades que não possuem obras em andamento.
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
     * [ ] NÃO SE APLICA
