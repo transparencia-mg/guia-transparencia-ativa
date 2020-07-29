@@ -20,4 +20,4 @@ governamentais.
 
 > Dados abertos governamentais são os dados públicos, produzidos ou sob a tutela do governo, que são disponibilizados ao cidadão em formato bruto e aberto, compreensíveis logicamente, de modo a permitir sua reutilização em aplicações desenvolvidas pela sociedade.
 >
-> O Estado de Minas Gerais, por meio do [Portal Dados Abertos](http://www.transparencia.mg.gov.br/dados-abertos) disponibiliza a sociedade as bases de dados em formato aberto, os quais podem ser utilizados, modificados e compartilhados.
+> O Estado de Minas Gerais, por meio do Portal de Dados Abertos disponibiliza a sociedade as bases de dados em formato aberto, os quais podem ser utilizados, modificados e compartilhados.
