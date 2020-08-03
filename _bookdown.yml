@@ -1,7 +1,9 @@
 output_dir: "public"
+book_filename: "guia-transparencia-ativa.Rmd"
 view: https://github.com/transparencia-mg/guia-transparencia-ativa/blob/master/%s
 edit: https://github.com/transparencia-mg/guia-transparencia-ativa/edit/master/%s
 history: https://github.com/transparencia-mg/guia-transparencia-ativa/commits/master/%s
+download: ["pdf"]
 rmd_files: ["index.md",  
             "organizacao-dos-conteudos.md",
             "menu-transparencia.md",

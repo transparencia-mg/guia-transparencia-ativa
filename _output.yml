@@ -12,3 +12,5 @@ bookdown::gitbook:
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Criado com bookdown</a></li>
   css: style.css
   split_by: "rmd"
+bookdown::pdf_book:
+  keep_tex: yes
