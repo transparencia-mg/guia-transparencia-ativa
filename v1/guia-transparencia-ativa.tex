@@ -1,43 +1,56 @@
-\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[]{book}
+\documentclass[
+]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provides euro and other symbols
-\else % if luatex or xelatex
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
   \usepackage{unicode-math}
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 \fi
-% use upquote if available, for straight quotes in verbatim environments
+% Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage[]{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\usepackage{hyperref}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-            pdftitle={Guia de Transparência Ativa},
-            pdfauthor={Diretoria Central de Transparência Ativa},
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
+  pdftitle={Guia de Transparência Ativa},
+  pdfauthor={Diretoria Central de Transparência Ativa},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
-% Fix footnotes in tables (requires footnote package)
-\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
-\usepackage{graphicx,grffile}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -46,29 +59,18 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{5}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-% set default figure placement to htbp
+% Set default figure placement to htbp
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
-
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
 
 \title{Guia de Transparência Ativa}
 \author{Diretoria Central de Transparência Ativa}
-\date{Última atualização 03/08/2020}
+\date{Última atualização 07/08/2020}
 
 \begin{document}
 \maketitle
@@ -1289,7 +1291,6 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
 \hypertarget{avaliauxe7uxe3o-da-transparuxeancia-ativa-dos-uxf3rguxe3os-e-entidades}{%
 \subsection*{AVALIAÇÃO DA TRANSPARÊNCIA ATIVA DOS ÓRGÃOS E ENTIDADES}\label{avaliauxe7uxe3o-da-transparuxeancia-ativa-dos-uxf3rguxe3os-e-entidades}}
-\addcontentsline{toc}{subsection}{AVALIAÇÃO DA TRANSPARÊNCIA ATIVA DOS ÓRGÃOS E ENTIDADES}
 
 \textbf{IMPORTANTE:} A avaliação do sítio eletrônico deve ser iniciada e finalizada no mesmo dia
 
@@ -1308,16 +1309,15 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} SIM
-  \item
-    {[} {]} NÃO
+  \item[$\square$]
+    SIM
+  \item[$\square$]
+    NÃO
   \end{itemize}
 \end{itemize}
 
 \hypertarget{menu-transparuxeancia-1}{%
 \subsubsection*{MENU TRANSPARÊNCIA}\label{menu-transparuxeancia-1}}
-\addcontentsline{toc}{subsubsection}{MENU TRANSPARÊNCIA}
 
 \begin{itemize}
 \tightlist
@@ -1326,36 +1326,35 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   O link do Menu \textbf{Transparência} está funcionando corretamente?
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   No Menu \textbf{Transparência} tem o texto padrão sobre o Menu Transparência?
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \end{itemize}
 
 \hypertarget{serviuxe7o-de-informauxe7uxe3o-ao-cidaduxe3o-1}{%
 \subsubsection*{SERVIÇO DE INFORMAÇÃO AO CIDADÃO}\label{serviuxe7o-de-informauxe7uxe3o-ao-cidaduxe3o-1}}
-\addcontentsline{toc}{subsubsection}{SERVIÇO DE INFORMAÇÃO AO CIDADÃO}
 
 \begin{itemize}
 \tightlist
@@ -1364,56 +1363,55 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do Item ``Serviço de Informação ao Cidadão'': tem o texto explicativo sobre a LAI
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do Item ``Serviço de Informação ao Cidadão'': tem o link para realizar solicitação de acesso à informação (e-SIC), direcionando corretamente para a página do e-SIC do Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do Item ``Serviço de Informação ao Cidadão'': tem o link para acessar os relatórios dos pedidos de acesso à informação, direcionando corretamente para a página dos relatórios dos pedidos do Portal da Transparência.
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do Item ``Serviço de Informação ao Cidadão'': tem informações sobre o responsável pelo e-SIC no órgão/entidade, com dados de nome, telefone e e-mail para contato?
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \end{itemize}
 
 \hypertarget{informauxe7uxf5es-classificadas-e-desclassificadas-1}{%
 \subsubsection*{INFORMAÇÕES CLASSIFICADAS E DESCLASSIFICADAS}\label{informauxe7uxf5es-classificadas-e-desclassificadas-1}}
-\addcontentsline{toc}{subsubsection}{INFORMAÇÕES CLASSIFICADAS E DESCLASSIFICADAS}
 
 \begin{itemize}
 \tightlist
@@ -1422,26 +1420,25 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Informações Classificadas e Desclassificadas'': tem o texto explicativo sobre classificação e desclassificação de informações
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \end{itemize}
 
 \hypertarget{informauxe7uxf5es-classificadas-e-desclassificadas---para-uxf3rguxe3os-que-possuem-informauxe7uxf5es-classificadas-e-desclassificadas}{%
 \subsubsection*{INFORMAÇÕES CLASSIFICADAS E DESCLASSIFICADAS - para órgãos que POSSUEM informações Classificadas e Desclassificadas}\label{informauxe7uxf5es-classificadas-e-desclassificadas---para-uxf3rguxe3os-que-possuem-informauxe7uxf5es-classificadas-e-desclassificadas}}
-\addcontentsline{toc}{subsubsection}{INFORMAÇÕES CLASSIFICADAS E DESCLASSIFICADAS - para órgãos que POSSUEM informações Classificadas e Desclassificadas}
 
 \begin{itemize}
 \tightlist
@@ -1450,30 +1447,29 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Informações Classificadas e Desclassificadas'': consta a data da última atualização das informações classificadas e desclassificadas
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \end{itemize}
 
 \hypertarget{informauxe7uxf5es-classificadas-e-desclassificadas---para-uxf3rguxe3os-que-nuxe3o-possuem-informauxe7uxf5es-classificadas-e-desclassificadas}{%
 \subsubsection*{INFORMAÇÕES CLASSIFICADAS E DESCLASSIFICADAS - para órgãos que NÃO POSSUEM informações Classificadas e Desclassificadas}\label{informauxe7uxf5es-classificadas-e-desclassificadas---para-uxf3rguxe3os-que-nuxe3o-possuem-informauxe7uxf5es-classificadas-e-desclassificadas}}
-\addcontentsline{toc}{subsubsection}{INFORMAÇÕES CLASSIFICADAS E DESCLASSIFICADAS - para órgãos que NÃO POSSUEM informações Classificadas e Desclassificadas}
 
 \begin{itemize}
 \tightlist
@@ -1482,30 +1478,29 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Informações Classificadas e Desclassificadas'': consta a data da última atualização das informações classificadas e desclassificadas
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \end{itemize}
 
 \hypertarget{programas-e-auxe7uxf5es-1}{%
 \subsubsection*{PROGRAMAS E AÇÕES}\label{programas-e-auxe7uxf5es-1}}
-\addcontentsline{toc}{subsubsection}{PROGRAMAS E AÇÕES}
 
 \begin{itemize}
 \tightlist
@@ -1514,56 +1509,55 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Programas e Ações'': tem o link para a página da consulta de Programação e Execução do PPAG por programa do Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Programas e Ações'': tem o documento do PPAG ou link correto para a página da SEPLAG
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Programas e Ações'': tem o documento da LDO ou link correto para a página da SEPLAG
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Programas e Ações'': tem o documento da LOA ou link correto para a página da SEPLAG
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \end{itemize}
 
 \hypertarget{obras-puxfablicas-1}{%
 \subsubsection*{OBRAS PÚBLICAS}\label{obras-puxfablicas-1}}
-\addcontentsline{toc}{subsubsection}{OBRAS PÚBLICAS}
 
 \begin{itemize}
 \tightlist
@@ -1572,40 +1566,39 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Para órgãos/entidades que possuem obras em andamento: Dentro do item ``Obras Públicas'': tem informações sobre as obras públicas em andamento no órgão ou entidade, como: objeto, contrato, termo aditivo, projeto básico, projeto executivo e relatório trimestral para os órgãos/entidades que possuem obras em andamento
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Para órgãos e entidades que não possuem obras em andamento: Dentro do item ``Obras Públicas'': tem a informação de que não existirem obras em andamento para órgãos/entidades que não possuem obras em andamento.
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \end{itemize}
 
 \hypertarget{despesas-e-receitas-1}{%
 \subsubsection*{DESPESAS E RECEITAS}\label{despesas-e-receitas-1}}
-\addcontentsline{toc}{subsubsection}{DESPESAS E RECEITAS}
 
 \begin{itemize}
 \tightlist
@@ -1614,56 +1607,55 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Despesas e Receitas'': tem o texto explicativo sobre Despesas
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Despesas e Receitas'': tem o link direcionando corretamente para a consulta de Despesa do Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Despesas e Receitas'': tem o texto explicativo sobre Receitas
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Despesas e Receitas'': tem o link direcionando corretamente para a consulta de Receita do Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \end{itemize}
 
 \hypertarget{compras-e-contratos-1}{%
 \subsubsection*{COMPRAS E CONTRATOS}\label{compras-e-contratos-1}}
-\addcontentsline{toc}{subsubsection}{COMPRAS E CONTRATOS}
 
 \begin{itemize}
 \tightlist
@@ -1672,56 +1664,55 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Compras e Contrato'': tem o texto explicativo sobre Compras e Contratos
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Compras e Contratos'': tem o link para a consulta de Compras e Contratos direcionando adequadamente para o Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Compras e Contratos'': tem o link para o Portal de Compras para a consulta de processos licitatórios em andamento
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Compras e Contratos'': tem o link para emitir o Certificado de Regularidade
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \end{itemize}
 
 \hypertarget{convuxeanios-repasses-e-transferuxeancias-1}{%
 \subsubsection*{CONVÊNIOS, REPASSES E TRANSFERÊNCIAS}\label{convuxeanios-repasses-e-transferuxeancias-1}}
-\addcontentsline{toc}{subsubsection}{CONVÊNIOS, REPASSES E TRANSFERÊNCIAS}
 
 \begin{itemize}
 \tightlist
@@ -1730,48 +1721,47 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Convênios, Repasses e Transferências'': tem o texto explicativo sobre Convênios/Parcerias de Saída de Recursos
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Convênios, Repasses e Transferências'': tem o link para a consulta de Convênios/Parcerias de Saída de Recursos direcionando adequadamente para o Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Convênios, Repasses e Transferências'': tem documentos/informações referente às demais transferências de recursos públicos realizadas pelo órgão/entidade mediante resoluções, termos de parcerias, etc, que não estiverem incluídos na consulta do Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \end{itemize}
 
 \hypertarget{servidores-1}{%
 \subsubsection*{SERVIDORES}\label{servidores-1}}
-\addcontentsline{toc}{subsubsection}{SERVIDORES}
 
 \begin{itemize}
 \tightlist
@@ -1780,36 +1770,35 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Servidores'': tem o texto explicativo sobre Pessoal
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Servidores'': tem o link para a consulta de Remuneração direcionando adequadamente para o Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \end{itemize}
 
 \hypertarget{concursos-puxfablicos-1}{%
 \subsubsection*{CONCURSOS PÚBLICOS}\label{concursos-puxfablicos-1}}
-\addcontentsline{toc}{subsubsection}{CONCURSOS PÚBLICOS}
 
 \begin{itemize}
 \tightlist
@@ -1818,46 +1807,45 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Concursos Públicos'': tem o texto explicativo sobre Concursos Públicos
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Concursos Públicos'': tem o link para a consulta de Concursos Realizados direcionando adequadamente para o Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Concursos Públicos'': tem informações sobre concursos públicos em andamento ou o link para a seção de concursos do sítio da SEPLAG
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \end{itemize}
 
 \hypertarget{dados-abertos-1}{%
 \subsubsection*{DADOS ABERTOS}\label{dados-abertos-1}}
-\addcontentsline{toc}{subsubsection}{DADOS ABERTOS}
 
 \begin{itemize}
 \tightlist
@@ -1866,36 +1854,35 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Dados Abertos'': tem o texto explicativo sobre Dados Abertos
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \item
   Dentro do item ``Dados Abertos'': tem o link direcionando corretamente para o Portal de Dados Abertos
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
   \end{itemize}
 \end{itemize}
 
 \hypertarget{procedimentos-licitatuxf3rios-enviados-para-o-tcemg-1}{%
 \subsubsection*{PROCEDIMENTOS LICITATÓRIOS ENVIADOS PARA O TCE/MG}\label{procedimentos-licitatuxf3rios-enviados-para-o-tcemg-1}}
-\addcontentsline{toc}{subsubsection}{PROCEDIMENTOS LICITATÓRIOS ENVIADOS PARA O TCE/MG}
 
 \begin{itemize}
 \tightlist
@@ -1904,30 +1891,29 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Procedimentos Licitatórios enviados para o TCE/MG'': tem a lista dos procedimentos licitatórios enviados para o TCE/MG
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \end{itemize}
 
 \hypertarget{doauxe7uxf5es-e-comodatos-1}{%
 \subsubsection*{DOAÇÕES E COMODATOS}\label{doauxe7uxf5es-e-comodatos-1}}
-\addcontentsline{toc}{subsubsection}{DOAÇÕES E COMODATOS}
 
 \begin{itemize}
 \tightlist
@@ -1936,42 +1922,41 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Doações e Comodatos'': tem o texto explicativo sobre Doações e Comodatos
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Doações e Comodatos'', tem a relação das doações e comodatos recebidos pelo órgão ou entidade
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \end{itemize}
 
 \hypertarget{participauxe7uxe3o-social-1}{%
 \subsubsection*{PARTICIPAÇÃO SOCIAL}\label{participauxe7uxe3o-social-1}}
-\addcontentsline{toc}{subsubsection}{PARTICIPAÇÃO SOCIAL}
 
 \begin{itemize}
 \tightlist
@@ -1980,42 +1965,41 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Participação Social'': tem o texto explicativo sobre Participação Social
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Participação Social'': tem informações sobre as formas de participação social existente no órgão ou entidade
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \end{itemize}
 
 \hypertarget{convuxeanios-de-entrada-1}{%
 \subsubsection*{CONVÊNIOS DE ENTRADA}\label{convuxeanios-de-entrada-1}}
-\addcontentsline{toc}{subsubsection}{CONVÊNIOS DE ENTRADA}
 
 \begin{itemize}
 \tightlist
@@ -2024,42 +2008,41 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Convênios de Entrada'': tem o texto explicativo sobre Convênios de Entrada
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Convênios de Entrada'': tem o link para a consulta de Convênios de Entrada de Recursos direcionando adequadamente para o Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \end{itemize}
 
 \hypertarget{bens-1}{%
 \subsubsection*{BENS}\label{bens-1}}
-\addcontentsline{toc}{subsubsection}{BENS}
 
 \begin{itemize}
 \tightlist
@@ -2068,48 +2051,48 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Bens'': tem o texto explicativo sobre bens e serviços
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Bens'': tem o link para a consulta de Bens Móveis direcionando adequadamente para o Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \item
   Dentro do item ``Bens'': tem o link para a consulta de Frota direcionando adequadamente para o Portal da Transparência
 
   \begin{itemize}
   \tightlist
-  \item
-    {[} {]} ATENDE TOTALMENTE
-  \item
-    {[} {]} NÃO ATENDE
-  \item
-    {[} {]} NÃO SE APLICA
+  \item[$\square$]
+    ATENDE TOTALMENTE
+  \item[$\square$]
+    NÃO ATENDE
+  \item[$\square$]
+    NÃO SE APLICA
   \end{itemize}
 \end{itemize}
 
