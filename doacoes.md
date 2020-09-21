@@ -1,7 +1,8 @@
 ## Doações e Comodatos
 
 ### Objetivo
-- Publicar doações e comodatos celebrados, contendo informações sobre: nome do doador ou comodante; CNPJ ou CPF do doador ou comodante; ojbeto da doação ou comodato e, quando for o caso, seu quantitativo; a vigência do comodato; o valor estimado do bem ou serviço doado ou oferecido em comodato.
+- Publicar doações e comodatos celebrados pela Admnistração Pública nos termos do Decreto Estadual nº 47.611/2019 que instituiu o **Selo Amigo do Estado**;
+- Publicar outras doações e comodatos não contemplados no âmmbito do Decreto Estadual nº 47.611/2019.
 
 ### Impactos Esperados
 - Permitir que a sociedade acompanhe as doações de bens e serviços ao Estado de Minas Gerais.
@@ -15,9 +16,19 @@
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas a relação das doações e comodatos para o Governo de Minas Gerais, em consonância com o art. 18 do Decreto nº 47.611/2019. 
+> Nesta seção são disponibilizadas a relação das doações e comodatos para o Governo de Minas Gerais. 
 > 
-> - Acesse aqui a relação das doações e comodatos para o Governo de Minas Gerais, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse aqui a relação das doações e comodatos para o Governo de Minas Gerais do **Selo Amigo do Estado**, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE), em consonância com o art. 18 do Decreto nº 47.611/2019.
+
+  - Incluir no documento as seguintes informações: 
+      - nome do doador ou comodante;
+      - CNPJ ou CPF do doador ou comodante; 
+      - objeto da doação ou comodato e, quando for o caso, seu quantitativo;
+      - vigência do comodato; 
+      - valor estimado do bem ou serviço doado ou oferecido em comodato.
+      
+> 
+> - Acesse aqui a relação de outras doações e comodatos para o Governo de Minas Gerais, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
   - Incluir no documento as seguintes informações: 
       - nome do doador ou comodante;
