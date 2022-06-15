@@ -17,6 +17,6 @@
 > Nesta seção são disponibilizados documentos ou informações referentes a prestação de contas do exercício do órgão ou entidade enviados ao Tribunal de Contas do Estado de Minas Gerais, nos termos do art. 15 da Decisão Normativa nº 01/2022 do TCE/MG. 
 > 
 > - Prestação de Contas - Ano XXXX.
-
-  - Lista dos documentos encaminhados, com link para acesso ou pdf do documento: 
+>
+>  - Lista dos documentos encaminhados, com link para acesso ou pdf do documento
       
