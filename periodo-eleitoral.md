@@ -18,7 +18,7 @@
 
 > As restrições e vedações em período eleitoral encontram-se disponível na tabela “Itens do Conteúdo da Transparência Ativa”
 
-![](static\tabela-itens-conteudo-transparencia-ativa.pdf)
+![](static/tabela-itens-conteudo-transparencia-ativa.pdf)
 
 >Em complemento ao estabelecido na Resolução Conjunta SEGOV/SEC-GERAL/AGE nº 1 de 2022 recomenda-se ainda consultar a Nota Jurídica nº 5.102 emitida pela Advocacia Geral do Estado em 2018, que ratifica o entendimento da CGE a respeito da proibição de publicidade institucional dos conteúdos de transparência nos sítios eletrônicos, da qual merece destaque o item, abaixo:
 
