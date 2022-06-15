@@ -1,8 +1,7 @@
 ## Doações e Comodatos
 
 ### Objetivo
-- Publicar doações e comodatos celebrados pela Admnistração Pública nos termos do Decreto Estadual nº 47.611/2019 que instituiu o **Selo Amigo do Estado**;
-- Publicar outras doações e comodatos não contemplados no âmmbito do Decreto Estadual nº 47.611/2019.
+- Publicar doações e comodatos celebrados, contendo informações sobre: nome do doador ou comodante; CNPJ ou CPF do doador ou comodante; objeto da doação ou comodato e, quando for o caso, seu quantitativo; a vigência do comodato; o valor estimado do bem ou serviço doado ou oferecido em comodato.
 
 ### Impactos Esperados
 - Permitir que a sociedade acompanhe as doações de bens e serviços ao Estado de Minas Gerais.
