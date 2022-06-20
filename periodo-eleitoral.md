@@ -20,6 +20,6 @@
 
 ![](static/tabela-itens-conteudo-transparencia-ativa.png)
 
->Em complemento ao estabelecido na Resolução Conjunta SEGOV/SEC-GERAL/AGE nº 1 de 2022 recomenda-se ainda consultar a Nota Jurídica nº 5.102 emitida pela Advocacia Geral do Estado em 2018, que ratifica o entendimento da CGE a respeito da proibição de publicidade institucional dos conteúdos de transparência nos sítios eletrônicos, da qual merece destaque o item, abaixo:
-
->“17. Desta sorte, repisando-se as orientações emanadas desta Casa neste particular e reiteradas a cada eleição geral, entende-se que a tabela intitulada “Itens do conteúdo da Transparência Ativa” elaborada pela Subcontroladoria Consulente, harmoniza-se com as prescrições da Advocacia-Geral do Estado. Noutro dizer, a publicização de conteúdo em decorrência de observância legal, no qual se inserem os normativos legais elencados em sede de consulta, não atrai a perspectiva do disposto na legislação eleitoral, podendo e devendo ser regularmente disponibilizado”.      
+>Em complemento ao estabelecido na Resolução Conjunta SEGOV/SEC-GERAL/AGE nº 1 de 2022 recomenda-se ainda consultar a Nota Jurídica nº 5.102 emitida pela Advocacia Geral do Estado em 2018, que ratifica o entendimento da CGE a respeito da proibição de publicidade institucional dos conteúdos de transparência nos sítios eletrônicos, da qual merece destaque o item 17: 
+>
+>*"17. Desta sorte, repisando-se as orientações emanadas desta Casa neste particular e reiteradas a cada eleição geral, entende-se que a tabela intitulada “Itens do conteúdo da Transparência Ativa” elaborada pela Subcontroladoria Consulente, harmoniza-se com as prescrições da Advocacia-Geral do Estado. Noutro dizer, a publicização de conteúdo em decorrência de observância legal, no qual se inserem os normativos legais elencados em sede de consulta, não atrai a perspectiva do disposto na legislação eleitoral, podendo e devendo ser regularmente disponibilizado"*.      
