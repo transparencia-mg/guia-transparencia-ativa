@@ -5,3 +5,4 @@
 public/
 logs/*
 !/logs/.gitkeep
+venv/
