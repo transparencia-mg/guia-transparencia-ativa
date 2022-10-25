@@ -1,5 +1,9 @@
 site_name: Guia de Transparência Ativa
 
+# Repository
+repo_name: transparencia-mg/guia-transparencia-ativa
+repo_url: http://github.com/transparencia-mg/guia-transparencia-ativa
+
 # Configuration
 theme:
   name: material
