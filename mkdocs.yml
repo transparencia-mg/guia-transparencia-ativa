@@ -5,6 +5,15 @@ repo_name: transparencia-mg/guia-transparencia-ativa
 repo_url: http://github.com/transparencia-mg/guia-transparencia-ativa
 edit_uri: edit/main/docs/
 
+nav:
+  - 1 INTRODUÇÃO: 'index.md'
+  - 2 ORGANIZAÇÃO DOS CONTEÚDOS: 'organizacao-dos-conteudos.md'
+  - 3 MENU TRANSPARÊNCIA: 'menu-transparencia.md'
+  - 4 DIVULGAÇÃO OBRIGATÓRIA: 
+    - 4.1 Serviço de Informação ao Cidadão: 'servico-informacao.md'
+    - 4.2 Informações Classificadas e Desclassificadas: 'informacoes-classificadas.md'
+    - 4.3 Programas e Ações: 'programas-acoes.md'
+
 # Configuration
 theme:
   name: material
@@ -18,8 +27,8 @@ theme:
     - navigation.indexes
     # - navigation.instant
     # - navigation.prune
-    - navigation.sections
-    - navigation.tabs
+    # - navigation.sections
+    # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
