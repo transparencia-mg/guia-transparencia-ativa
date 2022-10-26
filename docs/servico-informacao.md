@@ -1,4 +1,4 @@
-## Serviço de Informação ao Cidadão 
+# Serviço de Informação ao Cidadão 
 
 ### Objetivo
 - Informar ao cidadão sobre como fazer o pedido de acesso à informação e como obter os relatórios estatísticos com a quantidade de pedidos de acesso à informação do órgão e entidade. 
