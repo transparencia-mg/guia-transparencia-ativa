@@ -13,6 +13,9 @@ nav:
     - 4.1 Serviço de Informação ao Cidadão: 'servico-informacao.md'
     - 4.2 Informações Classificadas e Desclassificadas: 'informacoes-classificadas.md'
     - 4.3 Programas e Ações: 'programas-acoes.md'
+  - 5 DIVULGAÇÃO ESPECÍFICA:
+    - 5.1 Procedimentos licitatórios enviados para o TCE/MG: 'tce.md'
+    - 5.2 Doações e Comodatos: 'doacoes'
   - 6 DIVULGAÇÃO OPCIONAL: 
     - 6.1 Participação Social: 'participacao-social.md'
     - 6.2 Convênios de Entrada: 'convenios-entrada.md'
@@ -20,6 +23,7 @@ nav:
   - 7 DISPOSITIVOS LEGAIS: 'dispositivos-legais.md'
   - 8 ASPECTOS TECNOLÓGICOS: 'aspectos-tecnologicos.md'
   - 9 CHECKLIST: 'checklist.md'
+
 # Configuration
 theme:
   name: material
