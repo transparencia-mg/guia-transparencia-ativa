@@ -34,6 +34,7 @@ nav:
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
   features:
     # - announce.dismiss
     - content.code.annotate
@@ -73,3 +74,55 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
+
+markdown_extensions:
+  - abbr
+  - footnotes
+  - attr_list
+  - pymdownx.tasklist  # Lista de tarefas
+  - pymdownx.emoji  # Emojis
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - toc:
+      permalink: ⚓︎
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.snippets:
+      auto_append:
+        - abbreviations.md
+
+extra_css:
+  - assets/style.css
+  - https://unpkg.com/mermaid@8.5.1/dist/mermaid.css
+extra_javascript:
+  - assets/style.js
+  - https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js
+
+extra: # Footer
+  social:
+    - icon: fontawesome/brands/youtube
+      name: Canal Transparência-MG YouTube.
+      link: https://www.youtube.com/playlist?list=PLCbgbVHsUygAIzR_jxHEUt0NRc-MNF7cy
+    - icon: fontawesome/solid/flag
+      name: Material for MkDocs Icons, Emojis.
+      link: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
+    - icon: fontawesome/brands/github-alt
+      name: Repositório GitHub da documentação.
+      link: https://github.com/transparencia-mg/guia-transparencia-ativa
+  version:
+    provider: mike
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true 
+      type: datetime
+      enable_creation_date: true
+  - mike:
+      version_selector: true
