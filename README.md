@@ -25,6 +25,9 @@ $ make setup
 $ source venv/bin/activate
 ```
 
+Obs.: Usuários linux poderão utilizar comandos `make`, consulte as opções disponíveis em via comando `make help`.
+Check automated tasks with `make` or `make help` comands.
+
 Comando `mkdocs serve` cria servidor local para visualização, em tempo real, das modificações realizadas no documento.
 
 ## Publicações de novas versões do documento
