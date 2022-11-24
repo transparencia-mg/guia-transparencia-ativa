@@ -109,7 +109,7 @@ extra: # Footer
   social:
     - icon: fontawesome/brands/youtube
       name: Canal Transparência-MG YouTube.
-      link: https://www.youtube.com/playlist?list=PLCbgbVHsUygAIzR_jxHEUt0NRc-MNF7cy
+      link: https://www.youtube.com/@transparenciamg2235
     - icon: fontawesome/solid/flag
       name: Material for MkDocs Icons, Emojis.
       link: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
