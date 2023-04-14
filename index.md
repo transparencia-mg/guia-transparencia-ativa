@@ -9,7 +9,7 @@ github-repo: transparencia-mg/guia-transparencia-ativa
 
 # INTRODUÇÃO
 
-A Lei Federal nº 12.527, de 18 de novembro 2011, conhecida como Lei de Acesso à Informação (LAI), que regula o acesso a informações previsto na Constituição Federal de 1988, estabelece no art. 8º que ***"É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas".***
+A [Lei Federal nº 12.527](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm), de 18 de novembro 2011, conhecida como Lei de Acesso à Informação (LAI), que regula o acesso a informações previsto na Constituição Federal de 1988, estabelece no art. 8º que ***"É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas".***
 
 No âmbito estadual, a transparência ativa foi regulamentada por meio do Decreto nº 45.969, de 24 de maio de 2012. O capítulo II do Decreto, que é dedicado à transparência ativa, determina a divulgação espontânea (independente de requerimento) de informações de interesse coletivo ou geral, produzidas ou custodiadas pelos órgãos e entidades do Poder Executivo Estadual de Minas Gerais, e define parâmetros a serem adotados no Portal da Transparência do Estado e nos sítios institucionais dos órgãos e entidades.
 
