@@ -5,4 +5,4 @@ help:
 
 gh-deploy-mike: ## Deploy docs
 	@echo "Running mike deploy..."
-	@mike deploy --push --update-aliases 0.1 latest
+	@mike deploy --push --update-aliases review
