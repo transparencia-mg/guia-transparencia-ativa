@@ -28,8 +28,9 @@
 > 
 > - Acesse os [Termos de Concessões – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Públicos Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
-> Acesse abaixo as transferências de recursos realizadas por meio de resoluções, termos de parceria e outros instrumentos congêneres que não constam na consulta de Convênios/Parcerias de Saída de Recursos do Portal da Transparência e na consulta de PPP:
-> - O órgão ou entidade deverá disponibilizar o acesso aos documentos de transferências de recursos públicos realizadas pelo Estado, que não estejam disponíveis na consulta de Convênios de Saída do Portal da Transparência.
+> Acesse abaixo as transferências de recursos realizadas por meio de resoluções, termos de parceria e outros instrumentos congêneres que não constam nas consultas especificadas acima:
 
 
-**OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos, o órgão ou entidade deverá informar que no momento não existe conteúdo para ser publicado e direcionar para a consulta “Convênios/Parcerias de Saída de Recursos” do Portal da Transparência.
+**OBSERVAÇÃO 1:** O órgão ou entidade deverá disponibilizar o acesso aos documentos de transferências de recursos públicos realizadas pelo Estado, que não estejam disponíveis na consulta de Convênios de Saída do Portal da Transparência.
+
+**OBSERVAÇÃO 2:** Na ausência de convênios e parcerias de saída de recursos, o órgão ou entidade deverá informar que no momento não existe conteúdo para ser publicado e direcionar para a consulta “Convênios/Parcerias de Saída de Recursos” do Portal da Transparência.
