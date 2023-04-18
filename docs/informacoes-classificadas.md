@@ -24,8 +24,9 @@
 > Acesse as informações classificadas e desclassificadas do(a) (NOME DO ÓRGÃO OU ENTIDADE), até o dia (informar a última data de atualização)
 > - Link para documento elaborado pelo órgão ou entidade, conforme orientações da Diretoria Central de Transparência Passiva da Controladoria Geral do Estado.
 > 
-> - Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado.
->
-> O (a) <nome do órgão/entidade> não teve informações classificadas ou desclassificadas nos graus de sigilo reservada, secreta e ultrassecreta, definidos no art. 23 da Lei Federal nº 12.527/11 (Lei de Acesso à Informação), até o dia (informar a última data de atualização)
+
+**OBSERVAÇÃO:** Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado:
+
+> O(A) (NOME DO ÓRGÃO/ENTIDADE) não teve informações classificadas ou desclassificadas nos graus de sigilo reservada, secreta e ultrassecreta, definidos no art. 23 da Lei Federal nº 12.527/11 (Lei de Acesso à Informação), até o dia (informar a última data de atualização).
 
  
