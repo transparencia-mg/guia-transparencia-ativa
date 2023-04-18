@@ -19,12 +19,13 @@
 
 > Nesta seção são disponibilizadas as informações sobre as obras públicas em andamento no(a) (NOME DO ÓRGÃO/ENTIDADE).
 > 
-
+>
 >| Obra      |Objeto        |Contrato    |Termo Aditivo    |Projeto Básico| Projeto Executivo|Relatório Trimestral|
 >| --------- | ------------ | ---------- | --------------- |------------- | -----------------|--------------------|
 >|           |              |            |                 |              |                  |
- 
+> 
 > Dados da Tabela:
+> 
 > - Obra (nº da obra) 
 > - Objeto (informar o objeto da obra)
 > - Contrato (número do contrato e link para acesso ao contrato)
