@@ -13,7 +13,7 @@
 -	[Resolução SEPLAG nº 29/2016 – art. 26, inc. III](http://www.planejamento.mg.gov.br/sites/default/files/documentos/resolucao_sitios_seplag_29_de_05_07_2016_1.pdf).
 
 ### Frequência de atualização
--	Periodicamente,utilizar os links de acesso ao Portal da Transparência da Consulta Despesa e da Consulta Receita.
+-	Periodicamente, utilizar os links de acesso ao Portal da Transparência da Consulta Despesa e da Consulta Receita.
 
 ### Texto Padrão
 
