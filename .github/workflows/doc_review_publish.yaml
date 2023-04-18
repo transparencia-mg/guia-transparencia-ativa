@@ -1,6 +1,11 @@
 name: Publish Documentation on Dev Version
 
-on: push
+on:
+  push:
+    branches:
+      - review
+    paths:
+      - 'docs'
 
 jobs:
   publish_documentation:
