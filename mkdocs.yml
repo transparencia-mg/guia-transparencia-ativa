@@ -3,7 +3,7 @@ site_name: Guia de Transparência Ativa
 # Repository
 repo_name: transparencia-mg/guia-transparencia-ativa
 repo_url: http://github.com/transparencia-mg/guia-transparencia-ativa
-edit_uri: edit/main/docs/
+edit_uri: edit/review/docs/
 
 nav:
   - 1 INTRODUÇÃO: 'index.md'
