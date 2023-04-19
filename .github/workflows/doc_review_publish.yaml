@@ -4,12 +4,10 @@ on:
   push:
     branches:
       - review
-    paths:
-      - 'docs'
 
 jobs:
   publish_documentation:
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu-20.04
     steps:
 
       - name: Set up Python
