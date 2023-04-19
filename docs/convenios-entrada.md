@@ -21,6 +21,5 @@
 >
 > - Acesse os convênios de entrada que não constam na consulta de Convênios de Entrada do Portal da Transparência:
 >
-
-**OBSERVAÇÃO:** Para os convênios não disponíveis na consulta de Convênios de Entrada do Portal da Transparência, o órgão ou entidade deverá disponibilizar o acesso aos documentos referentes a esses convênios de entrada de recursos.
+>   O órgão ou entidade deverá disponibilizar o acesso aos documentos dos convênios de entrada de recursos que não estejam disponíveis na consulta de Convênios de Entrada do Portal da Transparência.
 
