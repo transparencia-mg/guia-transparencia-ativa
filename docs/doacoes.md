@@ -18,10 +18,12 @@
 > Nesta seção são disponibilizadas a relação das doações e comodatos para o Governo de Minas Gerais, em consonância com o art. 18 do Decreto nº 47.611/2019. 
 > 
 > - Acesse aqui a relação das doações e comodatos para o Governo de Minas Gerais, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> 
 
-  - Incluir no documento as seguintes informações: 
-      - nome do doador ou comodante;
-      - CNPJ ou CPF do doador ou comodante; 
-      - objeto da doação ou comodato e, quando for o caso, seu quantitativo;
-      - vigência do comodato; 
-      - valor estimado do bem ou serviço doado ou oferecido em comodato.
+**OBSERVAÇÃO:** Incluir no documento as seguintes informações: 
+
+- nome do doador ou comodante;
+- CNPJ ou CPF do doador ou comodante; 
+- objeto da doação ou comodato e, quando for o caso, seu quantitativo;
+- vigência do comodato; 
+- valor estimado do bem ou serviço doado ou oferecido em comodato.
