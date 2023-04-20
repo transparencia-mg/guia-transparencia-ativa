@@ -12,7 +12,7 @@ Os itens a serem divulgados no Menu **Transparência**, serão divididos em trê
 
 Todos os itens constantes do menu **Transparência**  deverão conter um texto explicativo. As sugestões de textos apresentadas neste guia poderão ser utilizadas pelos órgãos e entidades que assim desejarem.
 
-A nomenclatura e a disposição dos itens de divulgação obrigatória do menu **Transparência** será padronizada com o objetivo de criar um local único que concentre as informações mínimas e necessárias de transparência ativa de modo a facilitar a localização da informação pelo cidadão e devem observar a seguinte estrutura abaixo:
+Os órgãos e entidades do Poder Executivo Estadual devem observar rigorosamente a nomenclatura e a estrutura de menu estabelecidas neste Guia. A nomenclatura e a disposição dos itens de divulgação obrigatória do menu **Transparência** será padronizada com o objetivo de criar um local único que concentre as informações mínimas e necessárias de transparência ativa de modo a facilitar a localização da informação pelo cidadão e devem observar a seguinte estrutura abaixo:
 
 - [Serviço de Informação ao Cidadão](servico-informacao.md)
 - [Informações Classificadas e Desclassificadas](informacoes-classificadas.md)
