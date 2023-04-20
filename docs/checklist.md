@@ -228,7 +228,7 @@
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
     * [ ] NÃO SE APLICA
-* Dentro do item "Doações e Comodatos", tem a relação das doações e comodatos recebidos pelo órgão ou entidade
+* Dentro do item "Doações e Comodatos", tem o link correto para a seção do portal de Dados Abertos ou a relação das doações e comodatos recebidos pelo órgão ou entidade
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
     * [ ] NÃO SE APLICA
