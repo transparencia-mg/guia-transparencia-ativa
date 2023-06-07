@@ -34,10 +34,6 @@
 
 **OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos ou Termos de Concessões - PPP, o órgão ou entidade deverá informar de forma expressa: “Não foram firmados Convênios e Parcerias de Saída de Recursos ou Termos de Concessões - PPP”, colocando a data da atualização do documento.
 
-> Acesse abaixo as transferências de recursos realizadas por meio de resoluções, termos de parceria e outros instrumentos congêneres que não constam nas consultas especificadas acima.
-
-**OBSERVAÇÃO:** O órgão ou entidade deverá disponibilizar o acesso aos documentos de transferências de recursos públicos realizadas pelo Estado, que não estejam disponíveis na consulta de Convênios de Saída do Portal da Transparência.
-
 > Acesse abaixo os Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros. 
 
 **OBSERVAÇÃO:** O órgão ou entidade deverá disponibilizar o acesso aos documentos/informações de Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros, compreendendo, no mínimo, dados relativos a:
