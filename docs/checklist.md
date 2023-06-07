@@ -120,6 +120,12 @@
 * Dentro do item "Despesas e Receitas": tem o link direcionando corretamente para a consulta de Despesa do Portal da Transparência
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
+* Dentro do item "Despesas e Receitas": tem a listagem com as inforamções sobre a ordem cronólogica de pagamento
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+* O tem referente a ordem cronólogica de pagamento encontra-se atualizada com dados dos últimos 3 anos
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
 * Dentro do item "Despesas e Receitas": tem o texto explicativo sobre Receitas
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
@@ -142,6 +148,9 @@
 * Dentro do item "Compras e Contratos": tem o link para o Portal de Compras para a consulta de processos licitatórios em andamento
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
+* Dentro do item "Compras e Contratos": tem a lista dos fiscais de contrato vigentes e encerrados nos últimos 3 anos
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
 * Dentro do item "Compras e Contratos": tem o link para emitir o Certificado de Regularidade
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
@@ -158,11 +167,14 @@
 * Dentro do item "Convênios, Repasses e Transferências": tem o link para a consulta de Convênios/Parcerias de Saída de Recursos direcionando adequadamente para o Portal da Transparência
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
-* Dentro do item "Convênios, Repasses e Transferências": tem documentos/informações referente às demais transferências de recursos públicos realizadas pelo órgão/entidade mediante resoluções, termos de parcerias, etc, que não estiverem incluídos na consulta do Portal da Transparência  
+* Dentro do item "Convênios, Repasses e Transferências": documentos/informações referente aos Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
     * [ ] NÃO SE APLICA
-
+* O item referente a Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros está atualizado com dados dos últimos 3 anos
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+    * [ ] NÃO SE APLICA
 
 #### SERVIDORES {.unlisted .unnumbered}
 
@@ -175,8 +187,15 @@
 * Dentro do item "Servidores": tem o link para a consulta de Remuneração direcionando adequadamente para o Portal da Transparência
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
-
-
+* Dentro do item "Servidores": tem a lista dos estagiários que mantém contrato com o órgão/entidade, ou texto informando que não há contratos de estágios vigentes.
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+    * [ ] NÃO SE APLICA
+* O item referente a lista de estagiários está atualizado com dados dos últimos 3 anos
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+    * [ ] NÃO SE APLICA
+    
 #### CONCURSOS PÚBLICOS {.unlisted .unnumbered}
 
 * Dentro do menu "Transparência": tem o item "Concursos Públicos"
