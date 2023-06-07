@@ -15,9 +15,9 @@
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas informações sobre os concursos públicos estaduais, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> Nesta seção são disponibilizadas também informações sobre os concursos públicos estaduais, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
-> - Acesse os [Concursos Públicos em Andamento](https://www.mg.gov.br/planejamento/pagina/gestao-de-pessoas/recrutamento-e-selecao/recrutamento-e-selecao), disponíveis na página da Secretaria de Estado de Planejamento e Gestão.
+> - Acesse os [Concursos Públicos em Andamento](http://www.planejamento.mg.gov.br/concursos-e-estagios/concursos-publicos), disponíveis na página da Secretaria de Estado de Planejamento e Gestão.
 >
 > - Acesse os [Concursos Realizados](http://www.transparencia.mg.gov.br/estado-pessoal/concursos-realizados) pelo próprio órgão/entidade.
 
