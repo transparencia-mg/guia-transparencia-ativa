@@ -2,7 +2,7 @@
 
 ###	Objetivo
 -	Divulgar informações sobre os processos de compras para aquisição de materiais e serviços nos órgãos e entidades do Estado de Minas Gerais, bem como informações sobre os contratos celebrados entre o Estado e terceiros, incluindo os atos relativos a dispensa ou inexigibilidade de licitação.
--	Divulgar a lista dos fiscais de contratos do órgão ou entidade.
+-	Divulgar a lista dos fiscais de contratos do órgão ou entidade, em formato aberto (csv).
 
 ###	Impactos Esperados
 -	Permitir o acompanhamento da execução dos contratos firmados pela Administração Pública;
@@ -18,7 +18,7 @@
 
 ###	Frequência de atualização
 - Periodicamente, verificar os links de acesso ao Portal da Transparência e ao Portal de Compras.
-- Mensalmente, atualizar a relação dos fiscais de contrato, incluindo os vigentes e os encerrados, com a indicação dos contratos pelos quais são responsáveis, contendo dados atualizados dos últimos 3 anos, contendo a data de atualização.
+- Mensalmente, atualizar a relação dos fiscais de contrato, incluindo os vigentes e os encerrados, com a indicação dos contratos pelos quais são responsáveis. As informações devem conter dados dos últimos 3 anos com a respectiva data de atualização do arquivo.
 
 ###	Texto Padrão
 
