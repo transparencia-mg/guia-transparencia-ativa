@@ -2,7 +2,7 @@
 
 ### Objetivo
 -	Disponibilizar informações detalhadas e atualizadas diariamente sobre a execução orçamentária e financeira, bem como sobre suas receitas previstas e arrecadadas;
--	Divulgar a ordem cronológica dos pagamentos, bem como as justificativas que fundamentam a eventuação alteração da ordem de pagamento.
+-	Divulgar a ordem cronológica dos pagamentos, bem como as justificativas que fundamentam a eventual alteração da ordem de pagamento.
 
 ### Impactos Esperados
 -	Permitir o acompanhamento diário da evolução das receitas e despesas do Estado de Minas Gerais;
@@ -31,7 +31,7 @@
 > 
 > - Acesse [aqui] a lista dos créditos com a respectiva ordem cronólogica de pagamanto.
 
-**OBSERVAÇÃO:** Na listagem devem ser informados data de vencimento, data de pagamento, credor, valor e identificação da origem do crédito, com histórico referente aos 3 últimos anos, com a respectiva data da última atulização do documento.
+**OBSERVAÇÃO:** Devem ser divulgada um arquivo em formato aberto (csv) contendo data de vencimento, data de pagamento, credor, valor e identificação da origem do crédito, com histórico referente aos 3 últimos anos, com a respectiva data da última atulização do documento.
  
 > **Receita pública:** Montante em dinheiro recolhido pelo Estado em virtude de arrecadação via impostos, taxas, contribuições e outras fontes de recursos, incorporado ao patrimônio do Estado, que serve para custear as despesas públicas e as necessidades de investimentos públicos.
 > 
