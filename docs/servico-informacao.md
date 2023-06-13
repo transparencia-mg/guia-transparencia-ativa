@@ -26,7 +26,7 @@
 > 
 > Para acessar os relatórios estatísticos com a quantidade de pedidos de acesso à informação recebidos, atendidos e indeferidos, assim como informações estatísticas agregadas, consulte os [Relatórios Gerenciais da Lei de Acesso à Informação](https://www.transparencia.mg.gov.br/o-que-e#relatorios-gerenciais-lei-de-acesso-a-informacao).
 > 
-> Responsável pelo monitoramento: 
+> Disnibilizamos abaixo o nome e o contato do responsável pelo monitoramento dos pedidos de acesso à informação do(a) (NOME DO ÓRGÃO OU ENTIDADE):
 >
 > - Nome
 > - Telefone

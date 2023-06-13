@@ -28,10 +28,10 @@ Os órgãos e entidades do Poder Executivo Estadual devem observar rigorosamente
 
 Todos os itens de divulgação obrigatória devem ser criados, ainda que não haja conteúdo a ser divulgado. Nesse caso, deve-se criar o item e nele informar, **de maneira explícita**, que não há, até o momento, conteúdo a ser publicado. 
 
-Além dos itens obrigatórios, o órgão e entidade deve disponibilizar, no menu **Transparência**, outros assuntos estabelecidos em lei que não estão contemplados neste Guia ou que ainda sejam muito demandados pela sociedade ou que sejam considerados de interesse público. Nesses casos, os itens adicionais devem ser inseridos após os obrigatórios e devem conter um texto explicativo relativo ao seu conteúdo.
+Além dos itens obrigatórios, o órgão e entidade podem disponibilizar, no menu **Transparência**, outros assuntos estabelecidos em lei que não estão contemplados neste Guia ou que ainda sejam muito demandados pela sociedade ou que sejam considerados de interesse público. Nesses casos, os itens adicionais devem ser inseridos após os itens obrigatórios e específicos, devendo conter um texto explicativo relativo ao seu conteúdo.
 
 - **Exemplo:** [Lei nº 23.573/2020]( https://www.almg.gov.br/legislacao-mineira/LEI/23573/2020/) que estabelece que o **Departamento de Trânsito de Minas Gerais – Detran-MG** divulgará, trimestralmente, **no seu site**, os valores arrecadados com multas de trânsito, bem como a destinação desses recursos.
 
 Como ferramenta de apoio para os órgãos e entidades, apresentamos neste guia para cada item do menu **Transparência**, os objetivos e os impactos desejados com a criação do item, a legislação de referência, a frequência de atualização do item, quando aplicável, e, o texto padrão contendo a descrição do item que poderá ser utilizado pelo órgão ou entidade que assim o desejar.
 
-Este Guia deve ser utilizado junto com o ***[checklist](https://forms.gle/x6rd1aGHzknH8y5m8)*** disponibilizado pela Controladoria Geral do Estado, por meio da Subcontroladoria de Transparência e Integridade.
+Este Guia deve ser utilizado junto com o ***[checklist](https://forms.gle/x6rd1aGHzknH8y5m8)*** disponibilizado pela Controladoria Geral do Estado, por meio da Superintendência Central de Transparência.
