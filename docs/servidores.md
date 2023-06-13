@@ -3,7 +3,7 @@
 ### Objetivo
 - Divulgar a remuneração e o subsídio recebidos por ocupante de cargo, posto, graduação, função e emprego público, incluindo auxílios, ajudas de custo, jetons e quaisquer outras vantagens pecuniárias, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada.
 - Divulgar as informações sobre os proventos de aposentadoria dos servidores inativos e de pensões pagas pelo Estado de Minas Gerais.
-- Divulgar a lista dos Estagiários que mantém cntrato de estágio com o órgão ou entidade
+- Divulgar a lista dos Estagiários que mantém contrato de estágio com o órgão ou entidade.
 
 ### Impactos Esperados
 - Permitir o acesso as informações sobre os gastos de pessoal do Estado de Minas Gerais com os servidores ativos, inativos e com pensionistas e estagiários.
@@ -23,7 +23,7 @@
 >
 > - Acesse a [Remuneração dos Servidores Públicos](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores) ativos incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
-> Acesse a relação dos [Estagiários] que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse a relação dos [Estagiários] que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
 **OBSERVAÇÃO:** Caso o órgão não tenha contrato com estagiários, essa informação deve constar de forma expressa: “Não foram firmados contratos de estágios no período”, colocando a data da atualização do documento.
 
