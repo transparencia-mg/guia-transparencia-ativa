@@ -19,7 +19,7 @@
 >
 > - Acesse os [Convênios de Entrada](http://www.transparencia.mg.gov.br/convenios/convenio-entrada), incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
-> - Acesse os convênios de entrada que não constam na consulta de Convênios de Entrada do Portal da Transparência:
+> - Acesse os convênios de entrada e instrumentos congêneres celebrados pelo Estado de Minas Gerais que não constam na consulta de Convênios de Entrada disponível no Portal da Transparência:
 >
->   O órgão ou entidade deverá disponibilizar o acesso aos documentos dos convênios de entrada de recursos que não estejam disponíveis na consulta de Convênios de Entrada do Portal da Transparência.
+>   O órgão ou entidade deverá disponibilizar o acesso aos documentos dos convênios de entrada de recursos e/ou instrumentos congêneres que não estejam disponíveis na consulta de Convênios de Entrada do Portal da Transparência.
 
