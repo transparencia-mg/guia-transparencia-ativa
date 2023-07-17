@@ -22,7 +22,7 @@
 > 
 > Em Minas Gerais, os pedidos de acesso à informação são feitos por meio do Sistema Eletrônico de Acesso à Informação – [e-SIC](http://www.acessoainformacao.mg.gov.br), que permite a solicitação e o acompanhamento dos pedidos e recursos.
 > 
-> As solicitações também podem ser realizadas por meio do telefone 155 (ligação gratuita), ou ainda presencialmente em qualquer [Posto Uai](https://www.mg.gov.br/pagina/unidades-de-atendimento-integrado-uais).
+> As solicitações também podem ser realizadas por meio do telefone 155 (ligação gratuita), ou ainda presencialmente em qualquer [Posto Uai](https://www.mg.gov.br/pagina/unidades-de-atendimento-integrado-uai).
 > 
 > Para acessar aos relatórios estatísticos com a quantidade de pedidos de acesso à informação recebidos, atendidos e indeferidos, assim como informações estatísticas agregadas, consulte os [Relatórios Gerenciais da Lei de Acesso à Informação](https://www.transparencia.mg.gov.br/o-que-e#relatorios-gerenciais-lei-de-acesso-a-informacao).
 > 
