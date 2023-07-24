@@ -19,20 +19,45 @@
 
 > Nesta seção são disponibilizadas as informações sobre as obras públicas em andamento no(a) (NOME DO ÓRGÃO/ENTIDADE).
 > 
-
->| Obra      |Objeto        |Contrato    |Termo Aditivo    |Projeto Básico| Projeto Executivo|Relatório Trimestral|
->| --------- | ------------ | ---------- | --------------- |------------- | -----------------|--------------------|
->|           |              |            |                 |              |                  |
- 
 > Dados da Tabela:
 > 
 > - Obra (nº da obra) 
 > - Objeto (informar o objeto da obra)
 > - Contrato (número do contrato e link para acesso ao contrato)
+> - Data de Assinatura
+> - Regime de Execução
+> - Modalidade de Licitação
+> - Órgão/Entidade Contratante
+> - Contratada
+> - CNPJ
+> - Endereço da Obra
+> - Bairro da Obra
+> - Município da Obra
+> - CEP
 > - Termo Aditivo (número e link para acesso ao documento)
 > - Projeto Básico (link para acesso ao documento)
 > - Projeto Executivo (link para acesso ao documento)
 > - Relatório Trimestral (número e link para acesso ao relatório)
+> - Engenheiros de Fiscalização (CREA)
+> - Engenheiros de Execução (CREA)
+> - Tipo de Obra
+> - Situação
+> - Início da Obra
+> - Prazo da Obra
+> - Valor Inicial da Obra
+> - Valor Total da Medição
+> - Prazo Aditado
+> - Valor Aditado
+> - Valor Total Atual
+> - Contato para Denúncias/Reclamações
+
+Também devem ser divulgadas as seguintes informações:
+
+> - Dados sobre as etapas das obras e o percentual de execução de cada etapa;
+
+> - Quantitativo e os preços unitários;
+
+> - Dados sobre o motivo da paralisação da obra, responsável pela inexecução da obra e data prevista para reinício.
 
 **OBSERVAÇÃO:** Na ausência de Obras Públicas em andamento, o órgão ou entidade deverá informar que no momento não existem obras públicas em andamento, com a respectiva data e atualização do texto. 
 
