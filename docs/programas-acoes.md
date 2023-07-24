@@ -1,10 +1,10 @@
 ## Programas e Ações
 
 ### Objetivo
-- Divulgar todos os instrumentos de planejamento, bem como a relação dos programas e ações do órgão ou entidade, juntamente com informações que permita o seu acompanhamento, conforme orientações do inc. V, §1º, art. 8º da Lei Federal nº12.527/2011.
+- Divulgar todos os instrumentos de planejamento, bem como a relação dos programas e ações do órgão ou entidade, juntamente com informações que permitam o seu acompanhamento, conforme orientações do inc. V, §1º, art. 8º da Lei Federal nº12.527/2011.
 
 ### Impactos Esperados
--	Permitir o acompanhamento da execução das metas físicas e financeiras dos programas e ações do órgão ou entidade, por meio da disponibilização das informações referentes e dos respecitvos responsáveis pelos programas e relatórios;
+-	Permitir o acompanhamento da execução das metas físicas e financeiras dos programas e ações do órgão ou entidade, por meio da disponibilização das informações e dos respecitvos responsáveis pelos programas e relatórios;
 -	Informar ao cidadão os instrumentos de planejamento: PPAG, LDO, LOA.
 
 ### Legislação
@@ -15,7 +15,7 @@
 
 ### Frequência de atualização
 -	Anualmente: para a legislação que trata dos instrumentos de planejamento (PPAG, LDO, LOA).
--	Bimestralmente: para as informações sobre Ações e Programas - 
+-	Bimestralmente: para as informações sobre Ações e Programas. 
 -	Periodicamente, verificar os links de acesso ao Portal da Transparência da Consulta Programação e Execução do PPAG por Programa.
 
 ### Texto Padrão
