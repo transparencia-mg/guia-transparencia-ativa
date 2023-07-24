@@ -18,7 +18,7 @@
 
 ### Texto Padrão
 
-> Nesta seção, são divulgadas informações sobre o Serviço de Informação ao Cidadão (e-SIC), pertinentes ao seu funcionamento, localização e dados de contato no âmbito do(a) (NOME DO ÓRGÃO OU ENTIDADE). 
+> Nesta seção são divulgadas informações sobre o Serviço de Informação ao Cidadão (e-SIC), pertinentes ao seu funcionamento, localização e dados de contato no âmbito do(a) (NOME DO ÓRGÃO OU ENTIDADE). 
 > 
 > Em Minas Gerais, os pedidos de acesso à informação são feitos por meio do Sistema Eletrônico de Acesso à Informação – [e-SIC](http://www.acessoainformacao.mg.gov.br), que permite a solicitação e o acompanhamento dos pedidos e recursos.
 > 
