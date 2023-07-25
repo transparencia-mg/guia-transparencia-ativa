@@ -22,7 +22,7 @@
 >
 > - Conselhos e Órgãos Colegiados
 > - Conferências
-> - Audências Públicas
+> - Audiências Públicas
 > - Consultas Públicas
 > - Fundos Vinculados
 > - Ações de promoção da Cidadania
