@@ -6,7 +6,7 @@
 - Divulgar a lista dos Estagiários que mantém contrato de estágio com o órgão ou entidade.
 
 ### Impactos Esperados
-- Permitir o acesso as informações sobre os gastos de pessoal do Estado de Minas Gerais com os servidores ativos, inativos e com pensionistas e estagiários.
+- Permitir o acesso as informações sobre os gastos de pessoal do Estado de Minas Gerais com os servidores ativos, inativos, pensionistas e estagiários.
 
 ### Legislação
 - [Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. VI](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7724.htm#art7);
