@@ -3,7 +3,7 @@
 ### Objetivo
 - Divulgar informações sobre os convênios, repasses e transferências de recursos por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres;
 -	Divulgar informações sobre concessões e permissões, nos termos do inc. III, parágrafo único, art. 1º da Lei Estadual nº 23.569/2020;
--	Divulgar acordos firmados que não envolvem transferência de recursos financeiros;
+-	Divulgar acordos firmados que não envolvam transferência de recursos financeiros;
 
 ### Impactos Esperados
 - Permitir que a sociedade acompanhe os registros de repasses e transferências de recursos financeiros;
@@ -21,7 +21,7 @@
 ### Frequência de atualização
 -	Periodicamente, verificar o link de acesso ao Portal da Transparência, para os convênios, repasses e transferências disponíveis na consulta de Convênios/Parcerias de Saída de Recursos.
 -	Sempre que forem celebrados convênios, repasses e transferências de recursos financeiros que não estejam incluídos na consulta de Convênios/Parcerias de Saída de Recursos do Portal da Transparência.
--	Periodicamente, utilizar o link de acesso ao Portal das PPP.
+-	Periodicamente, utilizar o link de acesso ao Portal das Parcerias Público Privadas - PPP.
 -	Atualizar, mensalmente, os dados de Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros.
 
 ### Texto Padrão
@@ -30,9 +30,9 @@
 > 
 > - Acesse os [Convênios de Saída de Recursos](http://www.transparencia.mg.gov.br/convenios/convenios-de-saida) e termos de colaboração e fomento do Estado, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
-> - Acesse os [Termos de Concessões – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Públicos Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse os [Termos de Concessão – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Público Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
-**OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos ou Termos de Concessões - PPP, o órgão ou entidade deverá informar de forma expressa: “Não foram firmados Convênios e Parcerias de Saída de Recursos ou Termos de Concessões - PPP”, colocando a data da atualização do documento.
+**OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos ou Termos de Concessão/PPP, o órgão ou entidade deverá informar de forma expressa: “Não foram firmados Convênios e Parcerias de Saída de Recursos ou Termos de Concessão/PPP, colocando a data da atualização do documento.
 
 > Acesse abaixo os Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros. 
 
