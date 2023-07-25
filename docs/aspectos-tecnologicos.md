@@ -7,7 +7,7 @@ Os órgãos e entidades deverão observar os requisitos mínimos para disponibil
 
 - Gravação de relatórios em diversos formatos eletrônicos, inclusive abertos e não proprietários: os dados deverão estar disponíveis para download em formatos abertos e não proprietários, tais como planilhas e textos, de modo a facilitar a análise de informações; 
 
-- Acesso automatizado por sistemas externos: possibilitar que os dados sejam acessados de forma automatizada por sistemas externos, em formatos abertos, estruturados e legíveis por máquina. Exemplo: Os dados disponíveis deverão ser acessados por sistemas externos sem qualquer tipo de intervenção humana direta, tais como a utilização de API; 
+- Acesso automatizado por sistemas externos: possibilitar que os dados sejam acessados de forma automatizada por sistemas externos, em formatos abertos, estruturados e legíveis por máquina. Exemplo: Os dados disponíveis deverão ser acessados por sistemas externos sem qualquer tipo de intervenção humana direta, tais como a utilização de Interface de Programação de Aplicação - API; 
 
 - Indicar local e instruções que permitam ao interessado comunicar-se, por via eletrônica ou telefônica, como o órgão ou entidade detentora do sítio; e
 
