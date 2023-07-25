@@ -8,7 +8,7 @@
 - Facilitar a localização dos registros de doações de bens e serviços.
 
 ### Legislação
-- •	[Decreto Estadual nº 48.444/2022 - art. 26 e 27](https://www.almg.gov.br/legislacao-mineira/texto/DEC/48444/2022/?cons=1)
+-	[Decreto Estadual nº 48.444/2022 - art. 26 e 27](https://www.almg.gov.br/legislacao-mineira/texto/DEC/48444/2022/?cons=1)
 
 ### Frequência de atualização
 -	Após a formalização do ato, a relação das doações ou comodatos recebidos deve ser divulgada pelos órgãos/entidades no seu próprio sítio eletrônico, no mesmo mês da publicação no diário oficial.
