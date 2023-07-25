@@ -19,9 +19,9 @@
 > 
 > Para acessar os diversos tipos de informações sobre esses acordos, acesse os links abaixo para o acompanhamento dos recursos recebidos:
 > 
-> •	[Convênios de Entrada de Recursos]( https://www.transparencia.mg.gov.br/convenios/convenio-entrada) que contempla a entrada de recursos celebrados por meio dos instrumentos cadastrados como Convênios pelo Estado com o Governo Federal, municípios e organizações da Sociedade Civil para execução das políticas públicas estaduais.
+> •	[Convênios de Entrada de Recursos]( https://www.transparencia.mg.gov.br/convenios/convenio-entrada): contemplam a entrada de recursos celebrados por meio dos instrumentos cadastrados como Convênios pelo Estado com o Governo Federal, municípios e organizações da Sociedade Civil para execução das políticas públicas estaduais.
 > 
-> •	[Outros instrumentos de Entrada de Recursos]( https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/gestao-de-convenios-de-entrada) - incluindo os convênios que abrange todos os Convênios de entrada de recursos e congêneres, registrados no SIGCON-Entrada ou na Plataforma +Brasil (sistema de convênios da União), incluindo as Portarias, Temos de Compromisso, Transferências Especiais e Acordos/Ajustes. 
+> •	[Outros instrumentos de Entrada de Recursos]( https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/gestao-de-convenios-de-entrada): incluem os convênios que abrangem todos os Convênios de entrada de recursos e congêneres, registrados no SIGCON-Entrada ou na Plataforma +Brasil (sistema de convênios da União), incluindo as Portarias, Temos de Compromisso, Transferências Especiais e Acordos/Ajustes. 
 > 
 
 
