@@ -18,4 +18,4 @@ install: ## Install python packages
 gh-deploy-mike: ## Deploy docs
 	@echo "Running mike deploy..."
 	@$(ACTIVATE_LINUX)
-	@@mike deploy --push --update-aliases v3 latest
+	@mike deploy --push --update-aliases v3 latest
