@@ -11,4 +11,3 @@ A [Resolução SEPLAG nº 29/2016](https://www.mg.gov.br/sites/default/files/pla
 A divulgação espontânea do maior número possível de informações tende a reduzir as demandas sobre o assunto nos canais de transparência passiva, minimizando o trabalho e os custos de processamento e gerenciamento dos pedidos de acesso. Além disso, é importante que os sites oficiais do Poder Executivo do Estado de Minas Gerais estejam padronizados, conforme sugerido neste Guia, ofertando ao cidadão um padrão que facilite a navegação permitindo uma rápida localização e obtenção das informações desejadas.
 
 A Controladoria-Geral do Estado (CGE), por meio da Superintendência Central de Transparência, coloca-se à disposição para esclarecer dúvidas sobre as regras e diretrizes definidas neste guia.
-
