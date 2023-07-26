@@ -24,4 +24,3 @@
 > •	[Outros instrumentos de Entrada de Recursos]( https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/gestao-de-convenios-de-entrada): incluem os convênios que abrangem todos os Convênios de entrada de recursos e congêneres, registrados no SIGCON-Entrada ou na Plataforma +Brasil (sistema de convênios da União), incluindo as Portarias, Temos de Compromisso, Transferências Especiais e Acordos/Ajustes. 
 > 
 
-
