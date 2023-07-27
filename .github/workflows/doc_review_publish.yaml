@@ -3,7 +3,7 @@ name: Publish Documentation on Dev Version
 on:
   push:
     branches:
-      - review
+      - main
     paths:
       - 'docs'
 
@@ -19,7 +19,7 @@ jobs:
 
       - name: Check out repository
         uses: actions/checkout@v2
-        with:  
+        with:
           fetch-depth: 0
 
       - name: Create venv

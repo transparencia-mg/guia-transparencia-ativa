@@ -16,7 +16,7 @@ O objetivo do menu **Transparência** é ter um local único e padronizado que c
 
 ### Texto Padrão
 
-> Está seção reúne e divulga, de forma espontânea, dados do(a) (NOME DO ÓRGÃO/ENTIDADE) que são de interesse coletivo ou geral com o objetivo de facilitar o acesso à informação pública, conforme determinação da Lei Federal nº 12.527/2011, de 18 de novembro de 2011 e demais legislações que tratam do assunto.
+> Está seção reúne e divulga, de forma espontânea, dados do(a) (NOME DO ÓRGÃO/ENTIDADE) que são de interesse coletivo ou geral com o objetivo de facilitar o acesso à informação pública, conforme determinação da [Lei Federal nº 12.527/2011, de 18 de novembro de 2011](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) e demais legislações que tratam do assunto.
 > 
 > No Menu Transparência estão disponíveis as informações mínimas sobre serviços de informação ao cidadão, informações classificadas e desclassificadas, ações e programas, receitas e despesas, compras e contratos, convênios, repasses e transferências, doações, comodatos e cooperações, pessoal e dados abertos, além de outros tópicos obrigatórios mas específicos para determinados órgãos e entidades e tópicos opcionais, como a participação social.
 >
