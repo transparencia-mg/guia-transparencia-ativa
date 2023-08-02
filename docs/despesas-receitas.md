@@ -29,9 +29,9 @@
 
 > **Cronologia de Pagamento:** 
 > 
-> - Acesse [aqui](https://www.transparencia.mg.gov.br/despesa-estado) a lista dos créditos com a respectiva ordem cronólogica de pagamento.
+> - Acesse [aqui](https://www.transparencia.mg.gov.br/despesa-estado) a lista dos pagamentos realizados pelos órgãos e entidades com a respectiva ordem cronológica de pagamento.
 >
-**OBSERVAÇÃO:**Deve ser divulgado um arquivo em formato aberto (csv) contendo data de vencimento, data de pagamento, credor, valor e identificação da origem do crédito, com histórico referente aos 3 últimos anos, com a respectiva data da última atulização do documento.
+**OBSERVAÇÃO:**Para fazer parte da lista acima, o órgão/entidade deve divulgar  no menu transparência, preferencialmente na seção de Despesas e Receitas, o arquivo em formato aberto (csv) contendo data de vencimento, data de pagamento, credor, valor e identificação da origem do crédito, com histórico referente aos 3 últimos anos, com a respectiva data da última atualização do documento.
  
 > **Receita pública:** Montante em dinheiro recolhido pelo Estado em virtude de arrecadação via impostos, taxas, contribuições e outras fontes de recursos, incorporado ao patrimônio do Estado, que serve para custear as despesas públicas e as necessidades de investimentos públicos.
 > 
