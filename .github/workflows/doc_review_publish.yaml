@@ -3,13 +3,13 @@ name: Publish Documentation on Dev Version
 on:
   push:
     branches:
-      - review
+      - main
     paths:
-      - 'docs'
+      - 'docs/**'
 
 jobs:
   publish_documentation:
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu-20.04
     steps:
 
       - name: Set up Python

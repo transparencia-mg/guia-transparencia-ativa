@@ -1,7 +1,7 @@
 ## Procedimentos licitatórios enviados para o TCE/MG
 
 ### Objetivo
--	Publicar atos administrativos e documentos relativos a procedimentos licitatórios que deva ser encaminhado ao Tribunal de Contas, por determinação legal ou decisão específica.
+-	Publicar atos administrativos e documentos relativos a procedimentos licitatórios que devam ser encaminhados ao Tribunal de Contas, por determinação legal ou decisão específica.
 
 ### Impactos Esperados
 -	Permitir o acompanhamento pela sociedade dos procedimentos licitatórios enviados ao TCE/MG.

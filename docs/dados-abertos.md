@@ -1,7 +1,7 @@
 ## Dados Abertos
 
 ### Objetivo
-- Divulgar o maior número de base de dados em formato aberto para que qualquer pessoa possa livremente acessar, utilizar, modificar e compartilhar para qualquer finalidade, estando sujeita, no máximo, à indicação da fonte da base de dados.
+- Divulgar o maior número de base de dados em formato aberto para que qualquer pessoa possa livremente acessar, utilizar, modificar e compartilhar, estando sujeita, no máximo, à indicação da fonte da base de dados.
 
 ### Impactos Esperados
 - Contribuir para o aumento da transparência do governo, criando melhores possibilidades de controle social das ações
@@ -20,4 +20,4 @@ governamentais.
 
 > Dados abertos governamentais são os dados públicos, produzidos ou sob a tutela do governo, que são disponibilizados ao cidadão em formato bruto e aberto, compreensíveis logicamente, de modo a permitir sua reutilização em aplicações desenvolvidas pela sociedade.
 >
-> O Estado de Minas Gerais, por meio do [Portal de Dados Abertos](http://dados.mg.gov.br/) disponibiliza a sociedade as bases de dados em formato aberto, os quais podem ser utilizados, modificados e compartilhados.
+> O Estado de Minas Gerais, por meio do [Portal de Dados Abertos](http://dados.mg.gov.br/) disponibiliza à sociedade as bases de dados em formato aberto, os quais podem ser utilizados, modificados e compartilhados.
