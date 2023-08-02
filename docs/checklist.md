@@ -1,5 +1,7 @@
 # CHECKLIST 
 
+Acesse o [checklist](https://docs.google.com/forms/d/e/1FAIpQLSddCBpXJDKPV9B4nIwl4Ibk1djWKLX-HPfJtiNZFSK6jO9Y1g/viewform) disponibilizado pela Controladoria-Geral do Estado, por meio da Superintendência Central de Transparência.
+
 ### AVALIAÇÃO DA TRANSPARÊNCIA ATIVA DOS ÓRGÃOS E ENTIDADES {.unlisted .unnumbered}
 
 **IMPORTANTE:** A avaliação do sítio eletrônico deve ser iniciada e finalizada no mesmo dia
