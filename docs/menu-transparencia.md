@@ -20,4 +20,4 @@ O objetivo do menu **Transparência** é ter um local único e padronizado que c
 >
 > No Menu Transparência estão disponíveis as informações mínimas sobre serviços de informação ao cidadão, informações classificadas e desclassificadas, ações e programas, receitas e despesas, compras e contratos, convênios, repasses e transferências, doações, comodatos e cooperações, pessoal e dados abertos, além de outros tópicos obrigatórios mas específicos para determinados órgãos e entidades e tópicos opcionais, como a participação social.
 >
->Para maiores informações sobre a Lei de Acesso à Informação e sua regulamentação no âmbito do Estado de Minas Gerais, acesse o [Portal da Transparência](http://www.transparencia.mg.gov.br)
+>Para maiores informações sobre a Lei de Acesso à Informação e sua regulamentação no âmbito do Estado de Minas Gerais, acesse o [Portal da Transparência](http://www.transparencia.mg.gov.br).
