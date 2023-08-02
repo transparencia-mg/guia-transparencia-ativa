@@ -1,0 +1,2 @@
+[tool.taskipy.tasks]
+deploy-mike = { cmd = "mike deploy --push --update-aliases v3 latest", help = "Publica documento utilizando Mkdocs e versionamento Mike" }

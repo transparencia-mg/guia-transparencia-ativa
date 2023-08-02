@@ -1,5 +1,7 @@
+ipdb==0.13.13
 mkdocs==1.4.0
 pymdown-extensions==9.6
 mkdocs-material==8.5.6
 mkdocs-git-revision-date-localized-plugin==1.1.0
 mike==1.1.2
+taskipy==1.12.0
