@@ -1,4 +1,4 @@
-name: Publish Documentation on Dev Version
+name: Publish documentation on GitHub pages
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
       - 'docs/**'
 
 jobs:
-  publish_documentation:
+  publish_documentation_on_github_pages:
     runs-on: Ubuntu-20.04
     steps:
 
