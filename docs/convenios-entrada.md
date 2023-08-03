@@ -17,7 +17,7 @@
 
 > Nesta seção são disponibilizadas informações referentes à transferência de recursos públicos para os órgão e entidades do Estado de Minas Gerais por meio de convênios de entrada, portarias, acordos, ajustes, transferência especial, dentre outros.
 > 
-> Para acessar os diversos tipos de informações sobre esses acordos, acesse os links abaixo para o acompanhamento dos recursos recebidos:
+> Para acompanhamento dos recursos recebidos, acesse os links abaixo:
 > 
 > •	[Convênios de Entrada de Recursos]( https://www.transparencia.mg.gov.br/convenios/convenio-entrada): contemplam a entrada de recursos celebrados por meio dos instrumentos cadastrados como Convênios pelo Estado com o Governo Federal, municípios e organizações da Sociedade Civil para execução das políticas públicas estaduais.
 > 
