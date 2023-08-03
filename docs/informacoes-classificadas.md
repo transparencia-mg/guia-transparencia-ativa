@@ -9,7 +9,6 @@
 
 ### Legislação
 -	[Lei Federal nº 12.527/2011 – art. 24 e 30](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm#art24);
--	[Decreto Federal nº 7.724/2012 – art. 45, inc. I e II](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7724.htm#art45);
 -	[Decreto Estadual nº 45.969/2012 – art 46, inc. I e II](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=45969&ano=2012);
 -	[Resolução SEPLAG nº 29/2016 – art. 25, inc. VII e art. 26, inc. VIII](http://www.planejamento.mg.gov.br/sites/default/files/documentos/resolucao_sitios_seplag_29_de_05_07_2016_1.pdf).
 
