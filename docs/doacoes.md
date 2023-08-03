@@ -15,7 +15,7 @@
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas a relação das doações e comodatos para o Governo de Minas Gerais, em consonância com o art. 18 do Decreto nº 47.611/2019. 
+> Nesta seção são disponibilizadas a relação das doações e comodatos para o Governo de Minas Gerais, em consonância com o arts. 26 e 27 do Decreto nº 48.444/2022. 
 > 
 > - Acesse [aqui](https://dados.mg.gov.br/dataset/doacoes-comodatos-amigo-estado-mg) a relação das doações e comodatos recebidos pelo Governo de Minas Gerais, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE). 
 >
