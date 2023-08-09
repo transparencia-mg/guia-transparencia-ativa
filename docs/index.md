@@ -1,3 +1,5 @@
+*Última atualização 09/08/2023*
+
 # INTRODUÇÃO
 
 O Guia de Transparência Ativa, elaborado pela Controladoria-Geral do Estado (CGE), tem por objetivo auxiliar os órgãos e entidades do Poder Executivo Estadual no correto cumprimento das obrigações de transparência ativa previstas na [Lei Federal nº 12.527, de 18 de novembro 2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm), [Decreto nº 45.969, de 24 de maio de 2012](https://www.almg.gov.br/legislacao-mineira/texto/DEC/45969/2012/?cons=1), e em demais normas que regem o assunto.
