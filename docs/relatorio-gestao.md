@@ -7,7 +7,7 @@
 - Permitir o acompanhamento pela sociedade dos documentos e informações relativas às prestações de contas anuais dos gestores públicos. 
 
 ### Legislação
-- [Decisão Normativa nº 02/2022 – art. 15, caput.](https://tclegis.tce.mg.gov.br/Home/Detalhe/1141129).
+- [Decisão Normativa nº 02/2022 – art. 15, caput.](https://tclegis.tce.mg.gov.br/Home/Detalhe/1141129)
 - [Lei 12.527/2011 – art. 8º](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm )  
 
 
@@ -22,5 +22,7 @@
 > - Lista dos documentos relativos a prestação de contas:  
 >   - Ofício de encaminhamento;
 >   - Rol de Responsáveis e
->   - Relatórios de Gestão (Demonstrativos Contábeis, Notas Explicativas e outros documentos não contemplados nos itens anteriores). 
+>   - Relatórios de Gestão (Demonstrativos Contábeis, Notas Explicativas e outros documentos não contemplados nos itens anteriores);
+>   - Relatório da Unidade de Controle Interno e
+>   - Julgamento das Contas. 
       
