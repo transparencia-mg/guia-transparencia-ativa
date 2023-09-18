@@ -3,6 +3,7 @@
 ### Objetivo
 - Divulgar a remuneração e o subsídio recebidos por ocupante de cargo, posto, graduação, função e emprego público, incluindo auxílios, ajudas de custo, jetons e quaisquer outras vantagens pecuniárias, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada.
 - Divulgar as informações sobre os proventos de aposentadoria dos servidores inativos e de pensões pagas pelo Estado de Minas Gerais.
+- Divulgar a lista dos contratados responsáveis pelos serviços de limpeza, conservação, apoio operacional e administrativo, dentre outros. 
 - Divulgar a lista dos Estagiários que mantém contrato de estágio com o órgão ou entidade.
 
 ### Impactos Esperados
@@ -16,12 +17,15 @@
 
 ### Frequência de atualização
 -	Periodicamente, verificar os links de acesso ao Portal da Transparência da Consulta de Remuneração de Servidores.
+-	Mensalmente, atualizar a lista com o nome completo dos contratos que prestam serviços no órgão/entidade, com dados de matrícula, nome, cargo, carga horária, remuneração bruta total, descontos, remuneração líquida total, atualizados dos últimos 3 anos. 
 -	Mensalmente, atualizar a lista com o nome completo dos estudantes que mantêm contrato de estágio com o órgão ou entidade, contendo dados atualizados dos últimos 3 anos. 
 
 ### Texto Padrão
 > Nesta seção são disponibilizadas informações sobre os servidores públicos ativos da administração direta, autárquica e fundacional, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada.
 >
 > - Acesse a [Remuneração dos Servidores Públicos](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores) ativos incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> - Acesse a relação dos [Contratados] que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
 > - Acesse a relação dos [Estagiários] que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
