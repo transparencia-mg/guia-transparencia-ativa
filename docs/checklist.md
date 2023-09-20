@@ -189,6 +189,14 @@ Acesse o [checklist](https://docs.google.com/forms/d/e/1FAIpQLSddCBpXJDKPV9B4nIw
 * Dentro do item "Servidores" tem o link para a consulta de Remuneração direcionando adequadamente para o Portal da Transparência?
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
+* Dentro do item "Servidores" tem a lista dos contratados que mantém contrato com o órgão/entidade, ou texto informando que não há contratados no órgão ou entidade?
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+    * [ ] NÃO SE APLICA
+* O item referente a lista de contratados está atualizado com dados dos últimos 3 anos?
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+    * [ ] NÃO SE APLICA
 * Dentro do item "Servidores" tem a lista dos estagiários que mantém contrato com o órgão/entidade, ou texto informando que não há contratos de estágios vigentes?
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
@@ -197,7 +205,7 @@ Acesse o [checklist](https://docs.google.com/forms/d/e/1FAIpQLSddCBpXJDKPV9B4nIw
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
     * [ ] NÃO SE APLICA
-    
+           
 #### CONCURSOS PÚBLICOS {.unlisted .unnumbered}
 
 * Dentro do menu "Transparência" tem o item "Concursos Públicos"?
@@ -250,6 +258,26 @@ Acesse o [checklist](https://docs.google.com/forms/d/e/1FAIpQLSddCBpXJDKPV9B4nIw
     * [ ] NÃO ATENDE
     * [ ] NÃO SE APLICA
 * Dentro do item "Doações e Comodatos", tem o link correto para a seção do portal de Dados Abertos ou a relação das doações e comodatos recebidos pelo órgão ou entidade?
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+    * [ ] NÃO SE APLICA
+
+
+#### RELATÓRIO DE GESTÃO {.unlisted .unnumbered}
+
+* Dentro do menu "Transparência" tem o item "Relatório de Gestão" 
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+    * [ ] NÃO SE APLICA
+* Dentro do item "Relatório de Gestão": tem o texto padrão referente ao Relatório de Gestão
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+    * [ ] NÃO SE APLICA
+* Dentro do item "Relatório de Gestão" consta a documentação referente a prestação de contas anual do órgão/entidade prevista nos ordenamentos do TCE/MG 
+    * [ ] ATENDE TOTALMENTE
+    * [ ] NÃO ATENDE
+    * [ ] NÃO SE APLICA
+* Dentro do item "Relatório de Gestão" consta a prestação de contas anual do órgão/entidade, pelo menos, dos últimos 3 anos
     * [ ] ATENDE TOTALMENTE
     * [ ] NÃO ATENDE
     * [ ] NÃO SE APLICA
