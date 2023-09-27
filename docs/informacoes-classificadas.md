@@ -18,7 +18,7 @@
 
 ### Texto Padrão
 
-> Espaço reservado para a divulgação das informações do(a) (NOME DO ÓRGÃO/ENTIDADE) classificadas ou desclassificadas nos graus de sigilo definidos no art. 24 da Lei nº 12.527/2011, em cumprimento ao disposto nos incisos I e II, do art. 45 do Decreto Federal nº 7.724/2012.
+> Espaço reservado para a divulgação das informações do(a) (NOME DO ÓRGÃO/ENTIDADE) classificadas ou desclassificadas nos graus de sigilo definidos no art. 24 da Lei nº 12.527/2011, em cumprimento ao disposto nos incisos I e II, do art. 46 do Decreto Estadual nº 45.969/2012.
 > 
 > Acesse as informações classificadas e desclassificadas do(a) (NOME DO ÓRGÃO OU ENTIDADE), até o dia (informar a última data de atualização).
 > 
