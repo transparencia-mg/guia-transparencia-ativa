@@ -19,6 +19,6 @@
 >
 > - Acesse os [Concursos Públicos em Andamento](https://www.mg.gov.br/planejamento/pagina/gestao-de-pessoas/recrutamento-e-selecao/recrutamento-e-selecao), disponíveis na página da Secretaria de Estado de Planejamento e Gestão.
 >
-> - Acesse os [Concursos Realizados](http://www.transparencia.mg.gov.br/estado-pessoal/concursos-realizados) pelo próprio órgão/entidade.
+> - Acesse os [Concursos Realizados](https://www.transparencia.mg.gov.br/concursos-e-processos-seletivos/concursos-realizados) pelo próprio órgão/entidade.
 
 **OBSERVAÇÃO:** Na ausência de Concursos Públicos realizados ou em andamento, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Concursos Realizados” do Portal da Transparência e/ou “Concursos Públicos em Andamento” do sítio da SEPLAG.
