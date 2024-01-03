@@ -35,7 +35,7 @@
  
 > **Receita pública:** Montante em dinheiro recolhido pelo Estado em virtude de arrecadação via impostos, taxas, contribuições e outras fontes de recursos, incorporado ao patrimônio do Estado, que serve para custear as despesas públicas e as necessidades de investimentos públicos.
 > 
-> - Acesse as [receitas públicas estaduais](http://www.transparencia.mg.gov.br/estado-receita), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse as [receitas públicas estaduais](https://www.transparencia.mg.gov.br/receitas/estado-receita), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
 **OBSERVAÇÃO:** Na ausência de receitas arrecadadas pelo próprio órgão/entidade, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Receita” do Portal da Transparência.
 
