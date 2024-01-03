@@ -16,6 +16,6 @@
 
 > Nesta seção são disponibilizados dados da frota de veículos terrestres ativa que estão a serviço do Estado, incluindo informações sobre as manutenções e abastecimentos desses veículos além de informações sobre o patrimônio mobiliário do Estado, incluindo os bens que se encontram em uso ou não, podendo as consultas serem realizadas por órgão ou entidade.
 > 
-> - Acesse a listagem dos [Bens Móveis](http://www.transparencia.mg.gov.br/compras-e-patrimonio/patrimonio) do Estado de Minas Gerais.
+> - Acesse a listagem dos [Bens Móveis](https://www.transparencia.mg.gov.br/patrimonio/bens-moveis) do Estado de Minas Gerais.
 >
-> - Acesse a [Frota](http://www.transparencia.mg.gov.br/compras-e-patrimonio/gestao-de-frota) do Estado de Minas Gerais.
+> - Acesse a [Frota](https://www.transparencia.mg.gov.br/patrimonio/frota) do Estado de Minas Gerais.
