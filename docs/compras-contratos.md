@@ -14,7 +14,6 @@
 -	[Decreto Estadual nº 45.969/2012 – art. 7º, inc. VI](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=45969&ano=2012);
 -	[Resolução SEPLAG nº 29/2016 – art. 25, inc. IV e art. 26, inc. IV](http://www.planejamento.mg.gov.br/sites/default/files/documentos/resolucao_sitios_seplag_29_de_05_07_2016_1.pdf);
 -	[Lei Estadual nº 23.569/2020 – art. 1º, inc. I e art. 2º](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23569&comp=&ano=2020).
--	[Cartilha Orientações - Atricon](https://docs.google.com/document/d/1lFyzEkznb9QzhsQEvy5p027VtfoLihGq/edit)
 
 ###	Frequência de atualização
 - Periodicamente, verificar os links de acesso ao Portal da Transparência e ao Portal de Compras.
@@ -26,7 +25,7 @@
 > 
 > Acesse o Portal de Compras para consultar os [Procedimentos Licitatórios](http://compras.mg.gov.br/) em andamento no(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
-> Acesse os [processos de compras](http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos) concluídos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> Acesse os [processos de compras](https://www.transparencia.mg.gov.br/licitacoes-e-contratos/compras-e-contratos) concluídos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
 > Acesse a [Lista dos Fiscais de Contratos] do (NOME DO ÓRGÃO OU ENTIDADE), vigentes e encerrados nos últimos 3 anos.
 > 
