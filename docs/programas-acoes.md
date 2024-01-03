@@ -22,7 +22,7 @@
 
 > Nesta seção são disponibilizadas as informações dos programas e ações vigentes do(a) (NOME DO ÓRGÃO/ENTIDADE) no ano de XXXX, bem como os instrumentos de planejamento e orçamento do Governo do Estado de Minas Gerais: PPAG, LDO e LOA.
 > 
-> Acesse os dados e informações acerca dos [Programas e Ações](https://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento/programacao-execucao-ppag-programa/ppagprograma-programas/5/2023/0/0) vigentes no Estado de Minas Gerais, incluindo o do(a) (NOME DO ÓRGÃO/ENTIDADE).
+> Acesse os dados e informações acerca dos [Programas e Ações](https://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento-ppag/programacao-execucao-ppag-programa/ppagprograma-programas/5/2023/0/0) vigentes no Estado de Minas Gerais, incluindo o do(a) (NOME DO ÓRGÃO/ENTIDADE).
 > 
 > **Plano Plurianual de Ação Governamental (PPAG):** é o instrumento orientador do planejamento da administração pública de médio prazo. Define qual será o escopo de atuação do Estado para um período de quatro anos, refletido nos programas e ações de governo, com suas respectivas metas físicas e orçamentárias, que serão executados durante esse período.
 >
