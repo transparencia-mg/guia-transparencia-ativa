@@ -16,7 +16,6 @@
 - [Decreto Estadual nº 45.969/2012 – art. 7º, inc. IV](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=45969&ano=2012);
 - [Resolução SEPLAG nº 29/2016 – art. 25, inc. III e art. 26, inc. V](http://www.planejamento.mg.gov.br/sites/default/files/documentos/resolucao_sitios_seplag_29_de_05_07_2016_1.pdf);
 - [Lei Estadual nº 23.569/2020 – art. 1º, inc. II e III](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23569&comp=&ano=2020);
-- [Cartiha de Orientações - ATRICON](https://docs.google.com/document/d/1lFyzEkznb9QzhsQEvy5p027VtfoLihGq/edit)
 
 ### Frequência de atualização
 -	Periodicamente, verificar o link de acesso ao Portal da Transparência, para os convênios, repasses e transferências disponíveis na consulta de Convênios/Parcerias de Saída de Recursos.
@@ -28,7 +27,7 @@
 
 > Nesta seção são disponibilizadas informações referentes às transferências de recursos públicos realizados pelo Estado por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres com os órgãos ou entidades públicas ou entidades privadas sem fins lucrativos.
 > 
-> - Acesse os [Convênios de Saída de Recursos](http://www.transparencia.mg.gov.br/convenios/convenios-de-saida) e termos de colaboração e fomento do Estado, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse os [Convênios de Saída de Recursos](https://www.transparencia.mg.gov.br/convenios/convenios-de-saida-de-recursos) e termos de colaboração e fomento do Estado, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
 > - Acesse os [Termos de Concessão – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Público Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
