@@ -7,7 +7,7 @@
 - Permitir o acompanhamento pela sociedade dos documentos e informações relativas às prestações de contas anuais dos gestores públicos. 
 
 ### Legislação
-- [Decisão Normativa nº 02/2022 – art. 15, caput.](https://tclegis.tce.mg.gov.br/Home/Detalhe/1141129)
+- [art. 15 da Instrução Normativa TCE/MG Nº 03/2023](https://tclegis.tce.mg.gov.br/Home/Detalhe/1141981)
 - [Lei 12.527/2011 – art. 8º](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm )  
 
 
@@ -16,7 +16,7 @@
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizados os documentos e informações relativas às prestações de contas anuais dos gestores públicos, incluindo as desmonstrações contábeis e respectivas notas explicativas, em atendimento ao art. 8º da Lei nº 12.527, de 18 de novembro de 2011. 
+> Nesta seção são disponibilizados os documentos e informações relativas às prestações de contas anuais dos gestores públicos, incluindo as desmonstrações contábeis e respectivas notas explicativas, em atendimento as Instruções Normativas do TCE/MG referente as prestações de contas anuais.
 > 
 > - AAAA (ano da prestação de contas) 
 > - Lista dos documentos relativos a prestação de contas:  
