@@ -62,7 +62,7 @@ Instrumento de filtro de pesquisa que permita inserir ou escolher texto, filtran
 > 
 > - Acesse [aqui] a lista dos pagamentos realizados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) com a respectiva ordem cronológica de pagamento, bem como as justificativas que fundamentaram a eventual alteração dessa ordem.
 >
-* Disponibilizar lista mensal em formato editável com dados dos três últimos anos, com no mínimo as seguintes informações:
+Disponibilizar lista mensal em formato editável com dados dos três últimos anos, com no mínimo as seguintes informações:
 > - Nome do Credor
 > - CNPJ
 > - Identificação da origem do crédito
