@@ -1,7 +1,7 @@
 ## Informações classificadas e desclassificadas
 
 ### Objetivo
--	Informar o rol de informações classificadas em grau de sigilo, bem como o rol de informações desclassificadas nos últimos 12 meses.
+-	Informar o rol de informações classificadas em grau de sigilo ultrassecreto, secreto e reservado, bem como o rol de informações desclassificadas nos últimos 12 meses.
 
 ### Impactos Esperados
 -	Permitir a identificação adequada das informações passíveis de restrições;
@@ -16,13 +16,30 @@
 -	Anualmente: em 1º de junho.
 -	E sempre que houver alteração nas informações classificadas e desclassificadas.
 
+### Requisitos
+O rol de informações classificadas deve relacionar todas as informações com classificação formalizada pelo órgão ou entidade, com a indicação, no mínimo, dos seguintes elementos:
+- assunto sobre o qual versa a informação;
+- categoria na qual se encontra a informação (ultrassecreto, secreto, reservado);
+- dispositivo legal que fundamenta a classificação; e
+- indicação do prazo de sigilo, contado em anos, meses ou dias, ou do evento que defina o seu termo final.
+Se não houver a classificação de qualquer informação no ano/período, o órgão ou entidade deve informar essa situação. Exemplo: No período de 2021 a 2023 nenhuma informação foi classificada ou desclassificada com grau de sigilo.
+
+Considera-se que as informações estão atualizadas quando as mais recentes datarem, pelo menos, do ano anterior ao da pesquisa (regra de atualização anual). A página deve informar a data da última atualização.
+
+Considera-se que existe histórico de informações quando os dados disponibilizados referirem-se, pelo menos, a 3 anos que antecedem ao da pesquisa.
+
+Deverá ser possível gravar as informações em pelo menos um formato editável (em extensões do tipo txt, csv, odt, calc, rtf, json e outros).
+
+A  página deverá permitir inserir ou escolher texto, filtrando ou direcionando as opções de dados dentro do conjunto específico de informações aqui identificadas.
+
 ### Texto Padrão
 
-> Espaço reservado para a divulgação das informações do(a) (NOME DO ÓRGÃO/ENTIDADE) classificadas ou desclassificadas nos graus de sigilo definidos no art. 24 da Lei nº 12.527/2011, em cumprimento ao disposto nos incisos I e II, do art. 46 do Decreto Estadual nº 45.969/2012.
+> O(a) (NOME DO ÓRGÃO/ENTIDADE) divulga anualmente o rol de informações classificadas em grau de sigilo ultrassecreto, secreto e reservado, bem como o rol de informações desclassificadas, sempre atualizada no dia 1º de junho em cumprimento ao disposto no art. 24 da Lei Federal nº 12.527/2011 e incisos I e II, art. 46 do Decreto Estadual nº 45.969/2012.
 > 
-> Acesse as informações classificadas e desclassificadas do(a) (NOME DO ÓRGÃO OU ENTIDADE), até o dia (informar a última data de atualização).
-> 
-> •	Link para documento elaborado pelo órgão ou entidade, conforme orientações da Diretoria de Transparência Passiva da Controladoria-Geral do Estado.
+> Rol de informações classificadas e desclassificadas do(a) (NOME DO ÓRGÃO OU ENTIDADE), até o dia (informar a última data de atualização).
+>
+
+•	Link para documento elaborado pelo órgão ou entidade, em formato editável (em extensões do tipo txt, csv, odt, calc, rtf, json e outros), conforme orientações da Diretoria de Transparência Passiva da Controladoria-Geral do Estado.
 >
 
 **OBSERVAÇÃO:** Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado, com a respectiva data da última atualização:
