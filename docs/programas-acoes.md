@@ -18,6 +18,9 @@
 -	Bimestralmente: para as informações sobre Ações e Programas. 
 -	Periodicamente, verificar os links de acesso ao Portal da Transparência da Consulta Programação e Execução do PPAG por Programa.
 
+### Requisitos
+É necessário que esteja publicada no portal, em seção específica, a íntegra do PPAG, LDO e LOA do exercício vigente. Não será considerado cumprido o critério se a Lei estiver apenas na área ou menu que contenha todas as legislações, necessitando a procura pelo usuário.
+
 ### Texto Padrão
 
 > Nesta seção são disponibilizadas as informações dos programas e ações vigentes do(a) (NOME DO ÓRGÃO/ENTIDADE) no ano de XXXX, bem como os instrumentos de planejamento e orçamento do Governo do Estado de Minas Gerais: PPAG, LDO e LOA.
