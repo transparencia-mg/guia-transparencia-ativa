@@ -77,6 +77,7 @@ Também devem ser divulgadas sistema ou documento em formato editável com dados
 A informação sobre obras paralisadas também devem constar nessa página. Caso o órgão não possua obras paralisadas essa informação deverá estar clara para a sociedade.
 > LISTA DAS OBRAS PARALISADAS
 > - Relação das obras paralisadas, contendo motivo, responsável pela inexecução temporária da obra, data prevista para reinício da obra.
+
 **OBSERVAÇÃO:** Na ausência de Obras Públicas paralisadas, o órgão ou entidade deverá informar que no momento não existem obras públicas paralisadas, com a respectiva data de atualização do texto. 
 
 OU 
