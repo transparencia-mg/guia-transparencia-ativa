@@ -23,25 +23,50 @@
 -	Periodicamente, utilizar o link de acesso ao Portal das Parcerias Público Privadas - PPP.
 -	Atualizar, mensalmente, os dados de Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros.
 
+### Requisito
+Devem ser disponibilizadas informações pormenorizadas quanto aos Ajustes, Acordos, Termos de Parceria, Convênios e outros Instrumentos congêneres que o Poder ou Órgão tenha aderido, firmado ou seja signatário, compreendendo, no mínimo, dados relativos a:
+- nome das partes
+- número/ano do convênio/termo ou ajuste (ou instrumento equivalente)
+- objeto do convênio/repasse
+- valor total do convênio (quando aplicável)
+- valores já repassados com as datas (quando aplicável)
+- vigência do convênio/termo ou ajuste
+- inteiro teor do instrumento de convênio/termo ou ajuste
+
+Considera-se que as informações estão atualizadas quando as mais recentes datarem no máximo há 30 dias do dia em que está sendo realizada a consulta.
+
+Considera-se que existe histórico de informações quando os dados disponibilizados referirem-se, pelo menos, a 3 anos que antecedem ao da pesquisa. Nos casos de não ocorrência, a informação expressa para os anos anteriores deve constar de igual forma.
+
+Possibilidade de gravar um conjunto de informações selecionadas em pelo menos um formato editável (em extensões do tipo txt, csv, odt, calc, rtf, json e outros), dentro de um conjunto específico de informações.
+
+Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtrando ou direcionando as opções de dados dentro do conjunto específico de informações referentes às transferências voluntárias, sendo exigido no mínimo para atendimento deste critério a consulta por exercício (ano).
+
 ### Texto Padrão
 
+### CONVÊNIOS DE SAÍDA DE RECURSOS E TERMOS DE CONCESSÃO
 > Nesta seção são disponibilizadas informações referentes às transferências de recursos públicos realizados pelo Estado por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres com os órgãos ou entidades públicas ou entidades privadas sem fins lucrativos.
 > 
 > - Acesse os [Convênios de Saída de Recursos](https://www.transparencia.mg.gov.br/convenios/convenios-de-saida-de-recursos) e termos de colaboração e fomento do Estado, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
 > - Acesse os [Termos de Concessão – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Público Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
-**OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos ou Termos de Concessão/PPP, o órgão ou entidade deverá informar de forma expressa: “Não foram firmados Convênios e Parcerias de Saída de Recursos ou Termos de Concessão/PPP, colocando a data da atualização do documento.
+**OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos ou Termos de Concessão/PPP, o órgão ou entidade deverá informar de forma expressa:
 
+**Exemplo**: “Não foram firmados Convênios e Parcerias de Saída de Recursos ou Termos de Concessão/PPP, pelo (a) (NOME DO ÓRGÃO OU ENTIDADE) nos últimso 3 anos". Data de atualização: XX/XX/XXXX
+
+### ACORDO DE COOPERAÇÃO TÉCNICA
 > Acesse abaixo os Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros. 
 
-**OBSERVAÇÃO:** O órgão ou entidade deverá disponibilizar o acesso aos documentos/informações de Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros, compreendendo, no mínimo, dados relativos a:
-  - nomes das partes;
-  - número/ano do convênio/termo ou ajuste (ou instrumento equivalente) 
-  - objeto do convênio/repasse
-  - vigência do convênio/termo ou ajuste 
-  - inteiro teor do instrumento de convênio/termo ou ajuste.
+Disponibilizar lista mensal em formato editável com dados dos três últimos anos de Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros, com no mínimo as seguintes informações:
 
-**OBSERVAÇÃO:** Caso o órgão não tenha firmado acordos ou parcerias no período, essa informação deve constar de forma expressa na seção própria: “Não foram firmados acordos, ajustes ou parcerias no período”, colocando a data da atualização do documento.
+> - nomes das partes;
+> - número/ano do convênio/termo ou ajuste (ou instrumento equivalente) 
+> - objeto do convênio/repasse
+> - vigência do convênio/termo ou ajuste 
+> - link para acesso ao inteiro teor do instrumento de convênio/termo ou ajuste.
+
+**OBSERVAÇÃO:** Caso o órgão não tenha firmado acordos ou parcerias no período, essa informação deve constar de forma expressa na seção própria: 
+
+**Exemplo**: “Não foram firmados Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros, pelo (a) (NOME DO ÓRGÃO OU ENTIDADE) nos últimso 3 anos". Data de atualização: XX/XX/XXXX“
 
 
