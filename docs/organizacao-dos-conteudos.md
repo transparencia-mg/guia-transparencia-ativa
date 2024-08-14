@@ -21,6 +21,7 @@ Os órgãos e entidades do Poder Executivo Estadual devem observar rigorosamente
 - [Despesas e Receitas](despesas-receitas.md)
 - [Compras e Contratos](compras-contratos.md)
 - [Convênios, Repasses e Transferências](convenios-repasses.md)
+- [Convênios de Entrada](convenios-entrada.md)
 - [Servidores](servidores.md)
 - [Concursos Públicos](concursos-publicos.md)
 - [Dados Abertos](dados-abertos.md)
