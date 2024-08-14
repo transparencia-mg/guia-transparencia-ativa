@@ -32,7 +32,7 @@
 
 > Nesta seção são disponibilizadas as informações sobre as obras públicas do(a) (NOME DO ÓRGÃO/ENTIDADE).
 > 
-* O órgão ou entidade deve disponibilizar sistema ou documento em formato editável com no mínimo as seguintes informações:
+O órgão ou entidade deve disponibilizar sistema ou documento em formato editável com no mínimo as seguintes informações:
 > - Obra (nº da obra) 
 > - Objeto (informar o objeto da obra)
 > - Contrato (número do contrato e link para acesso ao contrato)
@@ -74,9 +74,19 @@ Também devem ser divulgadas sistema ou documento em formato editável com dados
 > - O(a) (NOME DO ÓRGÃO/ENTIDADE) não possui obras públicas em andamento. Data de atualização: XX/XX/XXXX.
 
 
-A informação sobre obras paralisadas também devem constar nessa página. Caso o órgão não possua obras paralisadas essa informação deverá estar clara para a sociedade.
+A informação sobre obras paralisadas, também devem constar nessa página. Caso o órgão não possua obras paralisadas essa informação deverá estar clara para a sociedade.
+
 > LISTA DAS OBRAS PARALISADAS
-> - Relação das obras paralisadas, contendo motivo, responsável pela inexecução temporária da obra, data prevista para reinício da obra.
+> 
+Lista em formato editável contendo as seguintes informações sobre as obras paralisadas:
+
+> - Obra paralisada (identificação da obra)
+> 
+> - Motivo da paralisação
+> 
+> - Responsável pela inexecução temporária da obra
+> 
+> - Data prevista para reinício da obra
 
 **OBSERVAÇÃO:** Na ausência de Obras Públicas paralisadas, o órgão ou entidade deverá informar que no momento não existem obras públicas paralisadas, com a respectiva data de atualização do texto. 
 
