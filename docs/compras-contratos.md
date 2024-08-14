@@ -58,7 +58,9 @@ Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtra
 > 
 > Acesse a Lista dos Fiscais de Contratos do (NOME DO ÓRGÃO OU ENTIDADE), vigentes e encerrados nos últimos 3 anos.
 >
+
 Disponibilizar lista mensal em formato editável com dados dos três últimos anos, com no mínimo as seguintes informações:
+
 > - Número do Contrato
 > - Nome do Fiscal do Contrato
 > - Tipo
