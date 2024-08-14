@@ -7,6 +7,7 @@
 - [Compras e Contratos](compras-contratos.html)
 - [Obras Públicas](obras-publicas.html)
 - [Convênios, Repasses e Transferências](convenios-repasses.html)
+- [Convênios de Entrada](convenios-entrada.html)
 - [Doações e Comodatos](doacoes.html)
 - [Servidores](servidores.html)
 - [Concursos Públicos](concursos-publicos.html)
