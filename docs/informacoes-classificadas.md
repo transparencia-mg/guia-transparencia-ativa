@@ -39,7 +39,7 @@ A  página deverá permitir inserir ou escolher texto, filtrando ou direcionando
 > Rol de informações classificadas e desclassificadas do(a) (NOME DO ÓRGÃO OU ENTIDADE), até o dia (informar a última data de atualização).
 >
 
-•	Link para documento elaborado pelo órgão ou entidade, em formato editável (em extensões do tipo txt, csv, odt, calc, rtf, json e outros), conforme orientações da Diretoria de Transparência Passiva da Controladoria-Geral do Estado.
+Link para documento elaborado pelo órgão ou entidade, em formato editável (em extensões do tipo txt, csv, odt, calc, rtf, json e outros), conforme orientações da Diretoria de Transparência Passiva da Controladoria-Geral do Estado.
 >
 
 **OBSERVAÇÃO:** Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado, com a respectiva data da última atualização:
