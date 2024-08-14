@@ -20,15 +20,45 @@
 -	Mensalmente, atualizar a lista com o nome completo dos contratos que prestam serviços no órgão/entidade, com dados de matrícula, nome, cargo, carga horária, remuneração bruta total, descontos, remuneração líquida total, atualizados dos últimos 3 anos. 
 -	Mensalmente, atualizar a lista com o nome completo dos estudantes que mantêm contrato de estágio com o órgão ou entidade, contendo dados atualizados dos últimos 3 anos. 
 
+### Requisito
+Deve constar a lista com o nome dos servidores, estudantes que mantêm contrato de estágio com o órgão ou entidade, terceirizados que prestam serviços para o órgão ou entidade.
+
+Considera-se que as informações estão atualizadas quando as mais recentes datarem de, no máximo, 180 dias da data em que for realizada a consulta.
+
+Considera-se que existe histórico de informações quando os dados disponibilizados referirem-se, pelo menos, a 3 anos que antecedem ao da pesquisa.
+
+Possibilidade de gravar um conjunto de informações selecionadas em pelo menos um formato editável (em extensões do tipo txt, csv, odt, calc, rtf, json e outros).
+
+Filtro de Pesquisa com instrumento que permita inserir ou escolher texto, filtrando ou direcionando as opções de dados dentro do conjunto específico de informações aqui identificadas.
+
 ### Texto Padrão
+SERVIDORES PÚBLICOS
 > Nesta seção são disponibilizadas informações sobre os servidores públicos ativos da administração direta, autárquica e fundacional, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada.
 >
 > - Acesse a [Remuneração dos Servidores Públicos](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores) ativos incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
-> - Acesse a relação dos [Contratados] que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
-> 
-> - Acesse a relação dos [Estagiários] que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
+CONTRATADOS
+> - Acesse a relação dos [Contratados] que prestam serviços para o(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>   
+Disponibilizar lista mensal em formato editável com dados dos terceirizados que prestam serviços para o órgão ou entidade, com no mínimo as seguintes informações:
 
-**OBSERVAÇÃO:** Caso o órgão não tenha contrato com estagiários, essa informação deve constar de forma expressa: “Não foram firmados contratos de estágios no período”, colocando a data da atualização do documento.
+> - Nome Completo
+> - Função ou ativdade exercida
+> - Nome e CNPJ da empresa empregadora
+> 
+**OBSERVAÇÃO:** Caso o órgão não tenha terceirizados, essa informação deve constar de forma expressa:
+**Exemplo:"" “Não foram firmados firmados contratos com prestadores de serviços nos três últimos anos”. Data de atualização: XX/XX/XXXX
+
+ESTAGIÁRIOS
+> - Acesse a relação dos [Estagiários] que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>   
+Disponibilizar lista mensal em formato editável com dados dos estagiários que mantém contrato de estágio com o órgão ou entidade, com no mínimo as seguintes informações:
+
+> - Nome Completo
+> - Função ou ativdade exercida
+> - Nome e CNPJ da empresa empregadora
+>   
+**OBSERVAÇÃO:** Caso o órgão não tenha contrato com estagiários, essa informação deve constar de forma expressa:
+**Exemplo:"" “Não foram firmados contratos de estágios nos três últimos anos”. Data de atualização: XX/XX/XXXX
 
 
