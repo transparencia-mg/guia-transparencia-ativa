@@ -17,9 +17,10 @@ nav:
     - 4.5 Despesas e receitas: 'despesas-receitas.md'
     - 4.6 Compras e Contratos: 'compras-contratos.md'
     - 4.7 Convênios, Repasses e Transferências: 'convenios-repasses.md'
-    - 4.8 Servidores: 'servidores.md'
-    - 4.9 Concursos Públicos: 'concursos-publicos.md'
-    - 4.10 Dados Abertos: 'dados-abertos.md'
+    - 4.8 Convênios de Entrada: 'convenios-entrada.md'
+    - 4.9 Servidores: 'servidores.md'
+    - 4.10 Concursos Públicos: 'concursos-publicos.md'
+    - 4.11 Dados Abertos: 'dados-abertos.md'
   - 5 DIVULGAÇÃO ESPECÍFICA:
     - 5.1 Procedimentos licitatórios enviados para o TCE/MG: 'tce.md'
     - 5.2 Doações e Comodatos: 'doacoes.md'
@@ -27,8 +28,7 @@ nav:
     - 5.4 Transparência em Período Eleitoral: 'periodo-eleitoral.md'
   - 6 DIVULGAÇÃO OPCIONAL: 
     - 6.1 Participação Social: 'participacao-social.md'
-    - 6.2 Convênios de Entrada: 'convenios-entrada.md'
-    - 6.3 Bens: 'bens.md'
+    - 6.2 Bens: 'bens.md'
   - 7 DISPOSITIVOS LEGAIS: 'dispositivos-legais.md'
   - 8 ASPECTOS TECNOLÓGICOS: 'aspectos-tecnologicos.md'
   - 9 CHECKLIST: 'checklist.md'
