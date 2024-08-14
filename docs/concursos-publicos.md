@@ -29,7 +29,7 @@ Filtro de Pesquisa com instrumento que permite inserir ou escolher texto, filtra
 >
 > - Acesse os [Concursos Públicos em Andamento](https://www.mg.gov.br/planejamento/pagina/gestao-de-pessoas/recrutamento-e-selecao/recrutamento-e-selecao), disponíveis na página da Secretaria de Estado de Planejamento e Gestão.
 >
-> - Acesse os [Concursos Realizados](https://www.transparencia.mg.gov.br/concursos-e-processos-seletivos/concursos-realizados) pelo próprio órgão/entidade.
+> - Acesse os [Concursos Realizados](https://www.transparencia.mg.gov.br/concursos-e-processos-seletivos/concursos-realizados1) pelo próprio órgão/entidade.
 >   
 > - Acesse as informações sobre as vagas disponiblizadoas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE)
 >   
