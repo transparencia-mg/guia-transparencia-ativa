@@ -33,6 +33,7 @@
 > Nesta seção são disponibilizadas as informações sobre as obras públicas do(a) (NOME DO ÓRGÃO/ENTIDADE).
 > 
 O órgão ou entidade deve disponibilizar sistema ou documento em formato editável com no mínimo as seguintes informações:
+
 > - Obra (nº da obra) 
 > - Objeto (informar o objeto da obra)
 > - Contrato (número do contrato e link para acesso ao contrato)
@@ -93,6 +94,7 @@ Lista em formato editável contendo as seguintes informações sobre as obras pa
 OU 
 
 > LISTA DAS OBRAS PARALISADAS
+> 
 > - O(a) (NOME DO ÓRGÃO/ENTIDADE) não possui obras públicas paralisadas. Data de atualização: XX/XX/XXXX.
 
 
