@@ -1,4 +1,4 @@
-*Última atualização 09/08/2023*
+*Última atualização 20/08/2024*
 
 # INTRODUÇÃO
 
