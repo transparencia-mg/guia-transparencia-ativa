@@ -37,7 +37,9 @@ SERVIDORES PÚBLICOS
 >
 > - Acesse a [Remuneração dos Servidores Públicos](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores) ativos incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
+
 CONTRATADOS
+
 > - Acesse a relação dos [Contratados] que prestam serviços para o(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >   
 Disponibilizar lista mensal em formato editável com dados dos terceirizados que prestam serviços para o órgão ou entidade, com no mínimo as seguintes informações:
