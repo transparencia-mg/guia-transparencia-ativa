@@ -32,10 +32,22 @@ Instrumento de filtro de pesquisa que permita inserir ou escolher texto, filtran
 
 Disponibilizar lista mensal em formato editável com dados dos três últimos anos, com no mínimo as seguintes informações:
 
-> - Nome do Credor
-> - CNPJ
-> - Identificação da origem do crédito
-> - Data de Vencimento (data de liquidação ou emissão da nota fiscal)
-> - Data de pagamento
-> - Valor
-> - Justificativa (em caso de quebra da ordem cronológica)
+> - Ano de Exercício
+> - Unidade Orçamentária - Código/Nome
+> - Unidade Executora – Código
+> - Funcional Programática – Formatado
+> - Fonte Recurso – Código
+> - Elemento Despesa – Descrição
+> - Item Despesa - Descrição
+> - Razão Social Credor
+> - Número Empenho
+> - Data Registro Doc Empenho
+> - Data Registro Doc Liquidação
+> - Data Vencimento Liquidação
+> - Número Docto Pagamento
+> - Data Pagamento
+> - Data Registro
+> - Valor Despesa Liquidada
+> - Valor Pago Financeiro
+> - Justificativa (casos que tenha ocorrida a quebra da ordem)
+
