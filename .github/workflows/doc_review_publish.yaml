@@ -9,7 +9,7 @@ on:
 
 jobs:
   publish_documentation_on_github_pages:
-    runs-on: Ubuntu-20.04
+    runs-on: Ubuntu-22.04
     steps:
 
       - name: Set up Python
