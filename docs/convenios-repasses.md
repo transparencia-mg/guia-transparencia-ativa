@@ -54,19 +54,4 @@ Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtra
 
 **Exemplo**: “Não foram firmados Convênios e Parcerias de Saída de Recursos ou Termos de Concessão/PPP, pelo (a) (NOME DO ÓRGÃO OU ENTIDADE) nos últimso 3 anos". Data de atualização: XX/XX/XXXX
 
-### ACORDO DE COOPERAÇÃO TÉCNICA
-> Acesse abaixo os Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros. 
-
-Disponibilizar lista mensal em formato editável com dados dos três últimos anos de Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros, com no mínimo as seguintes informações:
-
-> - nomes das partes;
-> - número/ano do convênio/termo ou ajuste (ou instrumento equivalente) 
-> - objeto do convênio/repasse
-> - vigência do convênio/termo ou ajuste 
-> - link para acesso ao inteiro teor do instrumento de convênio/termo ou ajuste.
-
-**OBSERVAÇÃO:** Caso o órgão não tenha firmado acordos ou parcerias no período, essa informação deve constar de forma expressa na seção própria: 
-
-**Exemplo**: “Não foram firmados Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros, pelo (a) (NOME DO ÓRGÃO OU ENTIDADE) nos últimso 3 anos". Data de atualização: XX/XX/XXXX“
-
 
