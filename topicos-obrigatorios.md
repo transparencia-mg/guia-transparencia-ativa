@@ -10,6 +10,7 @@
 - [Compras e Contratos](compras-contratos.html)
 - [Fiscais de Contratos](fiscais-contratos.html)
 - [Convênios, Repasses e Transferências](convenios-repasses.html)
+- [Acordos de Cooperação Técnica](acordo-cooperacao-tecnica.html)
 - [Convênios de Entrada](convenios-entrada.html)
 - [Servidores](servidores.html)
 - [Concursos Públicos](concursos-publicos.html)
