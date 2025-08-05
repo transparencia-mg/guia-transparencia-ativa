@@ -7,6 +7,7 @@
 - [Obras Públicas](obras-publicas.html)
 - [Despesas e Receitas](despesas-receitas.html)
 - [Ordem Cronológica de Pagamento](ordem-cronológica.html)
+- [Despesas com Publicidade](publicidade.html)
 - [Compras e Contratos](compras-contratos.html)
 - [Fiscais de Contratos](fiscais-contratos.html)
 - [Convênios, Repasses e Transferências](convenios-repasses.html)
