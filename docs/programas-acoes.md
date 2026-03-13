@@ -29,13 +29,9 @@
 > 
 > **Plano Plurianual de Ação Governamental (PPAG):** é o instrumento orientador do planejamento da administração pública de médio prazo. Define qual será o escopo de atuação do Estado para um período de quatro anos, refletido nos programas e ações de governo, com suas respectivas metas físicas e orçamentárias, que serão executados durante esse período.
 >
-> Acesse o [PPAG](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/plano-plurianual-de-acao-governamental-ppag/plano-plurianual-de-acao) na íntegra e os documentos relacionados.
-> 
 > **Lei de Diretrizes Orçamentárias (LDO):** estabelece quais programas e ações do PPAG serão prioridade, bem como as regras para a elaboração do orçamento e as metas fiscais (projeção da receitas e despesas totais) para os próximos três anos. 
 >
-> Acesse a [LDO](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/lei-de-diretrizes-orcamentarias-ldo/lei-de-diretrizes-orcamentarias) na íntegra e os documentos relacionados.
-> 
 > **Lei Orçamentária Anual (LOA):** detalha os valores (receitas e despesas) definidos para o conjunto de programas e ações do PPAG. Especifica os recursos que irão financiar cada ação e as respectivas despesas.
 >
-> Acesse a [LOA](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/lei-orcamentaria-anual-loa/lei-orcamentaria-anual-loa) na íntegra e documentos relacionados.
+> Acesse as [Legislações Orçamentárias]([https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/lei-orcamentaria-anual-loa/lei-orcamentaria-anual-loa](https://www.transparencia.mg.gov.br/pagina/leis-orcamentarias) na íntegra e documentos relacionados.
 
