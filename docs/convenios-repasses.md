@@ -46,7 +46,7 @@ Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtra
 ### CONVÊNIOS DE SAÍDA DE RECURSOS E TERMOS DE CONCESSÃO
 > Nesta seção são disponibilizadas informações referentes às transferências de recursos públicos realizados pelo Estado por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres com os órgãos ou entidades públicas ou entidades privadas sem fins lucrativos.
 > 
-> - Acesse os [Convênios de Saída de Recursos](https://www.transparencia.mg.gov.br/convenios/convenios-de-saida-de-recursos) e termos de colaboração e fomento do Estado, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse os [Convênios de Saída de Recursos]([https://www.transparencia.mg.gov.br/convenios/convenios-de-saida-de-recursos](https://www.transparencia.mg.gov.br/menu/convenios-de-saida-1) e termos de colaboração e fomento do Estado, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
 > - Acesse os [Termos de Concessão – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Público Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
