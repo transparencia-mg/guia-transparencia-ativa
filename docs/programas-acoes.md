@@ -33,5 +33,5 @@
 >
 > **Lei Orçamentária Anual (LOA):** detalha os valores (receitas e despesas) definidos para o conjunto de programas e ações do PPAG. Especifica os recursos que irão financiar cada ação e as respectivas despesas.
 >
-> Acesse as [Legislações Orçamentárias]([https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/lei-orcamentaria-anual-loa/lei-orcamentaria-anual-loa](https://www.transparencia.mg.gov.br/pagina/leis-orcamentarias) na íntegra e documentos relacionados.
+> Acesse as [Legislações Orçamentárias](https://www.transparencia.mg.gov.br/pagina/leis-orcamentarias) na íntegra e documentos relacionados.
 
