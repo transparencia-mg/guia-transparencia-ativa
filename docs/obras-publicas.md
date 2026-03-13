@@ -28,9 +28,11 @@
 
 - Deverá ser disponibilizado instrumento que permite inserir ou escolher texto, filtrando ou direcionando as opções de dados dentro do conjunto específico de informações aqui identificadas.
 
+- Verifique na [Consulta de Obras](https://www.transparencia.mg.gov.br/pagina/obras-publicas) disponível no Portal da Transparência, a disponibilização de obras realizadas pelo órgão ou entidade. Caso as obras não estejam disponíveis, disponibilizar para a consulta no sítio eletrônico, conforme texto abaixo.
+
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas as informações sobre as obras públicas do(a) (NOME DO ÓRGÃO/ENTIDADE).
+> Nesta seção são disponibilizadas as informações sobre as obras públicas do(a) (NOME DO ÓRGÃO/ENTIDADE). Consulte as Obras Públicas realizadas pelo órgão ou entidade: [Consulta de Obras](https://www.transparencia.mg.gov.br/pagina/obras-publicas).
 > 
 O órgão ou entidade deve disponibilizar sistema ou documento em formato editável com no mínimo as seguintes informações:
 
