@@ -32,7 +32,7 @@ Deverá ser possível gravar as informações em pelo menos um formato editável
 
 A  página deverá permitir inserir ou escolher texto, filtrando ou direcionando as opções de dados dentro do conjunto específico de informações aqui identificadas.
 
-Conferir se o direcionamento do órgão ou entidade está correto no portal do e-SIC. Caso não esteja correto, solicitar a correção junto a Diretoria de Transparência Passiva-CGE: https://acessoainformacao.mg.gov.br/sistema/relatorios/anual/DownloadDados.aspx
+Conferir se o direcionamento do órgão ou entidade está correto no [Portal do e-SIC](https://acessoainformacao.mg.gov.br/sistema/relatorios/anual/DownloadDados.aspx). Caso não esteja correto, solicitar a correção junto a Diretoria de Transparência Passiva-CGE.
 
 ### Texto Padrão
 
