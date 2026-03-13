@@ -32,6 +32,8 @@ Deverá ser possível gravar as informações em pelo menos um formato editável
 
 A  página deverá permitir inserir ou escolher texto, filtrando ou direcionando as opções de dados dentro do conjunto específico de informações aqui identificadas.
 
+Conferir se o direcionamento do órgão ou entidade está correto no portal do e-SIC. Caso não esteja correto, solicitar a correção junto a Diretoria de Transparência Passiva-CGE: https://acessoainformacao.mg.gov.br/sistema/relatorios/anual/DownloadDados.aspx
+
 ### Texto Padrão
 
 > O(a) (NOME DO ÓRGÃO/ENTIDADE) divulga anualmente o rol de informações classificadas em grau de sigilo ultrassecreto, secreto e reservado, bem como o rol de informações desclassificadas, sempre atualizada no dia 1º de junho em cumprimento ao disposto no art. 24 da Lei Federal nº 12.527/2011 e incisos I e II, art. 46 do Decreto Estadual nº 45.969/2012.
