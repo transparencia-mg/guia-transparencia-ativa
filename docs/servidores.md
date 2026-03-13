@@ -35,30 +35,20 @@ Filtro de Pesquisa com instrumento que permita inserir ou escolher texto, filtra
 SERVIDORES PÚBLICOS
 > Nesta seção são disponibilizadas informações sobre os servidores públicos ativos da administração direta, autárquica e fundacional, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada.
 >
-> - Acesse a [Remuneração dos Servidores Públicos](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores) ativos incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse a [Remuneração dos Servidores Públicos](https://www.transparencia.mg.gov.br/remuneracao) ativos incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
 
 CONTRATADOS
 
-> - Acesse a relação dos [Contratados] que prestam serviços para o(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse a relação dos [Contratados](https://www.transparencia.mg.gov.br/pagina/terceirizados) que prestam serviços para o(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >   
-Disponibilizar lista mensal em formato editável com dados dos terceirizados que prestam serviços para o órgão ou entidade, com no mínimo as seguintes informações:
-
-> - Nome Completo
-> - Função ou ativdade exercida
-> - Nome e CNPJ da empresa empregadora
 > 
 **OBSERVAÇÃO:** Caso o órgão não tenha terceirizados, essa informação deve constar de forma expressa:
 **Exemplo:"" “Não foram firmados firmados contratos com prestadores de serviços nos três últimos anos”. Data de atualização: XX/XX/XXXX
 
 ESTAGIÁRIOS
-> - Acesse a relação dos [Estagiários] que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse a relação dos [Estagiários](https://www.transparencia.mg.gov.br/pagina/estagiarios) que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >   
-Disponibilizar lista mensal em formato editável com dados dos estagiários que mantém contrato de estágio com o órgão ou entidade, com no mínimo as seguintes informações:
-
-> - Nome Completo
-> - Função ou ativdade exercida
-> - Nome e CNPJ da empresa empregadora
 >   
 **OBSERVAÇÃO:** Caso o órgão não tenha contrato com estagiários, essa informação deve constar de forma expressa:
 **Exemplo:"" “Não foram firmados contratos de estágios nos três últimos anos”. Data de atualização: XX/XX/XXXX
