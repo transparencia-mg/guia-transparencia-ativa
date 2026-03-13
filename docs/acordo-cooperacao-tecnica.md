@@ -1,5 +1,7 @@
 ## ACORDOS DE COOPERAÇÃO TÉCNICA
-> Acesse abaixo os Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros. 
+> Acesse abaixo os [Ajustes, Acordos, Termos de Parceria, Convênios](https://www.transparencia.mg.gov.br/pagina/acordos-de-cooperacao-tecnica) ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros.
+
+**OBSERVAÇÃO:** Caso os acordos de cooperação técnica não estejam disponíveis no link acima, o órgão ou entidade deve disponibilizar no sítio eletrônico, conforme orientações abaixo.
 
 Disponibilizar lista mensal em formato editável com dados dos três últimos anos de Ajustes, Acordos, Termos de Parceria, Convênios ou outros instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros, com no mínimo as seguintes informações:
 
