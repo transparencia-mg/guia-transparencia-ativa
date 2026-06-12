@@ -8,7 +8,7 @@
 - Permitir o acompanhamento dos concursos públicos realizados pelo Estado de Minas Gerais e as suas nomeações.
 
 ### Legislação
--	[Resolução SEPLAG nº 29/2016, art. 26, inc. VI (http://www.planejamento.mg.gov.br/sites/default/files/documentos/resolucao_sitios_seplag_29_de_05_07_2016_1.pdf).
+-	[Resolução SEPLAG nº 29/2016, art. 26, inc. VI](http://www.planejamento.mg.gov.br/sites/default/files/documentos/resolucao_sitios_seplag_29_de_05_07_2016_1.pdf).
 
 ### Frequência de atualização
 -	Periodicamente, verificar o link de acesso ao Portal da Transparência da consulta Concursos Realizados;
@@ -29,7 +29,7 @@ Filtro de Pesquisa com instrumento que permite inserir ou escolher texto, filtra
 >
 > - Acesse os [Concursos Públicos em Andamento](https://www.mg.gov.br/planejamento/pagina/gestao-de-pessoas/recrutamento-e-selecao/recrutamento-e-selecao), disponíveis na página da Secretaria de Estado de Planejamento e Gestão.
 >
-> - Acesse os [Concursos Realizados](https://www.transparencia.mg.gov.br/concursos-e-processos-seletivos/concursos-realizados) pelo próprio órgão/entidade.
+> - Acesse os [Concursos Realizados](https://www.transparencia.mg.gov.br/menu/concursos-e-processos-seletivos-1) pelo próprio órgão/entidade.
 >   
 > - Acesse as informações sobre as vagas disponiblizadoas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE)
 >   
