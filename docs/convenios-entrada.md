@@ -37,7 +37,7 @@ Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtra
 > 
 > Para acompanhamento dos recursos recebidos, acesse os links abaixo:
 > 
-> •	[Convênios de Entrada de Recursos](https://www.transparencia.mg.gov.br/convenios/convenios-de-entrada/convenio-entrada): contemplam a entrada de recursos celebrados por meio dos instrumentos cadastrados como Convênios pelo Estado com o Governo Federal, municípios e organizações da Sociedade Civil para execução das políticas públicas estaduais.
+> •	[Convênios de Entrada de Recursos](https://www.transparencia.mg.gov.br/consultas-1/convenios/convenios-de-entrada/convenio-entrada): contemplam a entrada de recursos celebrados por meio dos instrumentos cadastrados como Convênios pelo Estado com o Governo Federal, municípios e organizações da Sociedade Civil para execução das políticas públicas estaduais.
 > 
 > •	[Outros instrumentos de Entrada de Recursos](https://www.casacivil.mg.gov.br/CaptacaoRecursos/Detalhe/44): incluem os convênios que abrangem todos os Convênios de entrada de recursos e congêneres, registrados no SIGCON-Entrada ou na Plataforma +Brasil (sistema de convênios da União), incluindo as Portarias, Temos de Compromisso, Transferências Especiais e Acordos/Ajustes. 
 > 
