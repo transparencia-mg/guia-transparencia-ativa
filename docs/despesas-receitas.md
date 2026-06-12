@@ -21,10 +21,10 @@
 >
 > **Despesa pública:** É a aplicação (em dinheiro) de recursos do Estado para custear os serviços de ordem pública ou para investir no próprio desenvolvimento econômico do Estado. É o compromisso de gasto dos recursos públicos, autorizados pelo Poder competente, com o fim de atender a uma necessidade da coletividade prevista no orçamento.
 > 
-> - Acesse as [despesas públicas estaduais](http://www.transparencia.mg.gov.br/despesa-estado/despesa), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse as [despesas públicas estaduais](https://www.transparencia.mg.gov.br/consultas-1/despesa-estado/despesa), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
 > **Receita pública:** Montante em dinheiro recolhido pelo Estado em virtude de arrecadação via impostos, taxas, contribuições e outras fontes de recursos, incorporado ao patrimônio do Estado, que serve para custear as despesas públicas e as necessidades de investimentos públicos.
 > 
-> - Acesse as [receitas públicas estaduais](https://www.transparencia.mg.gov.br/receitas/estado-receita), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse as [receitas públicas estaduais](https://www.transparencia.mg.gov.br/consultas/receitas), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
 **OBSERVAÇÃO:** Na ausência de receitas arrecadadas pelo próprio órgão/entidade, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Receita” do Portal da Transparência.
