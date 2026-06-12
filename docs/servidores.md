@@ -35,7 +35,7 @@ Filtro de Pesquisa com instrumento que permita inserir ou escolher texto, filtra
 SERVIDORES PÚBLICOS
 > Nesta seção são disponibilizadas informações sobre os servidores públicos ativos da administração direta, autárquica e fundacional, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada.
 >
-> - Acesse a [Remuneração dos Servidores Públicos](https://www.transparencia.mg.gov.br/remuneracao) ativos incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse a [Remuneração dos Servidores Públicos](https://www.transparencia.mg.gov.br/consultas/remuneracao) ativos incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
 
 CONTRATADOS
