@@ -17,14 +17,26 @@
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas informações sobre a previsão e arrecadação da receita pública e execução orçamentária e financeira do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> Nesta seção são disponibilizadas informações sobre a execução orçamentária e financeira do(a) (NOME DO ÓRGÃO OU ENTIDADE), abrangendo dados relativos às receitas e às despesas públicas, em conformidade com a legislação de transparência e responsabilidade fiscal.
 >
-> **Despesa pública:** É a aplicação (em dinheiro) de recursos do Estado para custear os serviços de ordem pública ou para investir no próprio desenvolvimento econômico do Estado. É o compromisso de gasto dos recursos públicos, autorizados pelo Poder competente, com o fim de atender a uma necessidade da coletividade prevista no orçamento.
-> 
-> - Acesse as [despesas públicas estaduais](https://www.transparencia.mg.gov.br/consultas-1/despesa-estado/despesa), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> **Despesa pública:**
 >
-> **Receita pública:** Montante em dinheiro recolhido pelo Estado em virtude de arrecadação via impostos, taxas, contribuições e outras fontes de recursos, incorporado ao patrimônio do Estado, que serve para custear as despesas públicas e as necessidades de investimentos públicos.
+> A consulta às despesas públicas é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar informações sobre a execução das despesas dos órgãos e entidades do Poder Executivo Estadual, incluindo o(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
-> - Acesse as [receitas públicas estaduais](https://www.transparencia.mg.gov.br/consultas/receitas), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> - Acesse a consulta de [Despesas Públicas](https://www.transparencia.mg.gov.br/consultas-1/despesa-estado/despesa).
+>
+> **Receita pública:**
+>
+> A consulta às receitas públicas é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar informações sobre a arrecadação de receitas dos órgãos e entidades do Poder Executivo Estadual, incluindo aquelas arrecadadas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE), quando houver.
+> 
+> - Acesse as consulta de [Receitas Públicas](https://www.transparencia.mg.gov.br/consultas/receitas).
 
-**OBSERVAÇÃO:** Na ausência de receitas arrecadadas pelo próprio órgão/entidade, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Receita” do Portal da Transparência.
+**OBSERVAÇÃO:** 
+
+Caso o órgão ou entidade não possua arrecadação de receitas próprias, essa condição deverá ser informada de forma expressa na página, conforme o modelo abaixo:
+
+> O(A) (NOME DO ÓRGÃO OU ENTIDADE) informa que não possui arrecadação de receitas próprias.
+
+> **Data de atualização: XX/XX/XXXX.**
+>
+> Mesmo nessa hipótese, o cidadão poderá consultar as informações sobre receitas públicas estaduais por meio da [Consulta de Receitas](https://www.transparencia.mg.gov.br/consultas/receitas) do Portal da Transparência do Estado de Minas Gerais.
