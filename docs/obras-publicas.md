@@ -32,71 +32,11 @@
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas as informações sobre as obras públicas do(a) (NOME DO ÓRGÃO/ENTIDADE). Consulte as Obras Públicas realizadas pelo órgão ou entidade: [Consulta de Obras](https://www.transparencia.mg.gov.br/pagina/obras-publicas).
-> 
-O órgão ou entidade deve disponibilizar sistema ou documento em formato editável com no mínimo as seguintes informações:
-
-> - Obra (nº da obra) 
-> - Objeto (informar o objeto da obra)
-> - Contrato (número do contrato e link para acesso ao contrato)
-> - Data de Assinatura
-> - Regime de Execução
-> - Modalidade de Licitação
-> - Órgão/Entidade Contratante
-> - Contratada
-> - CNPJ
-> - Endereço da Obra
-> - Bairro da Obra
-> - Município da Obra
-> - CEP
-> - Termo Aditivo (número e link para acesso ao documento)
-> - Projeto Básico (link para acesso ao documento)
-> - Projeto Executivo (link para acesso ao documento)
-> - Relatório Trimestral (número e link para acesso ao relatório)
-> - Engenheiros de Fiscalização (CREA)
-> - Engenheiros de Execução (CREA)
-> - Tipo de Obra
-> - Situação
-> - Percentual Concluído
-> - Início da Obra
-> - Previsão de Conclusão da Obra
-> - Valor Inicial da Obra
-> - Valor Total da Medição
-> - Prazo Aditado
-> - Valor Aditado
-> - Valor Total Atual
-> - Contato para Denúncias/Reclamações
-
-Também devem ser divulgadas sistema ou documento em formato editável com dados referentes aos preços contratados e praticados:
-> - Quantitativos e preços unitários e totais contratados 
-
-> - Quantitativos executados e os preços praticados
+> Nesta seção, estão disponíveis informações sobre as obras públicas executadas pelo(a) (NOME DO ÓRGÃO/ENTIDADE), promovendo maior transparência quanto aos investimentos realizados em infraestrutura e melhorias para a sociedade.
+>
+> Para consultar o detalhamento das obras públicas, acesse a [Consulta de Obras](https://www.transparencia.mg.gov.br/pagina/obras-publicas).
 
 
-**OBSERVAÇÃO:** Na ausência de Obras Públicas em andamento, o órgão ou entidade deverá informar que no momento não existem obras públicas em andamento, com a respectiva data de atualização do texto. 
-> - O(a) (NOME DO ÓRGÃO/ENTIDADE) não possui obras públicas em andamento. Data de atualização: XX/XX/XXXX.
 
-
-A informação sobre obras paralisadas, também devem constar nessa página. Caso o órgão não possua obras paralisadas essa informação deverá estar clara para a sociedade.
-
-> LISTA DAS OBRAS PARALISADAS
-> 
-Lista em formato editável contendo as seguintes informações sobre as obras paralisadas:
-
-> - Obra paralisada (identificação da obra)
-> 
-> - Motivo da paralisação
-> 
-> - Responsável pela inexecução temporária da obra
-> 
-> - Data prevista para reinício da obra
-
-**OBSERVAÇÃO:** Na ausência de Obras Públicas paralisadas, o órgão ou entidade deverá informar que no momento não existem obras públicas paralisadas, com a respectiva data de atualização do texto. 
-
-OU 
-
-> LISTA DAS OBRAS PARALISADAS
-> 
-> - O(a) (NOME DO ÓRGÃO/ENTIDADE) não possui obras públicas paralisadas. Data de atualização: XX/XX/XXXX.
 
 
