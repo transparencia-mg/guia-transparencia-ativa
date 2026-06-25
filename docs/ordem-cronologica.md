@@ -30,24 +30,29 @@ Instrumento de filtro de pesquisa que permita inserir ou escolher texto, filtran
 > 
 > - Acesse [aqui] a lista dos pagamentos realizados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) com a respectiva ordem cronológica de pagamento, bem como as justificativas que fundamentaram a eventual alteração dessa ordem.
 
-Disponibilizar lista mensal em formato editável com dados dos três últimos anos, com no mínimo as seguintes informações:
+Disponibilizar lista mensal (até o último dia do mês referente ao mês anterior) em formato editável com dados dos três últimos anos, com no mínimo as seguintes informações:
 
 > - Ano de Exercício
-> - Unidade Orçamentária - Código/Nome
+> - Unidade Orçamentária - Código
+> - Unidade Orçamentária - Nome
 > - Unidade Executora – Código
 > - Funcional Programática – Formatado
-> - Fonte Recurso – Código
+> - Elemento Despesa – Código
 > - Elemento Despesa – Descrição
+> - Item Despesa - Código
 > - Item Despesa - Descrição
-> - Razão Social Credor
+> - Fonte Recurso – Código
+> - Fonte Recurso – Descrição
 > - Número Empenho
 > - Data Registro Doc Empenho
+> - Razão Social Credor
+> - CNPJ/CPF Credor
 > - Data Registro Doc Liquidação
-> - Data Vencimento Liquidação
 > - Número Docto Pagamento
-> - Data Pagamento
 > - Data Registro
+> - Data Pagamento
 > - Valor Despesa Liquidada
 > - Valor Pago Financeiro
+> - Quebra (SIM/NÃO)
 > - Justificativa (casos que tenha ocorrida a quebra da ordem)
 
