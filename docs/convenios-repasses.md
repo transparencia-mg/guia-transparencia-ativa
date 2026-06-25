@@ -50,8 +50,8 @@ Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtra
 > 
 > - Acesse os [Termos de Concessão – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Público Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
-**OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos ou Termos de Concessão/PPP, o órgão ou entidade deverá informar de forma expressa:
+**OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos ou Termos de Concessão/PPP, o órgão ou entidade deverá informar de forma expressa, com o seguinte texto:
 
-**Exemplo**: “Não foram firmados Convênios e Parcerias de Saída de Recursos ou Termos de Concessão/PPP, pelo (a) (NOME DO ÓRGÃO OU ENTIDADE) nos últimso 3 anos". Data de atualização: XX/XX/XXXX
+**Exemplo**: “Não foram firmados Convênios e Parcerias de Saída de Recursos ou Termos de Concessão/PPP, pelo (a) (NOME DO ÓRGÃO OU ENTIDADE) nos últimos 3 anos". Data de atualização: XX/XX/XXXX
 
 
