@@ -26,11 +26,17 @@ Instrumento de filtro de pesquisa que permita inserir ou escolher texto, filtran
 
 ### Texto Padrão
 
-> **Cronologia de Pagamento:** 
+> **CRONOLOGIA DE PAGAMENTO** 
 > 
-> - Acesse [aqui] a lista dos pagamentos realizados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) com a respectiva ordem cronológica de pagamento, bem como as justificativas que fundamentaram a eventual alteração dessa ordem.
+> Nesta seção são disponibilizadas informações sobre a ordem cronológica de pagamentos do(a) (NOME DO ÓRGÃO OU ENTIDADE), em conformidade com a legislação vigente. Também são divulgadas as justificativas para eventuais alterações na ordem cronológica, quando aplicáveis, promovendo maior transparência sobre a execução das despesas públicas.
+>
+> A consulta à ordem cronológica de pagamentos é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar a relação dos pagamentos efetuados pelos órgãos e entidades do Poder Executivo Estadual, bem como as justificativas para eventual quebra da ordem cronológica.
+>
+> Acesse a Consulta da [Ordem Cronológica de Pagamentos](https://www.transparencia.mg.gov.br/pagina/ordem-cronologica)
 
-Disponibilizar lista mensal (até o último dia do mês referente ao mês anterior) em formato editável com dados dos três últimos anos, com no mínimo as seguintes informações:
+**Dados mínimos a serem disponibilizados**
+
+O órgão ou entidade deverá disponibilizar, mensalmente, até o último dia do mês subsequente ao de referência, base de dados em formato aberto e editável contendo, no mínimo, as informações referentes aos três últimos anos.
 
 > - Ano de Exercício
 > - Unidade Orçamentária - Código
