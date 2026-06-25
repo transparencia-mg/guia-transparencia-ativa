@@ -15,12 +15,21 @@
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas a relação das doações e comodatos para o Governo de Minas Gerais, em consonância com o arts. 26 e 27 do Decreto nº 48.444/2022. 
+> Nesta seção são disponibilizadas informações sobre as doações e os comodatos recebidos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE), em atendimento ao disposto nos arts. 26 e 27 do Decreto Estadual nº 48.444, de 2022.
 > 
-> - Acesse [aqui](https://dados.mg.gov.br/dataset/doacoes-comodatos) a relação das doações e comodatos recebidos pelo Governo de Minas Gerais, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE).
-
-Caso o órgão ou entidade não publique as informações de doações ou comodatos no link do Portal de [DadosMG](https://dados.mg.gov.br/dataset/doacoes-comodatos), o órgão deve publicar a sua lista no seu próprio sítio eletrônico, no mesmo mês da publicação no diário oficial.
+> A consulta às doações e aos comodatos é realizada por meio do Portal de Dados Abertos do Estado de Minas Gerais (DadosMG), onde estão disponíveis as informações referentes às doações e aos comodatos recebidos pelos órgãos e entidades do Poder Executivo Estadual, incluindo o(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
-**OBSERVAÇÃO:** Na ausência de doações ou comodatos, o órgão ou entidade deverá informar de forma expressa, que não recebeu doações ou possui comodatos, com o seguinte texto:
+> Acesse a Consulta de [Doações e Comodatos](https://dados.mg.gov.br/dataset/doacoes-comodatos)
 
-**Exemplo**: “O(a) (NOME DO ÓRGÃO OU ENTIDADE) não recebeu doações ou comodatos nos últimos 3 anos". Data de atualização: XX/XX/XXXX
+**Orientação**
+
+Caso as informações sobre doações e comodatos do órgão ou entidade não estejam publicadas no DadosMG, deverá ser disponibilizada, no próprio sítio eletrônico institucional, a relação das doações e comodatos recebidos, em formato aberto e editável, no mesmo mês de sua publicação no Diário Oficial do Estado.
+
+
+**OBSERVAÇÃO:** 
+
+Na ausência de doações e comodatos, o órgão ou entidade deverá informar essa condição de forma expressa, conforme o modelo abaixo:
+
+> O(A) (NOME DO ÓRGÃO OU ENTIDADE) informa que não recebeu doações nem possui comodatos vigentes nos últimos três anos.
+>
+> **Data de atualização: XX/XX/XXXX**
