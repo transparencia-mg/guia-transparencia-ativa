@@ -12,17 +12,20 @@
 
 
 ### Frequência de atualização
-- Anualmente, em até 30 (trinta) dias, após a remessa da prestação de contas ao TCE/MG.   
+- Anualmente, em até 30 (trinta) dias após o encaminhamento da prestação de contas anual ao Tribunal de Contas do Estado de Minas Gerais (TCE-MG) ou remessa dos documentos
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizados os documentos e informações relativas às prestações de contas anuais dos gestores públicos, incluindo as desmonstrações contábeis e respectivas notas explicativas, em atendimento as Instruções Normativas do TCE/MG referente as prestações de contas anuais.
+> Nesta seção são disponibilizados os documentos e as informações referentes à prestação de contas anual do(a) (NOME DO ÓRGÃO/ENTIDADE), em atendimento às normas e às Instruções Normativas do Tribunal de Contas do Estado de Minas Gerais (TCE-MG). O objetivo é assegurar a transparência da gestão pública e possibilitar o acompanhamento da aplicação dos recursos públicos.
+>
+Para cada exercício, deverão ser disponibilizados, no mínimo, os seguintes documentos:
 > 
-> - AAAA (ano da prestação de contas) 
-> - Lista dos documentos relativos a prestação de contas:  
->   - Ofício de encaminhamento;
->   - Rol de Responsáveis e
->   - Relatórios de Gestão (Demonstrativos Contábeis, Notas Explicativas e outros documentos não contemplados nos itens anteriores);
->   - Relatório da Unidade de Controle Interno e
->   - Julgamento das Contas. 
-      
+**AAAA (ano da prestação de contas)**
+> - Ofício de encaminhamento da prestação de contas;
+> - Rol de Responsáveis e
+> - Relatórios de Gestão, incluindo:
+>       - Demonstrativos Contábeis;
+>       - Notas Explicativas;
+>       - Demais documentos que integram a prestação de contas;
+>  - Relatório da Unidade de Controle Interno;
+>  - Julgamento das Contas, quando disponível.    
