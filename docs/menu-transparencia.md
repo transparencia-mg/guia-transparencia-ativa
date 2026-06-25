@@ -16,8 +16,10 @@ O objetivo do menu **Transparência** é ter um local único e padronizado que c
 
 ### Texto Padrão
 
-> Esta seção reúne e divulga, de forma espontânea, dados do(a) (NOME DO ÓRGÃO/ENTIDADE) que são de interesse coletivo ou geral com o objetivo de facilitar o acesso à informação pública, conforme determinação da [Lei Federal nº 12.527/2011, de 18 de novembro de 2011](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) e demais legislações que tratam do assunto.
+> Esta seção reúne informações de interesse coletivo ou geral relativas ao(à) (NOME DO ÓRGÃO OU ENTIDADE), disponibilizadas de forma proativa, em cumprimento ao princípio da transparência ativa previsto na [Lei Federal nº 12.527/2011, de 18 de novembro de 2011](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) e demais e na legislação estadual aplicável.
 >
-> No Menu Transparência estão disponíveis as informações mínimas sobre serviços de informação ao cidadão, informações classificadas e desclassificadas, ações e programas, receitas e despesas, compras e contratos, convênios, repasses e transferências, doações, comodatos e cooperações, pessoal e dados abertos, além de outros tópicos obrigatórios mas específicos para determinados órgãos e entidades e tópicos opcionais, como a participação social.
+> No menu Transparência, o cidadão pode acessar informações sobre a estrutura organizacional, programas e ações, execução orçamentária e financeira, licitações, contratos, convênios, transferências de recursos, patrimônio, pessoal, dados abertos, Serviço de Informação ao Cidadão (SIC), informações classificadas e desclassificadas, além de outros conteúdos exigidos pela legislação e de temas específicos relacionados à atuação do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
->Para maiores informações sobre a Lei de Acesso à Informação e sua regulamentação no âmbito do Estado de Minas Gerais, acesse o [Portal da Transparência](http://www.transparencia.mg.gov.br).
+> O objetivo desta seção é ampliar a transparência da gestão pública, facilitar o acesso às informações governamentais e fortalecer o controle social, permitindo que qualquer cidadão acompanhe a atuação da Administração Pública.
+>
+> Para obter mais informações sobre a Lei de Acesso à Informação e sua regulamentação no Estado de Minas Gerais, acesse o [Portal da Transparência](http://www.transparencia.mg.gov.br).
