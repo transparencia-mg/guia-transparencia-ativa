@@ -43,15 +43,23 @@ Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtra
 
 ### Texto Padrão
 
-### CONVÊNIOS DE SAÍDA DE RECURSOS E TERMOS DE CONCESSÃO
-> Nesta seção são disponibilizadas informações referentes às transferências de recursos públicos realizados pelo Estado por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres com os órgãos ou entidades públicas ou entidades privadas sem fins lucrativos.
+### CONVÊNIOS DE SAÍDA DE RECURSOS
+> Nesta seção são disponibilizadas informações sobre as transferências voluntárias de recursos realizadas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) por meio de convênios de saída, termos de colaboração, termos de fomento, termos de parceria, resoluções, acordos e demais instrumentos congêneres, celebrados com órgãos e entidades públicas ou com organizações da sociedade civil, na forma da legislação vigente.
 > 
-> - Acesse os [Convênios de Saída de Recursos](https://www.transparencia.mg.gov.br/pagina/convenios-parcerias-de-saida-de-recursos) e termos de colaboração e fomento do Estado, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> A consulta aos Convênios e Parcerias de Saída de Recursos é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar informações sobre os instrumentos celebrados pelos órgãos e entidades do Poder Executivo Estadual, incluindo aqueles firmados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> Acesse a Consulta de [Convênios de Saída de Recursos](https://www.transparencia.mg.gov.br/pagina/convenios-parcerias-de-saida-de-recursos).
 > 
-> - Acesse os [Termos de Concessão – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Público Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> As informações referentes aos Termos de Concessão celebrados no âmbito das Parcerias Público-Privadas (PPP) podem ser consultadas no Portal de Parcerias Público-Privadas do Estado de Minas Gerais.
+>
+> Acesse a consulta de [Termos de Concessão – PPP](http://www.ppp.mg.gov.br/).
 
-**OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos ou Termos de Concessão/PPP, o órgão ou entidade deverá informar de forma expressa, com o seguinte texto:
+**OBSERVAÇÃO:** 
 
-**Exemplo**: “Não foram firmados Convênios e Parcerias de Saída de Recursos ou Termos de Concessão/PPP, pelo (a) (NOME DO ÓRGÃO OU ENTIDADE) nos últimos 3 anos". Data de atualização: XX/XX/XXXX
+Caso o órgão ou entidade não possua convênios de saída, parcerias de saída de recursos ou termos de concessão vigentes, essa condição deverá ser informada de forma expressa na página, conforme o modelo abaixo:
+
+> O(A) (NOME DO ÓRGÃO OU ENTIDADE) informa que não possui convênios de saída de recursos, parcerias de saída de recursos ou termos de concessão celebrados no âmbito de Parcerias Público-Privadas (PPP) vigentes ou encerrados nos últimos três anos.
+>
+> **Data de atualização: XX/XX/XXXX**
 
 
