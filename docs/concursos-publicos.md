@@ -30,11 +30,12 @@ Filtro de Pesquisa com instrumento que permite inserir ou escolher texto, filtra
 > - Acesse os [Concursos Públicos em Andamento](https://www.mg.gov.br/planejamento/pagina/gestao-de-pessoas/recrutamento-e-selecao/recrutamento-e-selecao), disponíveis na página da Secretaria de Estado de Planejamento e Gestão.
 >
 > - Acesse os [Concursos Realizados](https://www.transparencia.mg.gov.br/menu/concursos-e-processos-seletivos-1) pelo próprio órgão/entidade.
+>
+> - Acesse os [Processos Seletivos](DISPONIBLIZAR O LINK DE ACESSO) realizado pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >   
-> - Acesse as informações sobre as vagas disponiblizadoas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE)
->   
-Disponibilizar lista em formato editável com dados dos três últimos anos, contendo no mínimo as seguintes informações:
-> - Dado do Concurso Público
+   
+Na seção de Processos Seletivos, devem ser disponibilizados a lista em formato editável com dados dos três últimos anos, contendo no mínimo as seguintes informações:
+> - Dados do Processo Seletivo
 > - Vagas efetivamente preenchidas
 > - Fila de Espera/Cadastro de reserva
 > - Validade do Concurso
