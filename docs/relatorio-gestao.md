@@ -21,11 +21,12 @@
 Para cada exercício, deverão ser disponibilizados, no mínimo, os seguintes documentos:
 > 
 **AAAA (ano da prestação de contas)**
-> - Ofício de encaminhamento da prestação de contas;
-> - Rol de Responsáveis e
-> - Relatórios de Gestão, incluindo:
->       - Demonstrativos Contábeis;
->       - Notas Explicativas;
->       - Demais documentos que integram a prestação de contas;
->  - Relatório da Unidade de Controle Interno;
->  - Julgamento das Contas, quando disponível.    
+
+    - Ofício de encaminhamento da prestação de contas;
+    - Rol de Responsáveis e
+    - Relatórios de Gestão, incluindo:
+        - Demonstrativos Contábeis;
+        - Notas Explicativas;
+        - Demais documentos que integram a prestação de contas;
+    - Relatório da Unidade de Controle Interno;
+    - Julgamento das Contas, quando disponível.    
