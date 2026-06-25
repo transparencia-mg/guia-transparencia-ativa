@@ -23,15 +23,22 @@
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas as informações dos programas e ações vigentes do(a) (NOME DO ÓRGÃO/ENTIDADE) no ano de XXXX, bem como os instrumentos de planejamento e orçamento do Governo do Estado de Minas Gerais: PPAG, LDO e LOA.
+> Nesta seção são disponibilizadas informações sobre os programas, ações e metas sob responsabilidade do(a) (NOME DO ÓRGÃO/ENTIDADE), conforme previstos no planejamento governamental vigente, bem como os principais instrumentos de planejamento e orçamento do Estado de Minas Gerais: o Plano Plurianual de Ação Governamental (PPAG), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA).
 > 
-> Acesse os dados e informações acerca dos [Programas e Ações](https://www.transparencia.mg.gov.br/consultas-1/planejamento-e-resultados/planejamento-e-monitoramento-ppag/programacao-execucao-ppag-programa/ppagprograma-programas/6/2026/0/0) vigentes no Estado de Minas Gerais, incluindo o do(a) (NOME DO ÓRGÃO/ENTIDADE).
+> Para consultar os programas e ações do Governo do Estado de Minas Gerais, incluindo aqueles executados pelo(a) (NOME DO ÓRGÃO/ENTIDADE), acesse a [Programas e Ações](https://www.transparencia.mg.gov.br/consultas-1/planejamento-e-resultados/planejamento-e-monitoramento-ppag/programacao-execucao-ppag-programa/ppagprograma-programas/6/2026/0/0).
+>
+> **INSTRUMENTOS DE PLANEJAMENTO E ORÇAMENTO**
 > 
-> **Plano Plurianual de Ação Governamental (PPAG):** é o instrumento orientador do planejamento da administração pública de médio prazo. Define qual será o escopo de atuação do Estado para um período de quatro anos, refletido nos programas e ações de governo, com suas respectivas metas físicas e orçamentárias, que serão executados durante esse período.
+> **Plano Plurianual de Ação Governamental (PPAG):**
 >
-> **Lei de Diretrizes Orçamentárias (LDO):** estabelece quais programas e ações do PPAG serão prioridade, bem como as regras para a elaboração do orçamento e as metas fiscais (projeção da receitas e despesas totais) para os próximos três anos. 
+> É o principal instrumento de planejamento governamental de médio prazo. Com vigência de quatro anos, estabelece os programas, ações, objetivos, indicadores, metas físicas e recursos orçamentários que orientarão a atuação do Estado durante esse período.
 >
-> **Lei Orçamentária Anual (LOA):** detalha os valores (receitas e despesas) definidos para o conjunto de programas e ações do PPAG. Especifica os recursos que irão financiar cada ação e as respectivas despesas.
+> **Lei de Diretrizes Orçamentárias (LDO):**
 >
-> Acesse as [Legislações Orçamentárias](https://www.transparencia.mg.gov.br/pagina/leis-orcamentarias) na íntegra e documentos relacionados.
-
+> Define as prioridades e metas da Administração Pública para o exercício seguinte, orienta a elaboração da Lei Orçamentária Anual (LOA), dispõe sobre as metas fiscais e estabelece as diretrizes para a execução da política orçamentária.
+>
+> **Lei Orçamentária Anual (LOA):**
+>
+> Estima as receitas e fixa as despesas do Estado para cada exercício financeiro, detalhando os recursos destinados à execução dos programas e ações previstos no PPAG, em conformidade com as diretrizes estabelecidas pela LDO.
+>
+> Para consultar a íntegra do PPAG, da LDO, da LOA e demais documentos relacionados ao planejamento e ao orçamento estadual, acesse a seção [Legislações Orçamentárias](https://www.transparencia.mg.gov.br/pagina/leis-orcamentarias).
