@@ -59,4 +59,12 @@ Disponibilizar lista mensal em formato editável (cvs, preferencialmente) com da
 > - valor pago DEA (R$)
 > - valor pago restos a pagar (R$): RPP e RPNP
 
-#### Observação: Caso o órgão ou entidade não possua gastos com publicidade no trimestre, essa informação deverá vir expressa na página destinada às informações com publicidade.
+#### Observação
+
+Caso o órgão ou a entidade **não tenha realizado despesas com publicidade** no trimestre de referência, a página destinada à divulgação dessas informações deverá apresentar, de forma expressa, a inexistência de gastos, conforme o modelo abaixo:
+
+**Texto sugerido:**
+
+> **O(a) (NOME DO ÓRGÃO OU ENTIDADE) informa que não realizou despesas com publicidade no XXº trimestre de XXXX.**
+
+**Data de atualização:** XX/XX/XXXX.
