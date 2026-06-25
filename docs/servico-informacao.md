@@ -29,6 +29,7 @@
 > O(a) (NOME DO ÓRGÃO OU ENTIDADE) disponibiliza, a seguir, as informações de contato do responsável pelo monitoramento dos pedidos de acesso à informação no âmbito da instituição.
 >
 > **Responsável pelo monitoramento dos pedidos de acesso à informação**
+> 
 > - **Nome**
 > - **Telefone**
 > - **E-mail**
