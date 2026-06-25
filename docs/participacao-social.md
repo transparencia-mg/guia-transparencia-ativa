@@ -16,9 +16,9 @@
 
 ### Texto Padrão
 
-> Conheça os espaços existentes e as atividades desenvolvidas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) para fomentar o diálogo com a população e a participação social na construção das políticas públicas.
+> Nesta seção são disponibilizadas informações sobre os mecanismos de participação social promovidos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE), com o objetivo de fortalecer o diálogo entre a Administração Pública e a sociedade, ampliar a transparência e incentivar a participação cidadã na formulação, implementação e avaliação das políticas públicas.
 >
-> Tópicos que podem ser incluídos nessa seção, de acordo com as especificidades de cada órgão/entidade:
+> Conforme as competências e a atuação do órgão ou entidade, esta seção poderá contemplar informações sobre:
 >
 > - Conselhos e Órgãos Colegiados
 > - Conferências
@@ -27,4 +27,4 @@
 > - Fundos Vinculados
 > - Ações de promoção da Cidadania
 >
-> Conheça os demais Conselhos de Políticas Públicas do Estado de Minas Gerais. Acesse o [Portal dos Conselhos](http://portaldosconselhos.mg.gov.br/) e faça parte da construção de políticas públicas de seu interesse!
+> Para conhecer os Conselhos de Políticas Públicas do Estado de Minas Gerais, suas competências e formas de participação, acesse o [Portal dos Conselhos](http://portaldosconselhos.mg.gov.br/) participe da construção das políticas públicas estaduais.
