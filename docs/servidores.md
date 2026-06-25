@@ -32,25 +32,34 @@ Possibilidade de gravar um conjunto de informações selecionadas em pelo menos 
 Filtro de Pesquisa com instrumento que permita inserir ou escolher texto, filtrando ou direcionando as opções de dados dentro do conjunto específico de informações aqui identificadas.
 
 ### Texto Padrão
-SERVIDORES PÚBLICOS
-> Nesta seção são disponibilizadas informações sobre os servidores públicos ativos da administração direta, autárquica e fundacional, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada.
->
-> - Acesse a [Remuneração dos Servidores Públicos](https://www.transparencia.mg.gov.br/consultas/remuneracao) ativos incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
->
 
-CONTRATADOS
+**SERVIDORES PÚBLICOS**
+> Nesta seção são disponibilizadas informações sobre os servidores públicos ativos da administração direta, autárquica e fundacional vinculados ao(à) (NOME DO ÓRGÃO OU ENTIDADE), bem como sobre os aposentados cuja folha de pagamento é processada pelo órgão, observadas as normas de transparência e proteção de dados pessoais.
 
-> - Acesse a relação dos [Contratados](https://www.transparencia.mg.gov.br/pagina/terceirizados) que prestam serviços para o(a) (NOME DO ÓRGÃO OU ENTIDADE).
->   
-> 
-**OBSERVAÇÃO:** Caso o órgão não tenha terceirizados, essa informação deve constar de forma expressa:
-**Exemplo:"" “Não foram firmados firmados contratos com prestadores de serviços nos três últimos anos”. Data de atualização: XX/XX/XXXX
+> Para consultar as informações individualizadas sobre remuneração, acesse a [Remuneração dos Servidores Públicos](https://www.transparencia.mg.gov.br/consultas/remuneracao).
 
-ESTAGIÁRIOS
-> - Acesse a relação dos [Estagiários](https://www.transparencia.mg.gov.br/pagina/estagiarios) que mantém contrato de estágio com o(a) (NOME DO ÓRGÃO OU ENTIDADE).
->   
->   
-**OBSERVAÇÃO:** Caso o órgão não tenha contrato com estagiários, essa informação deve constar de forma expressa:
-**Exemplo:"" “Não foram firmados contratos de estágios nos três últimos anos”. Data de atualização: XX/XX/XXXX
+
+**CONTRATADOS**
+
+> Nesta seção são disponibilizadas informações sobre os empregados terceirizados que prestam serviços ao(à) (NOME DO ÓRGÃO OU ENTIDADE), por meio de contratos administrativos firmados com empresas prestadoras de serviços.
+
+> Para consultar a relação de terceirizados, acesse a [Consulta de Terceirizados](https://www.transparencia.mg.gov.br/pagina/terceirizados).
+
+Caso o órgão ou entidade não possua contratos vigentes de terceirização, essa condição deverá ser informada expressamente na página, conforme o modelo abaixo:
+
+> O(a) (NOME DO ÓRGÃO OU ENTIDADE) informa que não possui contratos vigentes de prestação de serviços terceirizados.
+
+> Data de atualização: XX/XX/XXXX.
+
+**ESTAGIÁRIOS**
+> Nesta seção são disponibilizadas informações sobre os estagiários vinculados ao(à) (NOME DO ÓRGÃO OU ENTIDADE), em conformidade com a legislação aplicável e as normas de transparência pública.
+
+> Para consultar a relação de estagiários, acesse a [Consulta de Estagiários](https://www.transparencia.mg.gov.br/pagina/estagiarios)
+  
+Caso o órgão ou entidade não possua contratos de estágio vigentes, essa condição deverá ser informada expressamente na página, conforme o modelo abaixo:
+
+> O(a) (NOME DO ÓRGÃO OU ENTIDADE) informa que não possui estagiários com contrato de estágio vigente.
+
+> Data de atualização: XX/XX/XXXX.
 
 
