@@ -36,21 +36,21 @@ Filtro de Pesquisa com instrumento que permite inserir ou escolher texto, filtra
 >
 > A consulta aos Concursos Públicos Realizados é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar informações sobre os concursos promovidos pelos órgãos e entidades do Poder Executivo Estadual, incluindo aqueles realizados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
+
 **OBSERVAÇÃO:**
-Caso o órgão ou entidade possua Processos Seletivos, deverá ser disponibilizada em formato aberto e editável, contendo, no mínimo:
-> - Identificação do processo seletivo;
-> - Edital;
-> - Quantidade de vagas ofertadas;
-> - Quantidade de vagas efetivamente preenchidas;
-> - Cadastro de reserva ou fila de espera, quando houver;
-> - Prazo de validade do processo seletivo;
-> - Situação do processo seletivo (em andamento, homologado, encerrado etc.).
+
+Caso o órgão ou entidade tenha realizado Processos Seletivos nos últimos três anos, deverá ser disponibilizada em formato aberto e editável, informações contendo, no mínimo:
+  - Identificação do processo seletivo;
+  - Edital;
+  - Quantidade de vagas ofertadas;
+  - Quantidade de vagas efetivamente preenchidas;
+  - Cadastro de reserva ou fila de espera, quando houver;
+  - Prazo de validade do processo seletivo;
+  - Situação do processo seletivo (em andamento, homologado, encerrado etc.).
 
 > **Processos Seletivos**
 >
-> O(a) (NOME DO ÓRGÃO OU ENTIDADE) deverá disponibilizar, em seu sítio eletrônico, informações sobre os processos seletivos realizados, contendo, no mínimo, os dados referentes aos três últimos anos.
->
-> Acesse a Consulta de Processos Seletivos: (informar o link da página do órgão ou entidade, conforme orientação acima).
+> Acesse a Consulta de Processos Seletivos: (informar o link da página do órgão ou entidade, conforme orientação acima) realizados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >   
 
 **OBSERVAÇÃO:** 
