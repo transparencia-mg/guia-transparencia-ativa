@@ -27,6 +27,8 @@ Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtra
 
 ###	Texto Padrão
 > 
-> Acesse a lista dos fiscais de Contratos celebrados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE), vigentes e encerrados nos últimos 3 anos.
+> Nesta seção são disponibilizadas informações sobre os fiscais responsáveis pelo acompanhamento e pela fiscalização da execução dos contratos administrativos celebrados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE), em atendimento aos princípios da transparência e da publicidade.
 >
-> [Fiscais de Contratos](https://www.transparencia.mg.gov.br/pagina/fiscais-de-contrato)
+> A consulta aos fiscais de contratos é realizada por meio do **Portal da Transparência do Estado de Minas Gerais**, onde é possível acessar a relação dos fiscais designados para os contratos vigentes e para aqueles encerrados nos últimos três anos.
+>
+> Acesse a Consulta de [Fiscais de Contratos](https://www.transparencia.mg.gov.br/pagina/fiscais-de-contrato)
