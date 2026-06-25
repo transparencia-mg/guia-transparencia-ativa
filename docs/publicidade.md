@@ -67,4 +67,4 @@ Caso o órgão ou a entidade **não tenha realizado despesas com publicidade** n
 
 > **O(a) (NOME DO ÓRGÃO OU ENTIDADE) informa que não realizou despesas com publicidade no XXº trimestre de XXXX.**
 
-**Data de atualização:** XX/XX/XXXX.
+> **Data de atualização:** XX/XX/XXXX.
