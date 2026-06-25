@@ -17,5 +17,10 @@
 
 > Nesta seção são disponibilizadas a relação das doações e comodatos para o Governo de Minas Gerais, em consonância com o arts. 26 e 27 do Decreto nº 48.444/2022. 
 > 
-> - Acesse [aqui](https://dados.mg.gov.br/dataset/doacoes-comodatos) a relação das doações e comodatos recebidos pelo Governo de Minas Gerais, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE). 
+> - Acesse [aqui](https://dados.mg.gov.br/dataset/doacoes-comodatos) a relação das doações e comodatos recebidos pelo Governo de Minas Gerais, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+
+Caso o órgão ou entidade não publique as informações de doações ou comodatos no link do Portal de [DadosMG](https://dados.mg.gov.br/dataset/doacoes-comodatos), o órgão deve publicar a sua lista no seu próprio sítio eletrônico, no mesmo mês da publicação no diário oficial.
 >
+**OBSERVAÇÃO:** Na ausência de doações ou comodatos, o órgão ou entidade deverá informar de forma expressa, que não recebeu doações ou possui comodatos, com o seguinte texto:
+
+**Exemplo**: “O(a) (NOME DO ÓRGÃO OU ENTIDADE) não recebeu doações ou comodatos nos últimos 3 anos". Data de atualização: XX/XX/XXXX
