@@ -32,8 +32,10 @@
 
 ### Texto Padrão
 
-> Nesta seção, estão disponíveis informações sobre as obras públicas executadas pelo(a) (NOME DO ÓRGÃO/ENTIDADE), promovendo maior transparência quanto aos investimentos realizados em infraestrutura e melhorias para a sociedade.
+> Nesta seção são disponibilizadas informações sobre as obras públicas executadas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE), promovendo maior transparência quanto aos investimentos realizados e ao acompanhamento da execução das obras públicas.
 >
+> A consulta às obras públicas é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar informações sobre as obras executadas pelos órgãos e entidades do Poder Executivo Estadual, incluindo aquelas sob responsabilidade do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> 
 > Para consultar o detalhamento das obras públicas, acesse a [Consulta de Obras](https://www.transparencia.mg.gov.br/pagina/obras-publicas).
 
 
