@@ -19,10 +19,10 @@
 
 ###	Texto Padrão
 
-> Nesta seção são disponibilizadas informações relativas aos processos de compras estaduais para aquisição de materiais e serviços, bem como os contratos firmados entre o Estado e terceiros.
+> Nesta seção são disponibilizadas informações sobre os processos de compras realizados pelo Estado para a aquisição de bens e a contratação de serviços, bem como sobre os contratos firmados entre o Estado e terceiros.
 > 
-> Acesse os [processos de compras](https://www.transparencia.mg.gov.br/pagina/licitacoes) concluídos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> Consulte os processos de compras concluídos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) na página de [Consulta de Licitações](https://www.transparencia.mg.gov.br/pagina/licitacoes).
 >
-> Acesse o Portal de Compras para consultar os [Procedimentos Licitatórios](https://compras.mg.gov.br/acesso-a-informacoes/consultas/) em andamento no(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> Para acompanhar os procedimentos licitatórios em andamento no(a) (NOME DO ÓRGÃO OU ENTIDADE), acesse a página de [Consultas do Portal de Compras](https://compras.mg.gov.br/acesso-a-informacoes/consultas/)
 > 
-> Acesse o portal do CAGEF para consultar ou solicitar o [Certificado de Regularidade](https://www.cagef.mg.gov.br/fornecedor-web/br/gov/prodemge/seplag/fornecedor/publico/index.zul) ou para consultar o CAFIMP (Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual).
+> Caso seja fornecedor ou tenha interesse em contratar com a Administração Pública Estadual, acesse o [Portal CAGEF](https://www.cagef.mg.gov.br/fornecedor-web/br/gov/prodemge/seplag/fornecedor/publico/index.zul) para emitir ou solicitar o Certificado de Regularidade e consultar o [CAFIMP](https://www.cagef.mg.gov.br/fornecedor-web/br/gov/prodemge/seplag/fornecedor/publico/index.zul) (Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual).
