@@ -33,8 +33,10 @@ Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtra
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas informações referentes à transferência de recursos públicos para os órgão e entidades do Estado de Minas Gerais por meio de convênios de entrada, portarias, acordos, ajustes, transferência especial, dentre outros.
+> Nesta seção são disponibilizadas informações sobre os recursos recebidos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) por meio de convênios de entrada, portarias, acordos, ajustes, transferências especiais e demais instrumentos congêneres, celebrados com a União, municípios, organizações da sociedade civil e outros parceiros, destinados à execução de políticas públicas.
+>
+> A consulta aos Convênios de Entrada de Recursos é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar informações sobre os instrumentos celebrados pelos órgãos e entidades do Poder Executivo Estadual, incluindo aqueles firmados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
-> Para acompanhamento dos recursos recebidos, acesse os links abaixo:
-> 
-> •	[Convênios de Entrada de Recursos](https://www.transparencia.mg.gov.br/pagina/convenios-de-entrada): contemplam a entrada de recursos celebrados por meio dos instrumentos cadastrados como Convênios, Portarias, Temos de Compromisso, Transferências Especiais e Acordos/Ajustes pelo Estado com o Governo Federal, municípios e organizações da Sociedade Civil para execução das políticas públicas estaduais, registrados no SIGCON-Entrada ou na Plataforma +Brasil (sistema de convênios da União).
+> Acesse a consulta de [Convênios de Entrada de Recursos](https://www.transparencia.mg.gov.br/pagina/convenios-de-entrada).
+>
+> A consulta contempla os instrumentos registrados no SIGCON-Entrada e na Plataforma +Brasil, abrangendo convênios, portarias, termos de compromisso, acordos, ajustes, transferências especiais e outros instrumentos congêneres.
