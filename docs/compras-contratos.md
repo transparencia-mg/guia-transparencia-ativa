@@ -21,11 +21,8 @@
 
 > Nesta seção são disponibilizadas informações relativas aos processos de compras estaduais para aquisição de materiais e serviços, bem como os contratos firmados entre o Estado e terceiros.
 > 
+> Acesse os [processos de compras](https://www.transparencia.mg.gov.br/pagina/licitacoes) concluídos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
 > Acesse o Portal de Compras para consultar os [Procedimentos Licitatórios](https://compras.mg.gov.br/acesso-a-informacoes/consultas/) em andamento no(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
-> Acesse os [processos de compras]((https://www.transparencia.mg.gov.br/pagina/licitacoes) concluídos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
->
-> Consulte e emita o [Certificado de Regularidade]( https://www.cagef.mg.gov.br/fornecedor-web/br/gov/prodemge/seplag/fornecedor/publico/index.zul) para Participar de Licitações Públicas no âmbito do Poder Executivo do Estado de Minas Gerais.
-
-
-
+> Acesse o portal do CAGEF para consultar ou solicitar o [Certificado de Regularidade](https://www.cagef.mg.gov.br/fornecedor-web/br/gov/prodemge/seplag/fornecedor/publico/index.zul) ou para consultar o CAFIMP (Cadastro de Fornecedores Impedidos de Licitar e Contratar com a Administração Pública Estadual).
