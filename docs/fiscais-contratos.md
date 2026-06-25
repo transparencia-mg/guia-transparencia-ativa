@@ -27,6 +27,6 @@ Filtro de pesquisa com instrumento que permita inserir ou escolher texto, filtra
 
 ###	Texto Padrão
 > 
-> Nesta seção são disponibilizadas informações relativas a Lista dos Fiscais de Contratos do (NOME DO ÓRGÃO OU ENTIDADE), vigentes e encerrados nos últimos 3 anos
+> Acesse a lista dos fiscais de Contratos celebrados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE), vigentes e encerrados nos últimos 3 anos.
 >
 > [Fiscais de Contratos](https://www.transparencia.mg.gov.br/pagina/fiscais-de-contrato)
