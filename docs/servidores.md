@@ -49,7 +49,7 @@ Caso o órgão ou entidade não possua contratos vigentes de terceirização, es
 
 > O(a) (NOME DO ÓRGÃO OU ENTIDADE) informa que não possui contratos vigentes de prestação de serviços terceirizados.
 
-> Data de atualização: XX/XX/XXXX.
+> **Data de atualização:** XX/XX/XXXX.
 
 **ESTAGIÁRIOS**
 > Nesta seção são disponibilizadas informações sobre os estagiários vinculados ao(à) (NOME DO ÓRGÃO OU ENTIDADE), em conformidade com a legislação aplicável e as normas de transparência pública.
@@ -60,6 +60,6 @@ Caso o órgão ou entidade não possua contratos de estágio vigentes, essa cond
 
 > O(a) (NOME DO ÓRGÃO OU ENTIDADE) informa que não possui estagiários com contrato de estágio vigente.
 
-> Data de atualização: XX/XX/XXXX.
+> **Data de atualização:** XX/XX/XXXX.
 
 
