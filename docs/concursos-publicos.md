@@ -25,21 +25,38 @@ Filtro de Pesquisa com instrumento que permite inserir ou escolher texto, filtra
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas informações sobre os concursos públicos estaduais, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> Nesta seção são disponibilizadas informações sobre os concursos públicos e os processos seletivos promovidos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE), permitindo ao cidadão acompanhar os certames em andamento, os concursos realizados e os processos seletivos destinados ao provimento de cargos, empregos e funções públicas.
 >
-> - Acesse os [Concursos Públicos em Andamento](https://www.mg.gov.br/planejamento/pagina/gestao-de-pessoas/recrutamento-e-selecao/recrutamento-e-selecao), disponíveis na página da Secretaria de Estado de Planejamento e Gestão.
+> **Concursos Públicos em Andamento**
+> A consulta aos Concursos Públicos em Andamento é realizada por meio do portal da Secretaria de Estado de Planejamento e Gestão (Seplag), onde estão disponíveis os editais, cronogramas e demais informações dos certames conduzidos pelo Governo do Estado de Minas Gerais.
 >
-> - Acesse os [Concursos Realizados](https://www.transparencia.mg.gov.br/menu/concursos-e-processos-seletivos-1) pelo próprio órgão/entidade.
+> Acesse a Consulta de [Concursos Públicos em Andamento](https://www.mg.gov.br/planejamento/pagina/gestao-de-pessoas/recrutamento-e-selecao/recrutamento-e-selecao)
 >
-> - Acesse os [Processos Seletivos](DISPONIBLIZAR O LINK DE ACESSO) realizado pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> **Concursos Públicos Realizados**
+>
+> A consulta aos Concursos Públicos Realizados é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar informações sobre os concursos promovidos pelos órgãos e entidades do Poder Executivo Estadual, incluindo aqueles realizados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
+
+**OBSERVAÇÃO:**
+Caso o órgão ou entidade possua Processos Seletivos, deverá ser disponibilizada em formato aberto e editável, contendo, no mínimo:
+> - Identificação do processo seletivo;
+> - Edital;
+> - Quantidade de vagas ofertadas;
+> - Quantidade de vagas efetivamente preenchidas;
+> - Cadastro de reserva ou fila de espera, quando houver;
+> - Prazo de validade do processo seletivo;
+> - Situação do processo seletivo (em andamento, homologado, encerrado etc.).
+
+> **Processos Seletivos**
+>
+> O(a) (NOME DO ÓRGÃO OU ENTIDADE) deverá disponibilizar, em seu sítio eletrônico, informações sobre os processos seletivos realizados, contendo, no mínimo, os dados referentes aos três últimos anos.
+>
+> Acesse a Consulta de Processos Seletivos: (informar o link da página do órgão ou entidade, conforme orientação acima).
 >   
-   
-Na seção de Processos Seletivos, devem ser disponibilizados a lista em formato editável com dados dos três últimos anos, contendo no mínimo as seguintes informações:
-> - Dados do Processo Seletivo
-> - Vagas efetivamente preenchidas
-> - Fila de Espera/Cadastro de reserva
-> - Validade do Concurso
 
-**OBSERVAÇÃO:** Na ausência de Concursos Públicos realizados ou em andamento, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Concursos Realizados” do Portal da Transparência e/ou “Concursos Públicos em Andamento” do sítio da SEPLAG.
+**OBSERVAÇÃO:** 
 
-**Exemplo**: “Não foram realizados Concursos Públicos pelo (a) (NOME DO ÓRGÃO OU ENTIDADE) nos últimos 3 anos". Data de atualização: XX/XX/XXXX
+Caso o órgão ou entidade não possua concursos públicos realizados, concursos em andamento ou processos seletivos no período de referência, essa condição deverá ser informada de forma expressa na página, conforme o modelo abaixo:
+
+> O(A) (NOME DO ÓRGÃO OU ENTIDADE) informa que não realizou concursos públicos nem processos seletivos nos últimos três anos.
+>
+> **Data de atualização: XX/XX/XXXX**
