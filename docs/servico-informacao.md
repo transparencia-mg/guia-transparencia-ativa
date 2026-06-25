@@ -18,16 +18,17 @@
 
 ### Texto Padrão
 
-> Nesta seção são divulgadas informações sobre o Serviço de Informação ao Cidadão (e-SIC), pertinentes ao seu funcionamento, localização e dados de contato no âmbito do(a) (NOME DO ÓRGÃO OU ENTIDADE). 
-> 
-> Em Minas Gerais, os pedidos de acesso à informação são feitos por meio do Sistema Eletrônico de Acesso à Informação – [e-SIC](http://www.acessoainformacao.mg.gov.br), que permite a solicitação e o acompanhamento dos pedidos e recursos.
-> 
-> As solicitações também podem ser realizadas por meio do telefone 155 (ligação gratuita), ou ainda presencialmente em qualquer [Posto Uai](https://www.mg.gov.br/pagina/unidades-de-atendimento-integrado-uai).
-> 
-> Para acessar os relatórios estatísticos com a quantidade de pedidos de acesso à informação recebidos, atendidos e indeferidos, assim como informações estatísticas agregadas, consulte os [Relatórios Gerenciais da Lei de Acesso à Informação](https://acessoainformacao.mg.gov.br/sistema/site/relatorios_estatisticos.aspx).
-> 
-> Disponibilizamos abaixo o nome e o contato do responsável pelo monitoramento dos pedidos de acesso à informação do(a) (NOME DO ÓRGÃO OU ENTIDADE):
+> Nesta seção são disponibilizadas informações sobre o Serviço de Informação ao Cidadão (SIC), incluindo orientações sobre seu funcionamento, formas de atendimento, localização e canais de contato do(a) (NOME DO ÓRGÃO OU ENTIDADE). 
 >
-> - Nome
-> - Telefone
-> - E-mail
+> No Estado de Minas Gerais, os pedidos de acesso à informação são registrados por meio do Sistema Eletrônico de Acesso à Informação [e-SIC](http://www.acessoainformacao.mg.gov.br), que permite ao cidadão solicitar informações, acompanhar o andamento de seus pedidos e interpor recursos, quando necessário.
+>
+> Além do atendimento eletrônico, os pedidos de acesso à informação também podem ser realizados pelo telefone 155 (ligação gratuita) ou presencialmente em qualquer unidade da [UAI – Unidade de Atendimento Integrado](https://www.mg.gov.br/pagina/unidades-de-atendimento-integrado-uai).
+> 
+> Para consultar dados estatísticos sobre a implementação da Lei de Acesso à Informação, como a quantidade de pedidos recebidos, respondidos, indeferidos e demais indicadores de atendimento, acesse os [Relatórios Gerenciais da Lei de Acesso à Informação](https://acessoainformacao.mg.gov.br/sistema/site/relatorios_estatisticos.aspx).
+> 
+> O(a) (NOME DO ÓRGÃO OU ENTIDADE) disponibiliza, a seguir, as informações de contato do responsável pelo monitoramento dos pedidos de acesso à informação no âmbito da instituição.
+>
+> **Responsável pelo monitoramento dos pedidos de acesso à informação**
+> - **Nome**
+> - **Telefone**
+> - **E-mail**
