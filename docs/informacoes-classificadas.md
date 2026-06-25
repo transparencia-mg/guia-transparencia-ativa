@@ -36,17 +36,20 @@ Conferir se o direcionamento do órgão ou entidade está correto no [Portal do 
 
 ### Texto Padrão
 
-> O(a) (NOME DO ÓRGÃO/ENTIDADE) divulga anualmente o rol de informações classificadas em grau de sigilo ultrassecreto, secreto e reservado, bem como o rol de informações desclassificadas, sempre atualizada no dia 1º de junho em cumprimento ao disposto no art. 24 da Lei Federal nº 12.527/2011 e incisos I e II, art. 46 do Decreto Estadual nº 45.969/2012.
+> Espaço reservado para a divulgação do rol de informações classificadas em grau de sigilo ultrassecreto, secreto e reservado, bem como o rol de informações desclassificadas, d(a) (NOME DO ÓRGÃO/ENTIDADE).
+> As informações são atualziadas anualmente, em cumprimento ao disposto no art. 24 da Lei Federal nº 12.527/2011 e incisos I e II, art. 46 do Decreto Estadual nº 45.969/2012.
 > 
 > Rol de informações classificadas e desclassificadas do(a) (NOME DO ÓRGÃO OU ENTIDADE), até o dia (informar a última data de atualização).
 >
 
 Link para documento elaborado pelo órgão ou entidade, em formato editável (em extensões do tipo txt, csv, odt, calc, rtf, json e outros), conforme orientações da Diretoria de Transparência Passiva da Controladoria-Geral do Estado.
 >
+> Para visualizar a lista completa das informações Classificadas ou Desclassificadas no âmbito do Estado de Minas Gerais, acesse o [Portal do e-SIC](https://acessoainformacao.mg.gov.br/sistema/relatorios/anual/DownloadDados.aspx)
 
 **OBSERVAÇÃO:** Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado, com a respectiva data da última atualização:
 
-> O(A) (NOME DO ÓRGÃO/ENTIDADE) não possui informações classificadas ou desclassificadas nos graus de sigilo reservada, secreta e ultrassecreta, definidos no art. 23 da Lei Federal nº 12.527/11 (Lei de Acesso à Informação), até o dia (informar a última data de atualização)
+> O(A) (NOME DO ÓRGÃO/ENTIDADE) não possui informações classificadas ou desclassificadas nos graus de sigilo reservada, secreta e ultrassecreta, definidos no art. 23 da Lei Federal nº 12.527/11 (Lei de Acesso à Informação), até o dia (informar a última data de atualização).
 > 
+> Para visualizar a lista completa das informações Classificadas ou Desclassificadas no âmbito do Estado de Minas Gerais, acesse o [Portal do e-SIC](https://acessoainformacao.mg.gov.br/sistema/relatorios/anual/DownloadDados.aspx)
 
  
