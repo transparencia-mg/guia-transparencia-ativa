@@ -11,7 +11,7 @@ O objetivo do menu **Transparência** é ter um local único e padronizado que c
 
 ### Legislação
 - [Decreto Estadual nº 45.969/2012 – art. 8º, inc. VI](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=45969&ano=2012);
-- [Resolução SEPLAG nº 29/2016 – art. 9º, inc. II, alínea g](http://www.planejamento.mg.gov.br/sites/default/files/documentos/resolucao_sitios_seplag_29_de_05_07_2016_1.pdf).
+- [Resolução SEPLAG nº 29/2016 – art. 9º, inc. II, alínea g](https://www.mg.gov.br/planejamento/documento/resolucao-seplag-no-29-de-05-de-julho-de-2016).
 
 
 ### Texto Padrão
