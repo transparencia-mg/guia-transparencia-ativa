@@ -36,7 +36,9 @@ Instrumento de filtro de pesquisa que permita inserir ou escolher texto, filtran
 
 **Dados mínimos a serem disponibilizados**
 
-O órgão ou entidade deverá disponibilizar, mensalmente, até o último dia do mês subsequente ao de referência, base de dados em formato aberto e editável contendo, no mínimo, as informações referentes aos três últimos anos.
+O órgão ou entidade deverá disponibilizar, em sítio eletrônico, mensalmente, até o último dia do mês subsequente ao de referência, base de dados em formato aberto e editável contendo, no mínimo, as informações referentes aos três últimos anos. 
+
+O link para o acesso será disponibilizado no Portal da Transparência, cuja atualização ou inclusão do link deve ser solicitado pelo e-mail: transparencia@cge.mg.gov.br
 
 > - Ano de Exercício
 > - Unidade Orçamentária - Código
