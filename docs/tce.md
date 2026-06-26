@@ -14,7 +14,19 @@
 
 ### Texto Padrão
 
-> Nesta seção são disponibilizadas informações relativas aos atos e procedimentos licitatórios enviados ao Tribunal de Contas do Estado de Minas Gerais, nos termos do art. 1º da Lei Estadual nº 23.569/2020.
+> Nesta seção são disponibilizados os atos administrativos e os documentos relativos aos procedimentos licitatórios promovidos pelo(a) (NOME DO ÓRGÃO OU ENTIDADE), em atendimento ao disposto na Lei Estadual nº 23.569, de 13 de janeiro de 2020, garantindo maior transparência e acesso às informações sobre as contratações públicas.
 >
-> - Procedimento Licitatório X (informar o tipo de procedimento licitatório e número)
->    - Lista dos documentos encaminhados, com link para acesso ou pdf do documento.
+> Também são divulgados os atos relativos à dispensa e à inexigibilidade de licitação, aos procedimentos de contratação mediante Parceria Público-Privada (PPP), às concessões, permissões, convênios e demais instrumentos cuja publicação seja exigida pela legislação.
+
+## Obervaçao:
+
+Para cada procedimento licitatório deverão ser disponibilizados, no mínimo:
+
+- Identificação do procedimento licitatório (modalidade, número e objeto);
+- Atos administrativos e documentos encaminhados ao Tribunal de Contas do Estado de Minas Gerais (TCE-MG), quando exigidos;
+- Documentos que compõem o processo licitatório, com acesso em formato eletrônico;
+- Resumo das propostas apresentadas pelos licitantes, especialmente quanto aos preços ofertados e aos prazos, após o encerramento do procedimento;
+- Contrato administrativo celebrado, após sua assinatura;
+- Termos aditivos e demais instrumentos modificativos do contrato, quando houver.
+
+Os documentos deverão permanecer disponíveis para consulta no sítio eletrônico do órgão ou entidade, sem prejuízo das demais publicações exigidas na legislação, inclusive no Diário Oficial do Estado.
