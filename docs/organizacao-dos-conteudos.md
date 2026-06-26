@@ -1,4 +1,6 @@
-# ESTRUTURA DO MENU TRANSPARÊNCIA
+# ORGANIZAÇÃO DOS CONTEÚDOS
+
+## ESTRUTURA DO MENU TRANSPARÊNCIA
 
 A divulgação espontânea de dados e informações em atendimento à Lei de Acesso à Informação deverá ser realizada em seção específica denominada **Transparência**, disponível na **página inicial** dos sítios eletrônicos institucionais dos órgãos e entidades do Poder Executivo Estadual. 
 
