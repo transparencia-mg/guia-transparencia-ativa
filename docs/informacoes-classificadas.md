@@ -41,9 +41,9 @@ Conferir se o direcionamento do órgão ou entidade está correto no [Portal do 
 > As informações são atualizadas anualmente e refletem a situação das informações classificadas e desclassificadas até a data de sua última atualização.
 >
 > **Rol de Informações Classificadas e Desclassificadas**
-> 
+ 
 Disponibilizar o documento contendo o rol das informações classificadas e desclassificadas do(a) (NOME DO ÓRGÃO OU ENTIDADE), atualizado até (informar a data da última atualização), em formato aberto e editável, conforme as orientações da Diretoria de Transparência Passiva da Controladoria-Geral do Estado.
->
+
 > Para consultar a relação completa das informações classificadas e desclassificadas no âmbito do Estado de Minas Gerais, acesse o [Portal do e-SIC](https://acessoainformacao.mg.gov.br/sistema/relatorios/anual/DownloadDados.aspx).
 
 **OBSERVAÇÃO:** 
