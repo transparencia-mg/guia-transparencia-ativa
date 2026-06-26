@@ -1,37 +1,44 @@
-# ORGANIZAÇÃO DOS CONTEÚDOS
+# ESTRUTURA DO MENU TRANSPARÊNCIA
 
-A divulgação de dados e informações de forma espontânea relativas à Lei de Acesso à Informação deve ser feita em seção específica/Menu denominada *Transparência*, e disponibilizada na **página inicial** dos sítios institucionais dos órgãos e entidades. 
+A divulgação espontânea de dados e informações em atendimento à Lei de Acesso à Informação deverá ser realizada em seção específica denominada **Transparência**, disponível na **página inicial** dos sítios eletrônicos institucionais dos órgãos e entidades do Poder Executivo Estadual. 
 
-Os itens a serem divulgados no Menu **Transparência**, serão divididos em três categorias:
+Os conteúdos disponibilizados no menu **Transparência** estão organizados nas seguintes categorias:
 
-- **Divulgação obrigatória:** conteúdos que devem constar obrigatoriamente no Menu **Transparência**, conforme diretrizes da legislação especificada em cada item.
+- **Divulgação obrigatória:** contempla os conteúdos que devem ser disponibilizados obrigatoriamente, conforme a legislação aplicável e as diretrizes estabelecidas neste Guia.
 
-- **Divulgação específica:** conteúdos a serem disponibilizados no Menu **Transparência** por determinados órgãos ou entidades quando atendidas as situações especificadas nos itens, conforme diretrizes da legislação específica.
+- **Divulgação específica:** reúne os conteúdos exigidos apenas para determinados órgãos ou entidades, quando presentes as condições previstas na legislação pertinente.
 
-- **Divulgação opcional:** conteúdos que poderão ser disponibilizados no Menu **Transparência** a critério do órgão ou entidade.
+- **Divulgação opcional:** compreende informações cuja divulgação fica a critério do órgão ou entidade, desde que sejam de interesse público ou decorram de legislação específica.
 
-Todos os itens constantes no menu **Transparência**  deverão apresentar um texto explicativo. As sugestões de textos elencadas neste guia poderão ser utilizadas pelos órgãos e entidades como referência.
+Cada item do menu **Transparência** deverá conter um texto explicativo que descreva seu objetivo e o conteúdo disponibilizado. Os textos sugeridos neste Guia poderão ser utilizados como referência pelos órgãos e entidades.
 
-Os órgãos e entidades do Poder Executivo Estadual devem observar rigorosamente a nomenclatura e a estrutura de menu estabelecidas neste Guia. A nomenclatura e a disposição dos itens de divulgação obrigatória, do menu **Transparência**, será padronizada com o objetivo de criar um local único que concentre as informações mínimas e necessárias de transparência ativa, de modo a facilitar a localização da informação pelo cidadão, e devem observar a seguinte estrutura:
+Com o objetivo de padronizar a transparência ativa e facilitar a localização das informações pelo cidadão, os órgãos e entidades do Poder Executivo Estadual deverão observar a nomenclatura e a estrutura do menu **Transparência** estabelecidas neste Guia.
+
+A estrutura mínima obrigatória do menu **Transparência** é composta pelos seguintes itens:
 
 - [Serviço de Informação ao Cidadão](servico-informacao.md)
 - [Informações Classificadas e Desclassificadas](informacoes-classificadas.md)
+- [Relatório de Gestao](relatorio-gestao.md)
 - [Programas e Ações](programas-acoes.md)
 - [Obras Públicas](obras-publicas.md)
 - [Despesas e Receitas](despesas-receitas.md)
+- [Ordem Cronológica de Pagamento](ordem-cronologica.md)
+- [Despesas com Publicidade](publicidade.md)
 - [Compras e Contratos](compras-contratos.md)
+- [Fiscais de Contratos](fiscais-contratos.md)
 - [Convênios, Repasses e Transferências](convenios-repasses.md)
+- [Acordos de Cooperação Técnica](acordo-cooperacao-tecnica.md)
 - [Convênios de Entrada](convenios-entrada.md)
 - [Servidores](servidores.md)
 - [Concursos Públicos](concursos-publicos.md)
 - [Dados Abertos](dados-abertos.md)
 
-Todos os itens de divulgação obrigatória devem ser criados, ainda que não haja conteúdo a ser divulgado. Nesse caso, deve-se criar o item e nele informar, **de maneira explícita**, que não há, até o momento, conteúdo a ser publicado. 
+Todos os itens de divulgação obrigatória deverão ser disponibilizados, ainda que não exista conteúdo a ser publicado. Nesses casos, a respectiva página deverá permanecer acessível e informar, de forma clara e explícita, que **não há, até o momento, informações disponíveis para divulgação.**
 
-Além dos itens obrigatórios, os órgãos e entidades podem disponibilizar, no menu **Transparência**, outros assuntos estabelecidos em lei que não estão contemplados neste Guia ou que ainda sejam muito demandados pela sociedade ou que sejam considerados de interesse público. Nesses casos, os itens adicionais devem ser inseridos após os itens obrigatórios e específicos, devendo conter um texto explicativo relativo ao seu conteúdo.
+Os órgãos e entidades poderão incluir, após os itens obrigatórios e específicos, outras seções relacionadas à transparência ativa que sejam previstas em legislação específica, atendam a demandas recorrentes da sociedade ou sejam consideradas de relevante interesse público. Esses itens adicionais deverão conter texto explicativo sobre seu conteúdo.
 
-- **Exemplo:** [Lei nº 23.573/2020]( https://www.almg.gov.br/legislacao-mineira/LEI/23573/2020/) que estabelece que o **Departamento de Trânsito de Minas Gerais – Detran-MG** divulgará, trimestralmente, **no seu site**, os valores arrecadados com multas de trânsito, bem como a destinação desses recursos.
+- **Exemplo:** a [Lei nº 23.573/2020]( https://www.almg.gov.br/legislacao-mineira/LEI/23573/2020/) determina que o Departamento de Trânsito de Minas Gerais (Detran-MG) divulgue, trimestralmente, em seu sítio eletrônico, os valores arrecadados com multas de trânsito, bem como a destinação desses recursos.
 
-Como ferramenta de apoio aos órgãos e entidades, apresentamos neste guia para cada item do menu **Transparência**, os objetivos e os impactos desejados com a criação do item, a legislação de referência, a frequência de atualização do item, quando aplicável, e, o texto padrão contendo a descrição do item que poderá ser utilizado pelo órgão ou entidade que assim o desejar.
+Como instrumento de apoio à implementação da transparência ativa, este Guia apresenta, para cada item do menu **Transparência**, seus objetivos, os resultados esperados, a legislação de referência, a periodicidade de atualização — quando aplicável — e um texto padrão que poderá ser adotado ou adaptado pelos órgãos e entidades.
 
-Este Guia deve ser utilizado junto com o ***[checklist](https://transparencia-mg.github.io/guia_transparencia_checklist/)*** disponibilizado pela Controladoria-Geral do Estado, por meio da Superintendência Central de Transparência.
+Este Guia deverá ser utilizado em conjunto com o ***[CHECKLIST DE TRANSPARÊNCIA](https://transparencia-mg.github.io/guia_transparencia_checklist/)***, disponibilizado pela Controladoria-Geral do Estado, por meio da Superintendência Central de Transparência, como instrumento de verificação do atendimento aos requisitos de transparência ativa.
