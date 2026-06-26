@@ -12,9 +12,13 @@ A divulgação dessas informações fortalece a transparência ativa, possibilit
 
 ### Texto Padrão
 
-> Nesta seção devem ser divulgados os Ajustes, Acordos, Termos de Parceria, Convênios e demais instrumentos congêneres que não envolvam transferência ou recebimento de recursos financeiros.
+> Nesta seção são disponibilizadas informações sobre os Acordos de Cooperação Técnica, ajustes, acordos, termos de parceria, convênios e demais instrumentos congêneres celebrados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) que não envolvam transferência ou recebimento de recursos financeiros.
 >
-> Acesse os [Acordos de Cooperação Técnica](https://www.transparencia.mg.gov.br/pagina/acordos-de-cooperacao-tecnica).
+> Esses instrumentos têm por finalidade estabelecer a cooperação entre órgãos e entidades públicas ou entre a Administração Pública e outras instituições, visando à execução conjunta de ações, projetos, atividades, intercâmbio de conhecimentos, compartilhamento de recursos humanos, tecnológicos ou materiais e ao fortalecimento de políticas públicas, sem a realização de repasses financeiros entre as partes.
+>
+> A consulta aos Acordos de Cooperação Técnica é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar os instrumentos celebrados pelos órgãos e entidades do Poder Executivo Estadual, incluindo aqueles firmados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> 
+> Acesse a Consulta de [Acordos de Cooperação Técnica](https://www.transparencia.mg.gov.br/pagina/acordos-de-cooperacao-tecnica).
 
 **OBSERVAÇÃO:** 
 
