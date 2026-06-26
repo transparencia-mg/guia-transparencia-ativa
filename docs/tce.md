@@ -18,7 +18,7 @@
 >
 > Também são divulgados os atos relativos à dispensa e à inexigibilidade de licitação, aos procedimentos de contratação mediante Parceria Público-Privada (PPP), às concessões, permissões, convênios e demais instrumentos cuja publicação seja exigida pela legislação.
 
-## Obervaçao:
+## Obervação:
 
 Para cada procedimento licitatório deverão ser disponibilizados, no mínimo:
 
