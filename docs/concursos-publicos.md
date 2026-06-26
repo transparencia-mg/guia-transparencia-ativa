@@ -35,6 +35,8 @@ Filtro de Pesquisa com instrumento que permite inserir ou escolher texto, filtra
 > **Concursos Públicos Realizados**
 >
 > A consulta aos Concursos Públicos Realizados é realizada por meio do Portal da Transparência do Estado de Minas Gerais, onde é possível acessar informações sobre os concursos promovidos pelos órgãos e entidades do Poder Executivo Estadual, incluindo aqueles realizados pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> Acesse a Consulta de [Concursos Públicos Realizados](https://www.transparencia.mg.gov.br/consultas-1/concursos-e-processos-seletivos/concursos-realizados)
 
 
 **OBSERVAÇÃO:**
