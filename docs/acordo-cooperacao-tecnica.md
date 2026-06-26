@@ -1,4 +1,4 @@
-## ACORDOS DE COOPERAÇÃO TÉCNICA
+## Acordos de Cooperação Técnica
 
 ### Objetivo
 
