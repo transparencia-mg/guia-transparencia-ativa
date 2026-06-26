@@ -17,11 +17,10 @@
 ### Texto Padrão
 
 > Nesta seção são disponibilizados os documentos e as informações referentes à prestação de contas anual do(a) (NOME DO ÓRGÃO/ENTIDADE), em atendimento às normas e às Instruções Normativas do Tribunal de Contas do Estado de Minas Gerais (TCE-MG). O objetivo é assegurar a transparência da gestão pública e possibilitar o acompanhamento da aplicação dos recursos públicos.
->
+
 Para cada exercício, deverão ser disponibilizados, no mínimo, os seguintes documentos:
-> 
+
 **AAAA (ano da prestação de contas)**
-> 
    - Ofício de encaminhamento da prestação de contas;
    - Rol de Responsáveis e
    - Relatórios de Gestão, incluindo:
